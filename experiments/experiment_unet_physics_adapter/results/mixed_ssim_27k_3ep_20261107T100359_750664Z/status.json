@@ -1,15 +1,4 @@
 {
-  "status": "training",
-  "epoch": 1,
-  "batch": 26,
-  "quadruples": 256,
-  "loss_per_plane": [
-    0.929345965385437,
-    0.7063803672790527,
-    0.6517997980117798,
-    0.6202793121337891
-  ],
-  "elapsed_seconds": 964.2709162080027,
-  "mps_allocated_bytes": 1747712,
-  "mps_driver_bytes": 13191806976
+  "status": "completed",
+  "elapsed_seconds": 15845.266233708
 }

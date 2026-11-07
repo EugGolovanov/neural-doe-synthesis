@@ -1,0 +1,4061 @@
+[
+  {
+    "example": 0,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3467030916311584,
+        "pearson": -0.04856764786053485,
+        "pearson_status": "defined",
+        "ssim": 0.1765804365107898
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5943735921345707,
+        "pearson": 0.08897132865221619,
+        "pearson_status": "defined",
+        "ssim": 0.22090357450555848
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.735971456169967,
+        "pearson": -0.24628153701880764,
+        "pearson_status": "defined",
+        "ssim": 0.17717462631819691
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.827727380756035,
+        "pearson": 0.37602715291563116,
+        "pearson_status": "defined",
+        "ssim": 0.09224757831906864
+      }
+    ]
+  },
+  {
+    "example": 1,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.504547402585806,
+        "pearson": -0.1377692840315789,
+        "pearson_status": "defined",
+        "ssim": -0.0011445874744893828
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.8250402563195194,
+        "pearson": 0.18166164966140566,
+        "pearson_status": "defined",
+        "ssim": 0.03998231615366089
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.9497000674287457,
+        "pearson": 0.16628441817070197,
+        "pearson_status": "defined",
+        "ssim": 0.03485635995865272
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.015389342076762,
+        "pearson": -0.14854235277123748,
+        "pearson_status": "defined",
+        "ssim": 0.11844694416704066
+      }
+    ]
+  },
+  {
+    "example": 2,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4349254898574995,
+        "pearson": -0.08911134186146794,
+        "pearson_status": "defined",
+        "ssim": 0.19412929539693027
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.4634391834796916,
+        "pearson": 0.4041122144563319,
+        "pearson_status": "defined",
+        "ssim": 0.15038848096267374
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6242393868299265,
+        "pearson": 0.23705435502434177,
+        "pearson_status": "defined",
+        "ssim": 0.01735488850762346
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.6996641197951055,
+        "pearson": 0.13771030562630188,
+        "pearson_status": "defined",
+        "ssim": -0.004413611941578855
+      }
+    ]
+  },
+  {
+    "example": 3,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.5479256756224102,
+        "pearson": -0.05949355689229651,
+        "pearson_status": "defined",
+        "ssim": 0.23708574895005907
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.4526904107620071,
+        "pearson": 0.334200893350932,
+        "pearson_status": "defined",
+        "ssim": 0.12562545653453636
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.5080018387201959,
+        "pearson": 0.23818079957739707,
+        "pearson_status": "defined",
+        "ssim": 0.03618905807692174
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.5714275403652458,
+        "pearson": 0.24675400357751012,
+        "pearson_status": "defined",
+        "ssim": 0.018273678409870535
+      }
+    ]
+  },
+  {
+    "example": 4,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.673179397039683,
+        "pearson": -0.04900674690268426,
+        "pearson_status": "defined",
+        "ssim": 0.011940724190829456
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.706589360464131,
+        "pearson": 0.3292064717303538,
+        "pearson_status": "defined",
+        "ssim": 0.1223886348285557
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8502439060929567,
+        "pearson": 0.4020378402864285,
+        "pearson_status": "defined",
+        "ssim": 0.201665100107022
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8896662360243066,
+        "pearson": 0.4046928772466044,
+        "pearson_status": "defined",
+        "ssim": 0.09429000237054681
+      }
+    ]
+  },
+  {
+    "example": 5,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.5729937785845072,
+        "pearson": -0.03286841004550561,
+        "pearson_status": "defined",
+        "ssim": 0.25802885922562246
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.479321351109524,
+        "pearson": 0.27935515836124347,
+        "pearson_status": "defined",
+        "ssim": 0.05699404655396848
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.5549617407994765,
+        "pearson": 0.18513150183333202,
+        "pearson_status": "defined",
+        "ssim": 0.006032657341720978
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.6332270100526187,
+        "pearson": 0.2665015676889051,
+        "pearson_status": "defined",
+        "ssim": 0.0069329018656825985
+      }
+    ]
+  },
+  {
+    "example": 6,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4240510051981792,
+        "pearson": -0.02103360004292924,
+        "pearson_status": "defined",
+        "ssim": 0.092120548884816
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.541188900881517,
+        "pearson": 0.05367741055035111,
+        "pearson_status": "defined",
+        "ssim": 0.19276132429075746
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6856496639345853,
+        "pearson": 0.19884160102366197,
+        "pearson_status": "defined",
+        "ssim": 0.006003338957946979
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7684251294517634,
+        "pearson": 0.31893851020197017,
+        "pearson_status": "defined",
+        "ssim": 0.06513010651300795
+      }
+    ]
+  },
+  {
+    "example": 7,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.525855733844541,
+        "pearson": 0.055436208120388776,
+        "pearson_status": "defined",
+        "ssim": 0.014208554096827301
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 2.8348248043502213,
+        "pearson": 0.16665610288419108,
+        "pearson_status": "defined",
+        "ssim": 0.030897250307689483
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 2.6264767641297158,
+        "pearson": 0.3700246114532954,
+        "pearson_status": "defined",
+        "ssim": 0.0668811029446988
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.483729414341401,
+        "pearson": 0.33653089620945364,
+        "pearson_status": "defined",
+        "ssim": 0.016350976568880595
+      }
+    ]
+  },
+  {
+    "example": 8,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3775037998631614,
+        "pearson": -0.2121033328836126,
+        "pearson_status": "defined",
+        "ssim": -0.01096710765392
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.600380700181931,
+        "pearson": -0.007587270827810088,
+        "pearson_status": "defined",
+        "ssim": 0.18810025034207764
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.732061753276436,
+        "pearson": 0.23808887371087492,
+        "pearson_status": "defined",
+        "ssim": 0.22281467066625923
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8104005226077304,
+        "pearson": 0.23217309302538927,
+        "pearson_status": "defined",
+        "ssim": -0.005748380590685006
+      }
+    ]
+  },
+  {
+    "example": 9,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4459840736014062,
+        "pearson": -0.10555241867351119,
+        "pearson_status": "defined",
+        "ssim": -0.01867619122093409
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6446068540694552,
+        "pearson": 0.2549405344778586,
+        "pearson_status": "defined",
+        "ssim": 0.060768563268826695
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7566721777547563,
+        "pearson": -0.21495286742065864,
+        "pearson_status": "defined",
+        "ssim": 0.12735870148038522
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8371106108024173,
+        "pearson": 0.5527210054827237,
+        "pearson_status": "defined",
+        "ssim": 0.10860406592901053
+      }
+    ]
+  },
+  {
+    "example": 10,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.2174035275566795,
+        "pearson": -0.08607131618309485,
+        "pearson_status": "defined",
+        "ssim": 0.3454273209815894
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.4243530137751643,
+        "pearson": 0.22194260475598357,
+        "pearson_status": "defined",
+        "ssim": 0.04541169777594772
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.5284460310993562,
+        "pearson": 0.296745728643391,
+        "pearson_status": "defined",
+        "ssim": 0.10066569942242898
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.5806456851460549,
+        "pearson": 0.4206711799236582,
+        "pearson_status": "defined",
+        "ssim": 0.11706684726892136
+      }
+    ]
+  },
+  {
+    "example": 11,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.5357367794574783,
+        "pearson": -0.06138213184149967,
+        "pearson_status": "defined",
+        "ssim": 0.1152372391146367
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7057996486447256,
+        "pearson": 0.14014001303837628,
+        "pearson_status": "defined",
+        "ssim": 0.02464137341538194
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8698094659800875,
+        "pearson": 0.23216181164737335,
+        "pearson_status": "defined",
+        "ssim": 0.03172487350124669
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9309921139523716,
+        "pearson": -0.04829597865006509,
+        "pearson_status": "defined",
+        "ssim": 0.1724858582242549
+      }
+    ]
+  },
+  {
+    "example": 12,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4461690269336485,
+        "pearson": -0.04069896249344676,
+        "pearson_status": "defined",
+        "ssim": 0.24956062695560313
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.690364215109794,
+        "pearson": -0.10815235521237797,
+        "pearson_status": "defined",
+        "ssim": 0.2979820433732869
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8218219159890345,
+        "pearson": 0.37282041681981065,
+        "pearson_status": "defined",
+        "ssim": 0.1964512185370911
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9075899117278574,
+        "pearson": -0.08787699481142323,
+        "pearson_status": "defined",
+        "ssim": 0.1666759058285614
+      }
+    ]
+  },
+  {
+    "example": 13,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.9310374381720643,
+        "pearson": -0.055805342778263406,
+        "pearson_status": "defined",
+        "ssim": 0.01757524723462225
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 2.099451464416725,
+        "pearson": 0.4677984233478833,
+        "pearson_status": "defined",
+        "ssim": 0.16615962485973207
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8551464868708343,
+        "pearson": 0.5015252819510653,
+        "pearson_status": "defined",
+        "ssim": 0.12426219145124622
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7758175544764756,
+        "pearson": 0.3075404399878927,
+        "pearson_status": "defined",
+        "ssim": 0.01934865806098171
+      }
+    ]
+  },
+  {
+    "example": 14,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3227933440354955,
+        "pearson": -0.12909032096914594,
+        "pearson_status": "defined",
+        "ssim": 0.19312638577724314
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.4989694322560263,
+        "pearson": 0.2622374017518525,
+        "pearson_status": "defined",
+        "ssim": 0.10654230177084033
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.661603303550639,
+        "pearson": -0.15745594089166665,
+        "pearson_status": "defined",
+        "ssim": 0.20426572979200056
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.724750630504351,
+        "pearson": 0.26557844140664016,
+        "pearson_status": "defined",
+        "ssim": 0.004998714231599109
+      }
+    ]
+  },
+  {
+    "example": 15,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4530661032927497,
+        "pearson": -0.10235855672327758,
+        "pearson_status": "defined",
+        "ssim": 0.0279681771700319
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7088144807428187,
+        "pearson": 0.10665227604477705,
+        "pearson_status": "defined",
+        "ssim": 0.003366031742750573
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.831944277697008,
+        "pearson": -0.07911593267567867,
+        "pearson_status": "defined",
+        "ssim": 0.13512829086614409
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.934681099079858,
+        "pearson": 0.3818764074120048,
+        "pearson_status": "defined",
+        "ssim": 0.16362963384407603
+      }
+    ]
+  },
+  {
+    "example": 16,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3275428387526123,
+        "pearson": -0.09696877677332089,
+        "pearson_status": "defined",
+        "ssim": 0.3829324856803215
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5425077115182815,
+        "pearson": 0.3697511486945334,
+        "pearson_status": "defined",
+        "ssim": 0.11507514912126215
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6650870537890117,
+        "pearson": -0.20498952941296356,
+        "pearson_status": "defined",
+        "ssim": 0.15024953224000426
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.768886740549229,
+        "pearson": 0.3096444890825891,
+        "pearson_status": "defined",
+        "ssim": 0.09000127145344963
+      }
+    ]
+  },
+  {
+    "example": 17,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 3.8844424234132804,
+        "pearson": 0.057923541905274704,
+        "pearson_status": "defined",
+        "ssim": -0.0032552433685787106
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 3.799861513161533,
+        "pearson": 0.19559030654932205,
+        "pearson_status": "defined",
+        "ssim": 0.011383301945723434
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 4.609421110790855,
+        "pearson": 0.21446496240316582,
+        "pearson_status": "defined",
+        "ssim": 0.005443936600166786
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 3.2157796683863773,
+        "pearson": 0.2639253721058085,
+        "pearson_status": "defined",
+        "ssim": 0.006956622098685717
+      }
+    ]
+  },
+  {
+    "example": 18,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4029665436510124,
+        "pearson": -0.09895120295877964,
+        "pearson_status": "defined",
+        "ssim": -0.006460978287379893
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6551542323563946,
+        "pearson": 0.19002008887449273,
+        "pearson_status": "defined",
+        "ssim": 0.04510094338959985
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7807996290549863,
+        "pearson": -0.14030027196300776,
+        "pearson_status": "defined",
+        "ssim": 0.1485600079435031
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8598553077262425,
+        "pearson": 0.4034261410530726,
+        "pearson_status": "defined",
+        "ssim": 0.1823900152443818
+      }
+    ]
+  },
+  {
+    "example": 19,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3698283269635843,
+        "pearson": -0.1541463994211076,
+        "pearson_status": "defined",
+        "ssim": -0.0004666122203637916
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6224159073439814,
+        "pearson": 0.26753743586918666,
+        "pearson_status": "defined",
+        "ssim": 0.19620380950959052
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7328713859571956,
+        "pearson": -0.2453859923020582,
+        "pearson_status": "defined",
+        "ssim": 0.18167266995393197
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8301442857734955,
+        "pearson": 0.2401354836267784,
+        "pearson_status": "defined",
+        "ssim": 0.018959430464132048
+      }
+    ]
+  },
+  {
+    "example": 20,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 3.244583050320858,
+        "pearson": -0.002331728611144463,
+        "pearson_status": "defined",
+        "ssim": -0.009487093474991805
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 3.0703633959924903,
+        "pearson": 0.21604513008444604,
+        "pearson_status": "defined",
+        "ssim": 0.02196028183386642
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 3.5071784467006526,
+        "pearson": 0.30445433916915826,
+        "pearson_status": "defined",
+        "ssim": 0.020581369607270857
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 3.3886567006518953,
+        "pearson": 0.271962977865342,
+        "pearson_status": "defined",
+        "ssim": 0.006076761930336902
+      }
+    ]
+  },
+  {
+    "example": 21,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.420128072176596,
+        "pearson": -0.09784032119543254,
+        "pearson_status": "defined",
+        "ssim": 0.13358973643087993
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6824217129932244,
+        "pearson": 0.18236762159445596,
+        "pearson_status": "defined",
+        "ssim": 0.029709145507170295
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7710693323827142,
+        "pearson": -0.04012101519140171,
+        "pearson_status": "defined",
+        "ssim": 0.17778655505250648
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8823606907585557,
+        "pearson": 0.3353864164629661,
+        "pearson_status": "defined",
+        "ssim": 0.025467111594113474
+      }
+    ]
+  },
+  {
+    "example": 22,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.313857420012019,
+        "pearson": -0.17532454503799544,
+        "pearson_status": "defined",
+        "ssim": 0.1960452593026616
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5799110238777185,
+        "pearson": 0.30922585202842057,
+        "pearson_status": "defined",
+        "ssim": 0.19984955448529992
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7251038903977423,
+        "pearson": 0.30390394746369775,
+        "pearson_status": "defined",
+        "ssim": 0.050163181295997325
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.773290669527266,
+        "pearson": -0.2742926982913532,
+        "pearson_status": "defined",
+        "ssim": 0.15815576030508846
+      }
+    ]
+  },
+  {
+    "example": 23,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4543046971110998,
+        "pearson": -0.13604429288410552,
+        "pearson_status": "defined",
+        "ssim": 0.12849784176648876
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6834989763708543,
+        "pearson": 0.1517848621670214,
+        "pearson_status": "defined",
+        "ssim": 0.007296913048910329
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8459033389102115,
+        "pearson": 0.22381912427666065,
+        "pearson_status": "defined",
+        "ssim": 0.16353425878978725
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.915683215367702,
+        "pearson": 0.20887322345201748,
+        "pearson_status": "defined",
+        "ssim": 0.021478865195669435
+      }
+    ]
+  },
+  {
+    "example": 24,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3910171908818136,
+        "pearson": -0.12914820304676627,
+        "pearson_status": "defined",
+        "ssim": 0.15856218623016963
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6513900030219486,
+        "pearson": 0.19432778477100823,
+        "pearson_status": "defined",
+        "ssim": 0.034045755756750784
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7726317982995954,
+        "pearson": -0.04581634510490187,
+        "pearson_status": "defined",
+        "ssim": 0.1437778430665368
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8382329028925752,
+        "pearson": -0.4812529441983251,
+        "pearson_status": "defined",
+        "ssim": 0.08142349929766625
+      }
+    ]
+  },
+  {
+    "example": 25,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.5809821099136458,
+        "pearson": -0.0916480786737187,
+        "pearson_status": "defined",
+        "ssim": 0.006233909793997074
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.85079829234151,
+        "pearson": 0.3470492764042681,
+        "pearson_status": "defined",
+        "ssim": 0.05851963196103089
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.9728764459211001,
+        "pearson": 0.3332288413665658,
+        "pearson_status": "defined",
+        "ssim": 0.06406346583337046
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.0086637767726314,
+        "pearson": -0.2073014466483846,
+        "pearson_status": "defined",
+        "ssim": 0.11669044863547744
+      }
+    ]
+  },
+  {
+    "example": 26,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.05748902078879,
+        "pearson": 0.0289322037929167,
+        "pearson_status": "defined",
+        "ssim": 0.10754813954287586
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 2.153674259520211,
+        "pearson": 0.3065232210690017,
+        "pearson_status": "defined",
+        "ssim": 0.11194920258528773
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 2.538735189295079,
+        "pearson": 0.388907045470485,
+        "pearson_status": "defined",
+        "ssim": 0.11841881324303989
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.355107277533033,
+        "pearson": 0.6337342184008429,
+        "pearson_status": "defined",
+        "ssim": 0.1437701696485458
+      }
+    ]
+  },
+  {
+    "example": 27,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.5823499724863916,
+        "pearson": -0.013111756201191073,
+        "pearson_status": "defined",
+        "ssim": 0.05745930979344872
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 2.4049025396814154,
+        "pearson": 0.2553939431751633,
+        "pearson_status": "defined",
+        "ssim": 0.047663643612064696
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 2.032021595977037,
+        "pearson": 0.47460983683795166,
+        "pearson_status": "defined",
+        "ssim": 0.10515827277576734
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9434217789337453,
+        "pearson": 0.3079433426764142,
+        "pearson_status": "defined",
+        "ssim": 0.016024876931069524
+      }
+    ]
+  },
+  {
+    "example": 28,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.2821562620655842,
+        "pearson": -0.07134231333967926,
+        "pearson_status": "defined",
+        "ssim": 0.34751201822869193
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.4140497022087295,
+        "pearson": 0.03285786553081561,
+        "pearson_status": "defined",
+        "ssim": 0.13689728421183014
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.5759564870092553,
+        "pearson": 0.24430259905858437,
+        "pearson_status": "defined",
+        "ssim": 0.01915946525224621
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.6617652043377578,
+        "pearson": 0.21348408436177208,
+        "pearson_status": "defined",
+        "ssim": 0.0054537450383531465
+      }
+    ]
+  },
+  {
+    "example": 29,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3532500537477679,
+        "pearson": -0.1488343523958146,
+        "pearson_status": "defined",
+        "ssim": 0.18400077410243582
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5850886456876065,
+        "pearson": 0.4177205518216688,
+        "pearson_status": "defined",
+        "ssim": 0.24207983611692807
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6490687919580806,
+        "pearson": 0.2409431325097497,
+        "pearson_status": "defined",
+        "ssim": 0.15920652028226576
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.6916262754235676,
+        "pearson": 0.3957594804169192,
+        "pearson_status": "defined",
+        "ssim": 0.1423245366573756
+      }
+    ]
+  },
+  {
+    "example": 30,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.497678603134825,
+        "pearson": -0.17326817366030986,
+        "pearson_status": "defined",
+        "ssim": -0.009947141380170969
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7596083089416346,
+        "pearson": 0.40931386479690807,
+        "pearson_status": "defined",
+        "ssim": 0.08867672420832858
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8169733102989936,
+        "pearson": -0.22244338968478355,
+        "pearson_status": "defined",
+        "ssim": 0.1653914357969817
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8537772303625812,
+        "pearson": 0.28269966119001066,
+        "pearson_status": "defined",
+        "ssim": 0.06528680119324919
+      }
+    ]
+  },
+  {
+    "example": 31,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.75061959352373,
+        "pearson": 0.030609346746583648,
+        "pearson_status": "defined",
+        "ssim": 0.05052044872463107
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 2.164997651857295,
+        "pearson": 0.1092154125889401,
+        "pearson_status": "defined",
+        "ssim": -0.002825136640990075
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 2.339067738271752,
+        "pearson": 0.3960079615807684,
+        "pearson_status": "defined",
+        "ssim": 0.06119089015976686
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.3603681094791638,
+        "pearson": 0.17668534297071029,
+        "pearson_status": "defined",
+        "ssim": 0.003777395877649362
+      }
+    ]
+  },
+  {
+    "example": 32,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.329427757545393,
+        "pearson": -0.0011042935082076063,
+        "pearson_status": "defined",
+        "ssim": 0.33370620981987825
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5926883429229175,
+        "pearson": 0.03261836239823609,
+        "pearson_status": "defined",
+        "ssim": 0.3495179594381154
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.714145563149733,
+        "pearson": 0.4575403318859108,
+        "pearson_status": "defined",
+        "ssim": 0.20989851776023247
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8165302442723912,
+        "pearson": 0.044713181171320164,
+        "pearson_status": "defined",
+        "ssim": 0.1960780728021531
+      }
+    ]
+  },
+  {
+    "example": 33,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4680299015196128,
+        "pearson": -0.15239197591297246,
+        "pearson_status": "defined",
+        "ssim": 0.06339134802226208
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7205732956773176,
+        "pearson": 0.20591083486893053,
+        "pearson_status": "defined",
+        "ssim": 0.03989857465939814
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8289720851634612,
+        "pearson": -0.21558447361562955,
+        "pearson_status": "defined",
+        "ssim": 0.1253950403999004
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.883858440537459,
+        "pearson": 0.336872891224455,
+        "pearson_status": "defined",
+        "ssim": 0.16749547542584345
+      }
+    ]
+  },
+  {
+    "example": 34,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.5746258760846252,
+        "pearson": -0.07776052841879967,
+        "pearson_status": "defined",
+        "ssim": 0.2992325887264301
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5471081367452888,
+        "pearson": 0.19468910369833237,
+        "pearson_status": "defined",
+        "ssim": 0.05476231260278048
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.5909896733635696,
+        "pearson": 0.29990503809723484,
+        "pearson_status": "defined",
+        "ssim": 0.05063778445225101
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.6756445376396114,
+        "pearson": 0.30089882635730597,
+        "pearson_status": "defined",
+        "ssim": 0.019054343275053485
+      }
+    ]
+  },
+  {
+    "example": 35,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3885097532058055,
+        "pearson": -0.07626163300442615,
+        "pearson_status": "defined",
+        "ssim": 0.2969907213348104
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.504121739455026,
+        "pearson": 0.14952382864815209,
+        "pearson_status": "defined",
+        "ssim": 0.014666623273131967
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6492746075089144,
+        "pearson": 0.34529979296307,
+        "pearson_status": "defined",
+        "ssim": 0.08024480334548613
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7684358715090625,
+        "pearson": 0.22217838665162448,
+        "pearson_status": "defined",
+        "ssim": -0.004951296757614175
+      }
+    ]
+  },
+  {
+    "example": 36,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.5251322774481848,
+        "pearson": -0.047108257787204115,
+        "pearson_status": "defined",
+        "ssim": 0.14313600048668165
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6012189561731176,
+        "pearson": 0.2998335380141002,
+        "pearson_status": "defined",
+        "ssim": 0.09716660747159056
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6979335848413115,
+        "pearson": 0.23865145236863802,
+        "pearson_status": "defined",
+        "ssim": 0.014491631850273422
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7585220475395111,
+        "pearson": 0.21229794719283018,
+        "pearson_status": "defined",
+        "ssim": -0.002209866485609549
+      }
+    ]
+  },
+  {
+    "example": 37,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4621481980651794,
+        "pearson": -0.12180505772000941,
+        "pearson_status": "defined",
+        "ssim": 0.026298683945340583
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6943438434564024,
+        "pearson": 0.19703478024955134,
+        "pearson_status": "defined",
+        "ssim": 0.05562211323482916
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.741185829068474,
+        "pearson": 0.32059704549433593,
+        "pearson_status": "defined",
+        "ssim": 0.10093119944597959
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9395608063423238,
+        "pearson": 0.27601853635055884,
+        "pearson_status": "defined",
+        "ssim": 0.1857154330058225
+      }
+    ]
+  },
+  {
+    "example": 38,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4232899525361002,
+        "pearson": -0.0839963213585219,
+        "pearson_status": "defined",
+        "ssim": 0.022453793561629937
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6362027906401155,
+        "pearson": 0.10627569510541476,
+        "pearson_status": "defined",
+        "ssim": 0.21581728507948858
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7564743539074426,
+        "pearson": 0.3126292573514126,
+        "pearson_status": "defined",
+        "ssim": 0.06819422629111051
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8536303650909827,
+        "pearson": 0.1180761136244518,
+        "pearson_status": "defined",
+        "ssim": 0.21053343857482318
+      }
+    ]
+  },
+  {
+    "example": 39,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3289044680024211,
+        "pearson": 0.004862101152738126,
+        "pearson_status": "defined",
+        "ssim": 0.3131472989176821
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.396302361368729,
+        "pearson": 0.1473620280161136,
+        "pearson_status": "defined",
+        "ssim": 0.01173893060055669
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.4783399933373227,
+        "pearson": 0.18454201834171802,
+        "pearson_status": "defined",
+        "ssim": 0.038607705264284524
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.5560851628750092,
+        "pearson": 0.29909662690124894,
+        "pearson_status": "defined",
+        "ssim": 0.008959746130263796
+      }
+    ]
+  },
+  {
+    "example": 40,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3324209405243927,
+        "pearson": 0.009736830891614544,
+        "pearson_status": "defined",
+        "ssim": 0.18474878502365694
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5944544638226377,
+        "pearson": 0.21325626328235692,
+        "pearson_status": "defined",
+        "ssim": 0.21854140026474997
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7379784861429033,
+        "pearson": 0.28959483654684454,
+        "pearson_status": "defined",
+        "ssim": 0.04761849483969732
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.820609769728466,
+        "pearson": 0.2270150140426538,
+        "pearson_status": "defined",
+        "ssim": 0.14469096802706552
+      }
+    ]
+  },
+  {
+    "example": 41,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4017807169951384,
+        "pearson": -0.1407323396260556,
+        "pearson_status": "defined",
+        "ssim": 0.20673146664722666
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.416094327252494,
+        "pearson": 0.15399513124686595,
+        "pearson_status": "defined",
+        "ssim": 0.02242044453106161
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.5640906427148216,
+        "pearson": 0.25189835279531414,
+        "pearson_status": "defined",
+        "ssim": 0.01877444539354433
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.650801631873884,
+        "pearson": 0.3581222591274229,
+        "pearson_status": "defined",
+        "ssim": 0.049332446358142656
+      }
+    ]
+  },
+  {
+    "example": 42,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.5422354088908183,
+        "pearson": 0.010643774966877758,
+        "pearson_status": "defined",
+        "ssim": 0.24175578102802783
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7703389659974749,
+        "pearson": 0.310402986989792,
+        "pearson_status": "defined",
+        "ssim": 0.2053736630597327
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.9156292566880626,
+        "pearson": -0.4636971176833527,
+        "pearson_status": "defined",
+        "ssim": 0.1687065399770274
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9514102720039934,
+        "pearson": -0.04415498545501935,
+        "pearson_status": "defined",
+        "ssim": 0.15438663193593308
+      }
+    ]
+  },
+  {
+    "example": 43,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3372593701616324,
+        "pearson": -0.0040778074263608435,
+        "pearson_status": "defined",
+        "ssim": 0.10974106254596971
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5822726094592179,
+        "pearson": 0.014325414894631058,
+        "pearson_status": "defined",
+        "ssim": 0.2109242592268795
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7427351789287957,
+        "pearson": 0.3093764843654959,
+        "pearson_status": "defined",
+        "ssim": 0.06481086084877294
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8183181132012791,
+        "pearson": 0.37086067481785123,
+        "pearson_status": "defined",
+        "ssim": 0.18527902005802782
+      }
+    ]
+  },
+  {
+    "example": 44,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.5172147818576784,
+        "pearson": -0.07243886312052886,
+        "pearson_status": "defined",
+        "ssim": 0.03004659986721993
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7485961647381616,
+        "pearson": 0.24886972440831123,
+        "pearson_status": "defined",
+        "ssim": 0.060129113036941066
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8592307677382034,
+        "pearson": -0.15517405808669957,
+        "pearson_status": "defined",
+        "ssim": 0.19861933928147252
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9333318689484278,
+        "pearson": -0.4280027068638358,
+        "pearson_status": "defined",
+        "ssim": 0.10834609850609861
+      }
+    ]
+  },
+  {
+    "example": 45,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.303025511686767,
+        "pearson": -0.15359149103315003,
+        "pearson_status": "defined",
+        "ssim": 0.2448656533562166
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5386724554026452,
+        "pearson": 0.07841025119870194,
+        "pearson_status": "defined",
+        "ssim": 0.3032491919745643
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6923674999882339,
+        "pearson": -0.04714778327975536,
+        "pearson_status": "defined",
+        "ssim": 0.2124910219709636
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7238668153477055,
+        "pearson": 0.3217001523064166,
+        "pearson_status": "defined",
+        "ssim": 0.07959095383663295
+      }
+    ]
+  },
+  {
+    "example": 46,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.465482637014486,
+        "pearson": -0.07897259886155694,
+        "pearson_status": "defined",
+        "ssim": 0.01713763064328149
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7036745621295863,
+        "pearson": 0.11813161979983054,
+        "pearson_status": "defined",
+        "ssim": 0.14495665962819299
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8613910708844192,
+        "pearson": 0.1743703629042702,
+        "pearson_status": "defined",
+        "ssim": 0.020863760823217913
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.901283896679899,
+        "pearson": -0.03894396459014155,
+        "pearson_status": "defined",
+        "ssim": 0.0948834897236774
+      }
+    ]
+  },
+  {
+    "example": 47,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3852792361004531,
+        "pearson": -0.25796142667153593,
+        "pearson_status": "defined",
+        "ssim": -0.04092528928639032
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5460910938215127,
+        "pearson": -0.32302152318734534,
+        "pearson_status": "defined",
+        "ssim": 0.19717877869431055
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6980124687335905,
+        "pearson": 0.5933693507811374,
+        "pearson_status": "defined",
+        "ssim": 0.22677362141560123
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7546387232130298,
+        "pearson": 0.5716536175259772,
+        "pearson_status": "defined",
+        "ssim": 0.1872388139114976
+      }
+    ]
+  },
+  {
+    "example": 48,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.7275805990717874,
+        "pearson": -0.08003018958549087,
+        "pearson_status": "defined",
+        "ssim": -0.005477840392420604
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7280893312566479,
+        "pearson": 0.2853361817832106,
+        "pearson_status": "defined",
+        "ssim": 0.12214973621887958
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8484288497926034,
+        "pearson": 0.2894107718620677,
+        "pearson_status": "defined",
+        "ssim": 0.046914148414084804
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.960935904973561,
+        "pearson": 0.46990708385176366,
+        "pearson_status": "defined",
+        "ssim": 0.03634851565405623
+      }
+    ]
+  },
+  {
+    "example": 49,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3280750776450843,
+        "pearson": 0.019955423107923462,
+        "pearson_status": "defined",
+        "ssim": 0.35274332368185385
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.580738811821792,
+        "pearson": 0.2586596515582398,
+        "pearson_status": "defined",
+        "ssim": 0.1159265618172859
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7444698714361837,
+        "pearson": 0.21883916643196868,
+        "pearson_status": "defined",
+        "ssim": 0.02390133333934011
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8067511651746542,
+        "pearson": 0.16642198729490487,
+        "pearson_status": "defined",
+        "ssim": 0.14912653241397567
+      }
+    ]
+  },
+  {
+    "example": 50,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4016241012067787,
+        "pearson": -0.09858504411092217,
+        "pearson_status": "defined",
+        "ssim": 0.04514567923826441
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5043297418620716,
+        "pearson": -0.140786662642179,
+        "pearson_status": "defined",
+        "ssim": 0.17061554898052564
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6994752405701268,
+        "pearson": 0.21073644516681295,
+        "pearson_status": "defined",
+        "ssim": 0.02898375907003696
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.749493752087316,
+        "pearson": 0.44792741959967297,
+        "pearson_status": "defined",
+        "ssim": 0.0717372122642468
+      }
+    ]
+  },
+  {
+    "example": 51,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.2329707598993545,
+        "pearson": -0.01048725976084042,
+        "pearson_status": "defined",
+        "ssim": -0.0008455500496061085
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 2.1959849544376633,
+        "pearson": 0.13906132809405392,
+        "pearson_status": "defined",
+        "ssim": 0.007673568528397757
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 2.114073972609672,
+        "pearson": 0.3436471986927829,
+        "pearson_status": "defined",
+        "ssim": 0.03718525164867951
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.2329067416390274,
+        "pearson": 0.4474258259536758,
+        "pearson_status": "defined",
+        "ssim": 0.05698316675296605
+      }
+    ]
+  },
+  {
+    "example": 52,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.9851501321256673,
+        "pearson": -0.11260042720847518,
+        "pearson_status": "defined",
+        "ssim": -0.02354860667080747
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.745386444404041,
+        "pearson": 0.22553073131467014,
+        "pearson_status": "defined",
+        "ssim": 0.13626699048725113
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7347441208462298,
+        "pearson": 0.2648337043239207,
+        "pearson_status": "defined",
+        "ssim": 0.022843800011531447
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7715974011545925,
+        "pearson": 0.26088438426919763,
+        "pearson_status": "defined",
+        "ssim": -0.013450540591889668
+      }
+    ]
+  },
+  {
+    "example": 53,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.418215184880237,
+        "pearson": -0.1801110857250412,
+        "pearson_status": "defined",
+        "ssim": -0.0208397167845506
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6931926469143392,
+        "pearson": 0.18688179872095229,
+        "pearson_status": "defined",
+        "ssim": 0.0360085049661396
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8168104857464478,
+        "pearson": 0.09706601610559733,
+        "pearson_status": "defined",
+        "ssim": 0.17206965539627248
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8684144627720058,
+        "pearson": 0.27001558673894555,
+        "pearson_status": "defined",
+        "ssim": 0.01911133303561698
+      }
+    ]
+  },
+  {
+    "example": 54,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.355937702479987,
+        "pearson": -0.04829880367431927,
+        "pearson_status": "defined",
+        "ssim": 0.3316000193629828
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.4871569073312283,
+        "pearson": 0.09029522673185185,
+        "pearson_status": "defined",
+        "ssim": 0.2828410515779244
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.588584354109349,
+        "pearson": 0.19417451581639078,
+        "pearson_status": "defined",
+        "ssim": 0.05177907812269552
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.676224482201167,
+        "pearson": 0.12857416626751886,
+        "pearson_status": "defined",
+        "ssim": 0.048090467794378346
+      }
+    ]
+  },
+  {
+    "example": 55,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.702328108244648,
+        "pearson": 0.030769457652970886,
+        "pearson_status": "defined",
+        "ssim": 0.13122213579959593
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.8679597177509057,
+        "pearson": 0.18104015605087115,
+        "pearson_status": "defined",
+        "ssim": 0.024857972731569606
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 2.039526616417506,
+        "pearson": 0.24473054338186306,
+        "pearson_status": "defined",
+        "ssim": 0.0751434859649937
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.933613795687601,
+        "pearson": 0.0650067812502827,
+        "pearson_status": "defined",
+        "ssim": 0.1427976550326479
+      }
+    ]
+  },
+  {
+    "example": 56,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.2980430362627895,
+        "pearson": -0.022949105001256166,
+        "pearson_status": "defined",
+        "ssim": 0.30815180708180706
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.507135430574815,
+        "pearson": 0.01628301854583259,
+        "pearson_status": "defined",
+        "ssim": 0.22706631409425673
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6553055224761677,
+        "pearson": 0.2770844330070038,
+        "pearson_status": "defined",
+        "ssim": 0.044348798076485826
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.6980297398949102,
+        "pearson": 0.2528785501366931,
+        "pearson_status": "defined",
+        "ssim": 0.05580268716522771
+      }
+    ]
+  },
+  {
+    "example": 57,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.380347731475036,
+        "pearson": -0.10625002188393393,
+        "pearson_status": "defined",
+        "ssim": 0.20087043181055184
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6327959995111656,
+        "pearson": 0.145442605483484,
+        "pearson_status": "defined",
+        "ssim": 0.01910616240257472
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7361248560468288,
+        "pearson": -0.22852394602534432,
+        "pearson_status": "defined",
+        "ssim": 0.10365457438343686
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.811174349876689,
+        "pearson": 0.22392195102363655,
+        "pearson_status": "defined",
+        "ssim": 0.19295148134474835
+      }
+    ]
+  },
+  {
+    "example": 58,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.2457660498423264,
+        "pearson": -0.10736847808882395,
+        "pearson_status": "defined",
+        "ssim": 0.2095528504789054
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5143907015954552,
+        "pearson": 0.2763166113567492,
+        "pearson_status": "defined",
+        "ssim": 0.06317175498301111
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6775687133202377,
+        "pearson": 0.29874230292685894,
+        "pearson_status": "defined",
+        "ssim": 0.20054889796260283
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7102774324444585,
+        "pearson": 0.43721727254571047,
+        "pearson_status": "defined",
+        "ssim": 0.10828562520083931
+      }
+    ]
+  },
+  {
+    "example": 59,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.2657359550940726,
+        "pearson": -0.054263898353296154,
+        "pearson_status": "defined",
+        "ssim": 0.22767339981317902
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5181969533890536,
+        "pearson": 0.19337264872814364,
+        "pearson_status": "defined",
+        "ssim": 0.017522421271616916
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6746840113982522,
+        "pearson": 0.30931503402883964,
+        "pearson_status": "defined",
+        "ssim": 0.10581482400823075
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7561192613634289,
+        "pearson": 0.22951087153159797,
+        "pearson_status": "defined",
+        "ssim": 0.14815292133035018
+      }
+    ]
+  },
+  {
+    "example": 60,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.6516902563249243,
+        "pearson": 0.03370273166963167,
+        "pearson_status": "defined",
+        "ssim": 0.03679039830940882
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 2.500926096655051,
+        "pearson": 0.38174848997576855,
+        "pearson_status": "defined",
+        "ssim": 0.08291683478218788
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 2.399754490664735,
+        "pearson": 0.4378064840093235,
+        "pearson_status": "defined",
+        "ssim": 0.05163835285919454
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.1868853080526294,
+        "pearson": 0.3722328941119464,
+        "pearson_status": "defined",
+        "ssim": 0.029352982849034228
+      }
+    ]
+  },
+  {
+    "example": 61,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3327988176214811,
+        "pearson": -0.1901628815195904,
+        "pearson_status": "defined",
+        "ssim": 0.26115688009281063
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5796422593998802,
+        "pearson": 0.1768593091016672,
+        "pearson_status": "defined",
+        "ssim": 0.02836459519077397
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7159776428153088,
+        "pearson": 0.39733165466294584,
+        "pearson_status": "defined",
+        "ssim": 0.11896127460566415
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7704102175538985,
+        "pearson": 0.052650657778266934,
+        "pearson_status": "defined",
+        "ssim": 0.1966482807706651
+      }
+    ]
+  },
+  {
+    "example": 62,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.676443401347476,
+        "pearson": 0.013169234384990253,
+        "pearson_status": "defined",
+        "ssim": -0.0008892455068256984
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 2.846794345290294,
+        "pearson": 0.12320152196969146,
+        "pearson_status": "defined",
+        "ssim": -0.0026096691619173825
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 2.5897832558565645,
+        "pearson": 0.31770338332243403,
+        "pearson_status": "defined",
+        "ssim": 0.0294509896181698
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.4750343978027862,
+        "pearson": 0.25743511973505045,
+        "pearson_status": "defined",
+        "ssim": 0.006061870184470855
+      }
+    ]
+  },
+  {
+    "example": 63,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4826242518316848,
+        "pearson": -0.1793128025607627,
+        "pearson_status": "defined",
+        "ssim": -0.005098662200617712
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6171844668332858,
+        "pearson": -0.14515018639130525,
+        "pearson_status": "defined",
+        "ssim": 0.162018836211765
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7446758217377456,
+        "pearson": -0.17894860594120082,
+        "pearson_status": "defined",
+        "ssim": 0.16995692642646304
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.830888112925082,
+        "pearson": 0.22777875945539047,
+        "pearson_status": "defined",
+        "ssim": 0.03245765532645329
+      }
+    ]
+  },
+  {
+    "example": 64,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.5015391031570577,
+        "pearson": -0.035355761607442554,
+        "pearson_status": "defined",
+        "ssim": 0.24722091106989022
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7829315880784427,
+        "pearson": 0.37047708260407436,
+        "pearson_status": "defined",
+        "ssim": 0.21909544673940803
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.9405943108591281,
+        "pearson": 0.25643363160514343,
+        "pearson_status": "defined",
+        "ssim": 0.05111934081940584
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9869791496288065,
+        "pearson": -0.5031998709089563,
+        "pearson_status": "defined",
+        "ssim": 0.028646627753172896
+      }
+    ]
+  },
+  {
+    "example": 65,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3257435017974448,
+        "pearson": -0.06452128269552956,
+        "pearson_status": "defined",
+        "ssim": 0.32012593573969883
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.606785647575048,
+        "pearson": 0.40384015639398696,
+        "pearson_status": "defined",
+        "ssim": 0.2367227277821834
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7361213808959175,
+        "pearson": 0.42092233699360065,
+        "pearson_status": "defined",
+        "ssim": 0.19518719046817026
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8222678091021687,
+        "pearson": 0.11169008031474015,
+        "pearson_status": "defined",
+        "ssim": 0.2203038281058116
+      }
+    ]
+  },
+  {
+    "example": 66,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.9111590604036985,
+        "pearson": 0.03233256157737997,
+        "pearson_status": "defined",
+        "ssim": -0.0010283317683260518
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 3.454702165924027,
+        "pearson": 0.1879678213993944,
+        "pearson_status": "defined",
+        "ssim": 0.007008684781044585
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 3.0665808257301492,
+        "pearson": 0.24838427254058806,
+        "pearson_status": "defined",
+        "ssim": 0.021438246114953305
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.804323390536368,
+        "pearson": 0.21779033095786024,
+        "pearson_status": "defined",
+        "ssim": 0.008095544008798434
+      }
+    ]
+  },
+  {
+    "example": 67,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.9596117629819032,
+        "pearson": -0.07257262091038448,
+        "pearson_status": "defined",
+        "ssim": -0.00329001518633105
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.8194644584017363,
+        "pearson": 0.154987048739991,
+        "pearson_status": "defined",
+        "ssim": 0.003933307630537107
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8920930435305134,
+        "pearson": 0.35847465657885325,
+        "pearson_status": "defined",
+        "ssim": 0.09715056580024696
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9788201772019092,
+        "pearson": 0.5223542139378032,
+        "pearson_status": "defined",
+        "ssim": 0.047479553106741346
+      }
+    ]
+  },
+  {
+    "example": 68,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.2530600200785662,
+        "pearson": -0.05475379257147609,
+        "pearson_status": "defined",
+        "ssim": 0.2089863310579963
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5213684472983724,
+        "pearson": 0.25598640403088324,
+        "pearson_status": "defined",
+        "ssim": 0.14457379331041254
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6813555031040364,
+        "pearson": 0.23557931750983974,
+        "pearson_status": "defined",
+        "ssim": 0.03310346572354393
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7519424470705294,
+        "pearson": 0.016024730960025223,
+        "pearson_status": "defined",
+        "ssim": 0.18749992144565159
+      }
+    ]
+  },
+  {
+    "example": 69,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.093968465080909,
+        "pearson": -0.037936794902161224,
+        "pearson_status": "defined",
+        "ssim": 0.0021517874644909475
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 2.195162115441432,
+        "pearson": 0.2239160814335986,
+        "pearson_status": "defined",
+        "ssim": 0.06929256789097578
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 2.231845955401303,
+        "pearson": 0.2789691138274992,
+        "pearson_status": "defined",
+        "ssim": 0.04308102719607908
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.268427831026184,
+        "pearson": 0.24163690754426462,
+        "pearson_status": "defined",
+        "ssim": 0.01788394706881494
+      }
+    ]
+  },
+  {
+    "example": 70,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.0173743762877394,
+        "pearson": -0.0766838197591119,
+        "pearson_status": "defined",
+        "ssim": -0.00477990145456098
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.9736531590478137,
+        "pearson": 0.20418596616017864,
+        "pearson_status": "defined",
+        "ssim": 0.01938914019645874
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8429735959038724,
+        "pearson": 0.5093058359466937,
+        "pearson_status": "defined",
+        "ssim": 0.0764296771645135
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8141599969896018,
+        "pearson": 0.21433972242837543,
+        "pearson_status": "defined",
+        "ssim": 0.013877769540227052
+      }
+    ]
+  },
+  {
+    "example": 71,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.404305347128884,
+        "pearson": -0.08782932445123243,
+        "pearson_status": "defined",
+        "ssim": 0.0716655288443247
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6120329735457206,
+        "pearson": -0.21026543892899308,
+        "pearson_status": "defined",
+        "ssim": 0.2323054464827124
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.699127286380344,
+        "pearson": 0.2460811091294458,
+        "pearson_status": "defined",
+        "ssim": 0.121442828593675
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7835681887906172,
+        "pearson": 0.2718773452943459,
+        "pearson_status": "defined",
+        "ssim": 0.04426851044759295
+      }
+    ]
+  },
+  {
+    "example": 72,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3590266837777358,
+        "pearson": -0.08815908511976366,
+        "pearson_status": "defined",
+        "ssim": 0.23063303910967714
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.4653708742993485,
+        "pearson": -0.19322945052753923,
+        "pearson_status": "defined",
+        "ssim": 0.15500648286627092
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6138977875517484,
+        "pearson": 0.49304292861168464,
+        "pearson_status": "defined",
+        "ssim": 0.22186220008007365
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7319000220748924,
+        "pearson": 0.2348367330892093,
+        "pearson_status": "defined",
+        "ssim": 0.022357616427620648
+      }
+    ]
+  },
+  {
+    "example": 73,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4810873004319283,
+        "pearson": -0.13781182755966556,
+        "pearson_status": "defined",
+        "ssim": 0.003875838604081064
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6910300451764337,
+        "pearson": 0.0834076578636762,
+        "pearson_status": "defined",
+        "ssim": 0.22089219285449038
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8185655435117747,
+        "pearson": -0.05070491577300865,
+        "pearson_status": "defined",
+        "ssim": 0.17384075371882315
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.866549582284865,
+        "pearson": -0.27718388966111246,
+        "pearson_status": "defined",
+        "ssim": 0.11714296041755605
+      }
+    ]
+  },
+  {
+    "example": 74,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.091280730527855,
+        "pearson": -0.012146257468387465,
+        "pearson_status": "defined",
+        "ssim": 0.01691443578436779
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.8621541292964585,
+        "pearson": 0.15143609561790766,
+        "pearson_status": "defined",
+        "ssim": 0.09439452181355451
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 2.0978361471756455,
+        "pearson": 0.21141245854145793,
+        "pearson_status": "defined",
+        "ssim": 0.01651030860045613
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.372212602249975,
+        "pearson": 0.2535216280118329,
+        "pearson_status": "defined",
+        "ssim": 0.010896099467295004
+      }
+    ]
+  },
+  {
+    "example": 75,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3336704994523372,
+        "pearson": -0.19764426551130423,
+        "pearson_status": "defined",
+        "ssim": 0.11310882625056384
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.50069918166069,
+        "pearson": 0.2026963344750593,
+        "pearson_status": "defined",
+        "ssim": 0.04032667802847251
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.657531606365301,
+        "pearson": 0.2444387117332312,
+        "pearson_status": "defined",
+        "ssim": 0.042973134389725255
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7318970324053318,
+        "pearson": 0.1785890149162651,
+        "pearson_status": "defined",
+        "ssim": 0.13661207357980376
+      }
+    ]
+  },
+  {
+    "example": 76,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4753127682684368,
+        "pearson": -0.07287603794176005,
+        "pearson_status": "defined",
+        "ssim": 0.0571598515295916
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7286407369931902,
+        "pearson": 0.03807963515277383,
+        "pearson_status": "defined",
+        "ssim": 0.2507169763363038
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8839503746569617,
+        "pearson": -0.07814004838577181,
+        "pearson_status": "defined",
+        "ssim": 0.1273121069821614
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9612161643591934,
+        "pearson": 0.15944344841125077,
+        "pearson_status": "defined",
+        "ssim": 0.031270289344065394
+      }
+    ]
+  },
+  {
+    "example": 77,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4677786898361014,
+        "pearson": -0.094883522645346,
+        "pearson_status": "defined",
+        "ssim": 0.06575563957771578
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7194943646401268,
+        "pearson": 0.140935947623684,
+        "pearson_status": "defined",
+        "ssim": 0.05168091888208363
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8209070079969003,
+        "pearson": 0.26799804340410743,
+        "pearson_status": "defined",
+        "ssim": 0.040447494624989415
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.927192583032327,
+        "pearson": -0.26409668747556775,
+        "pearson_status": "defined",
+        "ssim": 0.10163635064105049
+      }
+    ]
+  },
+  {
+    "example": 78,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4100462559712943,
+        "pearson": -0.25453508259931645,
+        "pearson_status": "defined",
+        "ssim": -0.0313844306942303
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6562544356068682,
+        "pearson": -0.2107777986839714,
+        "pearson_status": "defined",
+        "ssim": 0.205210855136897
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7704602050733709,
+        "pearson": 0.31342599117366443,
+        "pearson_status": "defined",
+        "ssim": 0.13802893745249967
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8334346439488185,
+        "pearson": 0.4773496712535745,
+        "pearson_status": "defined",
+        "ssim": 0.14082954949444595
+      }
+    ]
+  },
+  {
+    "example": 79,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.6178883672038473,
+        "pearson": 0.02679972602853059,
+        "pearson_status": "defined",
+        "ssim": 0.01026696897857138
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5379605461760966,
+        "pearson": 0.2908193447993941,
+        "pearson_status": "defined",
+        "ssim": 0.24161278745986106
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.5880096864927908,
+        "pearson": 0.24736972189489417,
+        "pearson_status": "defined",
+        "ssim": 0.02507743752067419
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.64396940145046,
+        "pearson": 0.2840976419228827,
+        "pearson_status": "defined",
+        "ssim": 0.005267983968896087
+      }
+    ]
+  },
+  {
+    "example": 80,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.6938755114548656,
+        "pearson": -0.13762143979563055,
+        "pearson_status": "defined",
+        "ssim": -0.012660071277825473
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7440652918468542,
+        "pearson": 0.18437390676436197,
+        "pearson_status": "defined",
+        "ssim": 0.01764889207635514
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8290352028360746,
+        "pearson": 0.2093874886535522,
+        "pearson_status": "defined",
+        "ssim": 0.028088765896881727
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9083213488082666,
+        "pearson": 0.3499410770479794,
+        "pearson_status": "defined",
+        "ssim": 0.1550668730075432
+      }
+    ]
+  },
+  {
+    "example": 81,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3845004135457575,
+        "pearson": -0.007526590707714353,
+        "pearson_status": "defined",
+        "ssim": 0.20199062531595519
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.60300147338906,
+        "pearson": 0.24930871340836847,
+        "pearson_status": "defined",
+        "ssim": 0.08094719026266303
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7334838440764586,
+        "pearson": -0.18670140147249917,
+        "pearson_status": "defined",
+        "ssim": 0.21507665551807875
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8743495259762117,
+        "pearson": 0.255041088120031,
+        "pearson_status": "defined",
+        "ssim": 0.03690160290552975
+      }
+    ]
+  },
+  {
+    "example": 82,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.2158889058120905,
+        "pearson": -0.11525909831638119,
+        "pearson_status": "defined",
+        "ssim": 0.2948337308227175
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.4911189650777534,
+        "pearson": -0.11728533389054056,
+        "pearson_status": "defined",
+        "ssim": 0.19381310284660197
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.585638309442141,
+        "pearson": 0.33753569974889336,
+        "pearson_status": "defined",
+        "ssim": 0.20034680380516257
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.6806523749897204,
+        "pearson": 0.3803512484554923,
+        "pearson_status": "defined",
+        "ssim": 0.046223560227530484
+      }
+    ]
+  },
+  {
+    "example": 83,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.457174003919935,
+        "pearson": -0.024166940120924223,
+        "pearson_status": "defined",
+        "ssim": 0.05957500148099264
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6589256133258392,
+        "pearson": 0.20259728885561273,
+        "pearson_status": "defined",
+        "ssim": 0.09821943301696456
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7938246550104255,
+        "pearson": -0.10423674529884679,
+        "pearson_status": "defined",
+        "ssim": 0.207317273989346
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8816335193467741,
+        "pearson": 0.48603393848477006,
+        "pearson_status": "defined",
+        "ssim": 0.15179065406096218
+      }
+    ]
+  },
+  {
+    "example": 84,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 3.444973910010845,
+        "pearson": 0.03387095575511848,
+        "pearson_status": "defined",
+        "ssim": 0.0039904305488004865
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 4.351793270515874,
+        "pearson": 0.12790527098002788,
+        "pearson_status": "defined",
+        "ssim": 0.01994095774432331
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 3.0973182511912722,
+        "pearson": 0.10740067931350294,
+        "pearson_status": "defined",
+        "ssim": 0.0046557422530559
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 3.24980084048167,
+        "pearson": 0.2351806453411617,
+        "pearson_status": "defined",
+        "ssim": 0.010487666803335275
+      }
+    ]
+  },
+  {
+    "example": 85,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4681112767408866,
+        "pearson": -0.06797094548701049,
+        "pearson_status": "defined",
+        "ssim": 0.005743444449417782
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6064159533285112,
+        "pearson": 0.16909592233065251,
+        "pearson_status": "defined",
+        "ssim": 0.02487707884377592
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7690365370145924,
+        "pearson": -0.31435459294016543,
+        "pearson_status": "defined",
+        "ssim": 0.05138830634403631
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.923153068724996,
+        "pearson": 0.26739064565617265,
+        "pearson_status": "defined",
+        "ssim": 0.05317125945343433
+      }
+    ]
+  },
+  {
+    "example": 86,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3737671332098291,
+        "pearson": -0.01047175907808856,
+        "pearson_status": "defined",
+        "ssim": 0.22200850807328165
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6155265136918844,
+        "pearson": -0.0729549101540324,
+        "pearson_status": "defined",
+        "ssim": 0.13961124969611322
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7539154586508052,
+        "pearson": 0.27216948082786674,
+        "pearson_status": "defined",
+        "ssim": 0.06074389723764321
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8510940268702287,
+        "pearson": -0.327801450442116,
+        "pearson_status": "defined",
+        "ssim": 0.09234483452179584
+      }
+    ]
+  },
+  {
+    "example": 87,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 2.477409826325948,
+        "pearson": 0.05342031902496978,
+        "pearson_status": "defined",
+        "ssim": 0.009329199906627329
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 2.7019205670034645,
+        "pearson": 0.18652410861559435,
+        "pearson_status": "defined",
+        "ssim": 0.013285138559110614
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 2.459367292264392,
+        "pearson": 0.37610766914080174,
+        "pearson_status": "defined",
+        "ssim": 0.01782678329843061
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.4384016344570534,
+        "pearson": 0.22958939774823253,
+        "pearson_status": "defined",
+        "ssim": 0.008648583901671883
+      }
+    ]
+  },
+  {
+    "example": 88,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4638833903911583,
+        "pearson": -0.12536601475221007,
+        "pearson_status": "defined",
+        "ssim": -0.0087590648821126
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6410717902959577,
+        "pearson": 0.2209213736642131,
+        "pearson_status": "defined",
+        "ssim": 0.0861667202557292
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7707000393967582,
+        "pearson": -0.17876870345416926,
+        "pearson_status": "defined",
+        "ssim": 0.1548739772297387
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.838770681425791,
+        "pearson": 0.5926707923131067,
+        "pearson_status": "defined",
+        "ssim": 0.13204979499810712
+      }
+    ]
+  },
+  {
+    "example": 89,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.5543499993044656,
+        "pearson": -0.016136143737671665,
+        "pearson_status": "defined",
+        "ssim": 0.24175108857523406
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7440190942785396,
+        "pearson": 0.2244448724035205,
+        "pearson_status": "defined",
+        "ssim": 0.05970776914418851
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.959529305479423,
+        "pearson": 0.06495553812778543,
+        "pearson_status": "defined",
+        "ssim": 0.06943689079637183
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9379751494319077,
+        "pearson": -0.4449583532362447,
+        "pearson_status": "defined",
+        "ssim": 0.1353230727290392
+      }
+    ]
+  },
+  {
+    "example": 90,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4503594791043493,
+        "pearson": -0.2533118625668142,
+        "pearson_status": "defined",
+        "ssim": 0.022817514755415803
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7111527861625129,
+        "pearson": -0.17196727912193274,
+        "pearson_status": "defined",
+        "ssim": 0.24704539687261634
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8462046718523608,
+        "pearson": -0.06411173438261465,
+        "pearson_status": "defined",
+        "ssim": 0.0819025545470694
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9211818309461528,
+        "pearson": 0.3096166323075035,
+        "pearson_status": "defined",
+        "ssim": 0.05322070335475496
+      }
+    ]
+  },
+  {
+    "example": 91,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4386750899313356,
+        "pearson": 0.0692108068300502,
+        "pearson_status": "defined",
+        "ssim": 0.18078946918586453
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.5985824195768126,
+        "pearson": 0.0553211161791441,
+        "pearson_status": "defined",
+        "ssim": 0.24009411666293567
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7564762898061894,
+        "pearson": 0.39043897821726586,
+        "pearson_status": "defined",
+        "ssim": 0.1431912932977629
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8049764900772851,
+        "pearson": 0.6177564409665708,
+        "pearson_status": "defined",
+        "ssim": 0.19536927198446188
+      }
+    ]
+  },
+  {
+    "example": 92,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.439941599175033,
+        "pearson": -0.06673658536951421,
+        "pearson_status": "defined",
+        "ssim": 0.43677400988893905
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.4171051507062082,
+        "pearson": 0.27579369932463604,
+        "pearson_status": "defined",
+        "ssim": 0.05743581358362793
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.5585759030400792,
+        "pearson": 0.20870737252662033,
+        "pearson_status": "defined",
+        "ssim": 0.029903261959554783
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.5978774155932527,
+        "pearson": 0.752819282802435,
+        "pearson_status": "defined",
+        "ssim": 0.2282799136735424
+      }
+    ]
+  },
+  {
+    "example": 93,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.4693635380801475,
+        "pearson": -0.020672436583567474,
+        "pearson_status": "defined",
+        "ssim": 0.10136540941638361
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.7137703461915386,
+        "pearson": 0.15305870460827722,
+        "pearson_status": "defined",
+        "ssim": 0.1352147521247366
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.8307078539870232,
+        "pearson": 0.08097220329572044,
+        "pearson_status": "defined",
+        "ssim": 0.18552678810504597
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.9087543132267581,
+        "pearson": -0.13946728831711538,
+        "pearson_status": "defined",
+        "ssim": 0.09085007203019799
+      }
+    ]
+  },
+  {
+    "example": 94,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 3.1197584096588025,
+        "pearson": 0.06215930674919487,
+        "pearson_status": "defined",
+        "ssim": 0.0014374817361251465
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 3.2634312367579543,
+        "pearson": 0.2594477343680949,
+        "pearson_status": "defined",
+        "ssim": 0.035131306538792595
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 3.3761038341486045,
+        "pearson": 0.15048209026022125,
+        "pearson_status": "defined",
+        "ssim": 0.0033739968946180396
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.710737733051645,
+        "pearson": 0.2050264279122315,
+        "pearson_status": "defined",
+        "ssim": 0.008200283591631977
+      }
+    ]
+  },
+  {
+    "example": 95,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.284562153612937,
+        "pearson": -0.033279271794447556,
+        "pearson_status": "defined",
+        "ssim": 0.42869839422108685
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.543166211845039,
+        "pearson": 0.06537685317159211,
+        "pearson_status": "defined",
+        "ssim": 0.13434272035249853
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.6814669203280046,
+        "pearson": 0.2679597199880181,
+        "pearson_status": "defined",
+        "ssim": 0.04390120943545779
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.7392252252272222,
+        "pearson": -0.42750156019458746,
+        "pearson_status": "defined",
+        "ssim": 0.1606065898370246
+      }
+    ]
+  },
+  {
+    "example": 96,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.2128236924927998,
+        "pearson": -0.09646396277901065,
+        "pearson_status": "defined",
+        "ssim": 0.21373202404821035
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.433451408070539,
+        "pearson": -0.3618218601974249,
+        "pearson_status": "defined",
+        "ssim": 0.15381296209939638
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.5941827203036933,
+        "pearson": 0.3240801977586103,
+        "pearson_status": "defined",
+        "ssim": 0.054396039043931345
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.6699002540740049,
+        "pearson": 0.2255267503310228,
+        "pearson_status": "defined",
+        "ssim": 0.0326210181474766
+      }
+    ]
+  },
+  {
+    "example": 97,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 1.3780533534976687,
+        "pearson": -0.17855015726505777,
+        "pearson_status": "defined",
+        "ssim": -0.01299510967535085
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 1.6044022379989509,
+        "pearson": 0.21778299818693347,
+        "pearson_status": "defined",
+        "ssim": 0.20667737552528226
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 1.7796247444986932,
+        "pearson": -0.051457803435170486,
+        "pearson_status": "defined",
+        "ssim": 0.14150901137598304
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 1.8418139980869113,
+        "pearson": 0.15639850882904047,
+        "pearson_status": "defined",
+        "ssim": -0.005135472190816949
+      }
+    ]
+  },
+  {
+    "example": 98,
+    "planes": [
+      {
+        "plane": 1,
+        "z_m": 0.0241,
+        "output_pitch_m": 1.00165625e-05,
+        "maximum": 3.714783578182804,
+        "pearson": 0.04219216281526294,
+        "pearson_status": "defined",
+        "ssim": 0.014185655861383446
+      },
+      {
+        "plane": 2,
+        "z_m": 0.0253,
+        "output_pitch_m": 1.05153125e-05,
+        "maximum": 3.5027100124204433,
+        "pearson": 0.20061738098054083,
+        "pearson_status": "defined",
+        "ssim": 0.01202669785980941
+      },
+      {
+        "plane": 3,
+        "z_m": 0.0265,
+        "output_pitch_m": 1.1014062500000001e-05,
+        "maximum": 3.302721690148997,
+        "pearson": 0.2162510972251657,
+        "pearson_status": "defined",
+        "ssim": 0.007915912954066148
+      },
+      {
+        "plane": 4,
+        "z_m": 0.0277,
+        "output_pitch_m": 1.15128125e-05,
+        "maximum": 2.8616893372414567,
+        "pearson": 0.29875383943046957,
+        "pearson_status": "defined",
+        "ssim": 0.009396254965624363
+      }
+    ]
+  }
+]
