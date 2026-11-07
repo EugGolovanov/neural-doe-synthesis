@@ -1,0 +1,84 @@
+{
+  "index": 27,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 100,
+      "topLeftY": 68,
+      "bottomRightX": 671,
+      "bottomRightY": 117,
+      "content": "восстановленном изображении. В качестве исходного объекта использовалась сцена на рис. 2.2 (б).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 126,
+      "bottomRightX": 671,
+      "bottomRightY": 176,
+      "content": "Результат эксперимента по исследованию зависимости коэффициента корреляции от количества плоскостей представлен на рис. 2.5.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 142,
+      "topLeftY": 211,
+      "bottomRightX": 655,
+      "bottomRightY": 505,
+      "content": "![img-26.jpeg](img-26.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-26.jpeg"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 517,
+      "bottomRightX": 649,
+      "bottomRightY": 537,
+      "content": "Рис. 2.5. Зависимость коэффициента корреляции от количества плоскостей",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 575,
+      "bottomRightX": 671,
+      "bottomRightY": 742,
+      "content": "По качеству восстановления оптимальным методом для синтеза ДОЭ является метод на основе невыпуклой оптимизации. Среднее значение коэффициента корреляции для метода на основе невыпуклой оптимизации превышает среднее значение коэффициента корреляции для глобального метода «пинг-понг» на 7%, для последовательного метода «пинг-понг» - на 652%, для метода суперпозиций – на 82%.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 750,
+      "bottomRightX": 671,
+      "bottomRightY": 857,
+      "content": "Была проанализирована зависимость времени синтеза ДОЭ выбранными методами от количества плоскостей в объемной сцене. В качестве исходного объекта использовалась сцена с рис. 2.2(а), продублированная 5 раз на 25 плоскостей.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 868,
+      "bottomRightX": 671,
+      "bottomRightY": 917,
+      "content": "Результат эксперимента по исследованию зависимости времени расчета ДОЭ от количества плоскостей в объемной сцене представлен на рис. 2.6.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 649,
+      "topLeftY": 984,
+      "bottomRightX": 671,
+      "bottomRightY": 1001,
+      "content": "28",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

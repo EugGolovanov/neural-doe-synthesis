@@ -1,0 +1,103 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 143,
+      "topLeftY": 67,
+      "bottomRightX": 358,
+      "bottomRightY": 89,
+      "content": "## Метод Герчберга-Сэкстона",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 98,
+      "bottomRightX": 672,
+      "bottomRightY": 233,
+      "content": "Метод Герчберга-Сэкстона (ГС) – это итеративный метод для синтеза фазового ДОЭ, формирующего заданное распределение интенсивности когерентного монохроматического света в некоторой плоскости. На рис. 1.2 представлен киноформ, синтезированный с использованием метода Герчберга-Сэкстона, и изображение, восстановленное с него.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 154,
+      "topLeftY": 280,
+      "bottomRightX": 327,
+      "bottomRightY": 454,
+      "content": "![img-1.jpeg](img-1.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-1.jpeg"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 464,
+      "bottomRightX": 253,
+      "bottomRightY": 483,
+      "content": "(а)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 442,
+      "topLeftY": 280,
+      "bottomRightX": 615,
+      "bottomRightY": 454,
+      "content": "![img-2.jpeg](img-2.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-2.jpeg"
+    },
+    {
+      "topLeftX": 516,
+      "topLeftY": 464,
+      "bottomRightX": 542,
+      "bottomRightY": 483,
+      "content": "(б)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 491,
+      "bottomRightX": 597,
+      "bottomRightY": 540,
+      "content": "Рис. 1.2. ДОЭ, синтезированный методом Герчберга-Сэкстона, (а) и изображение, восстановленное с него (б)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 579,
+      "bottomRightX": 672,
+      "bottomRightY": 658,
+      "content": "Схему метода можно описать следующим образом: выбор первоначального приближения фазы и выполнение заданного количества итераций метода. Каждая итерация метода включает следующие шаги:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 143,
+      "topLeftY": 666,
+      "bottomRightX": 672,
+      "bottomRightY": 891,
+      "content": "1. Расчёт распространения светового поля из плоскости ДОЭ в плоскость восстановленного изображения; замена рассчитанного распределения амплитуды в плоскости восстановленного изображения на заданное.\n2. Расчёт распространения светового поля из плоскости восстановленного изображения в плоскость ДОЭ; замена амплитудного распределения во всём поле в плоскости ДОЭ на единицу.",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 650,
+      "topLeftY": 984,
+      "bottomRightX": 670,
+      "bottomRightY": 1001,
+      "content": "11",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

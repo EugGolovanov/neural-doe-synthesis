@@ -1,0 +1,418 @@
+{
+  "index": 43,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 115,
+      "topLeftY": 64,
+      "bottomRightX": 238,
+      "bottomRightY": 190,
+      "content": "![img-40.jpeg](img-40.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-40.jpeg"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 192,
+      "bottomRightX": 184,
+      "bottomRightY": 207,
+      "content": "а",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 64,
+      "bottomRightX": 376,
+      "bottomRightY": 190,
+      "content": "![img-41.jpeg](img-41.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-41.jpeg"
+    },
+    {
+      "topLeftX": 313,
+      "topLeftY": 192,
+      "bottomRightX": 326,
+      "bottomRightY": 207,
+      "content": "е",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 393,
+      "topLeftY": 64,
+      "bottomRightX": 520,
+      "bottomRightY": 190,
+      "content": "![img-42.jpeg](img-42.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-42.jpeg"
+    },
+    {
+      "topLeftX": 450,
+      "topLeftY": 192,
+      "bottomRightX": 464,
+      "bottomRightY": 207,
+      "content": "л",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 531,
+      "topLeftY": 64,
+      "bottomRightX": 658,
+      "bottomRightY": 190,
+      "content": "![img-43.jpeg](img-43.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-43.jpeg"
+    },
+    {
+      "topLeftX": 587,
+      "topLeftY": 192,
+      "bottomRightX": 602,
+      "bottomRightY": 207,
+      "content": "р",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 205,
+      "bottomRightX": 235,
+      "bottomRightY": 328,
+      "content": "![img-44.jpeg](img-44.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-44.jpeg"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 328,
+      "bottomRightX": 184,
+      "bottomRightY": 345,
+      "content": "б",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 254,
+      "topLeftY": 205,
+      "bottomRightX": 381,
+      "bottomRightY": 328,
+      "content": "![img-45.jpeg](img-45.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-45.jpeg"
+    },
+    {
+      "topLeftX": 310,
+      "topLeftY": 328,
+      "bottomRightX": 327,
+      "bottomRightY": 345,
+      "content": "ж",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 393,
+      "topLeftY": 205,
+      "bottomRightX": 520,
+      "bottomRightY": 328,
+      "content": "![img-46.jpeg](img-46.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-46.jpeg"
+    },
+    {
+      "topLeftX": 450,
+      "topLeftY": 328,
+      "bottomRightX": 464,
+      "bottomRightY": 345,
+      "content": "м",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 531,
+      "topLeftY": 205,
+      "bottomRightX": 658,
+      "bottomRightY": 328,
+      "content": "![img-47.jpeg](img-47.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-47.jpeg"
+    },
+    {
+      "topLeftX": 587,
+      "topLeftY": 328,
+      "bottomRightX": 602,
+      "bottomRightY": 345,
+      "content": "с",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 345,
+      "bottomRightX": 243,
+      "bottomRightY": 467,
+      "content": "![img-48.jpeg](img-48.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-48.jpeg"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 470,
+      "bottomRightX": 184,
+      "bottomRightY": 486,
+      "content": "в",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 256,
+      "topLeftY": 345,
+      "bottomRightX": 379,
+      "bottomRightY": 467,
+      "content": "![img-49.jpeg](img-49.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-49.jpeg"
+    },
+    {
+      "topLeftX": 313,
+      "topLeftY": 470,
+      "bottomRightX": 326,
+      "bottomRightY": 486,
+      "content": "з",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 396,
+      "topLeftY": 345,
+      "bottomRightX": 517,
+      "bottomRightY": 467,
+      "content": "![img-50.jpeg](img-50.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-50.jpeg"
+    },
+    {
+      "topLeftX": 450,
+      "topLeftY": 470,
+      "bottomRightX": 464,
+      "bottomRightY": 486,
+      "content": "н",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 531,
+      "topLeftY": 345,
+      "bottomRightX": 658,
+      "bottomRightY": 467,
+      "content": "![img-51.jpeg](img-51.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-51.jpeg"
+    },
+    {
+      "topLeftX": 587,
+      "topLeftY": 470,
+      "bottomRightX": 602,
+      "bottomRightY": 486,
+      "content": "т",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 115,
+      "topLeftY": 486,
+      "bottomRightX": 238,
+      "bottomRightY": 607,
+      "content": "![img-52.jpeg](img-52.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-52.jpeg"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 609,
+      "bottomRightX": 184,
+      "bottomRightY": 625,
+      "content": "г",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 256,
+      "topLeftY": 486,
+      "bottomRightX": 379,
+      "bottomRightY": 607,
+      "content": "![img-53.jpeg](img-53.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-53.jpeg"
+    },
+    {
+      "topLeftX": 313,
+      "topLeftY": 609,
+      "bottomRightX": 326,
+      "bottomRightY": 625,
+      "content": "и",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 403,
+      "topLeftY": 486,
+      "bottomRightX": 510,
+      "bottomRightY": 607,
+      "content": "![img-54.jpeg](img-54.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-54.jpeg"
+    },
+    {
+      "topLeftX": 450,
+      "topLeftY": 609,
+      "bottomRightX": 464,
+      "bottomRightY": 625,
+      "content": "о",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 531,
+      "topLeftY": 486,
+      "bottomRightX": 658,
+      "bottomRightY": 607,
+      "content": "![img-55.jpeg](img-55.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-55.jpeg"
+    },
+    {
+      "topLeftX": 587,
+      "topLeftY": 609,
+      "bottomRightX": 602,
+      "bottomRightY": 625,
+      "content": "у",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 625,
+      "bottomRightX": 235,
+      "bottomRightY": 746,
+      "content": "![img-56.jpeg](img-56.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-56.jpeg"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 748,
+      "bottomRightX": 184,
+      "bottomRightY": 764,
+      "content": "д",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 256,
+      "topLeftY": 625,
+      "bottomRightX": 379,
+      "bottomRightY": 746,
+      "content": "![img-57.jpeg](img-57.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-57.jpeg"
+    },
+    {
+      "topLeftX": 313,
+      "topLeftY": 748,
+      "bottomRightX": 326,
+      "bottomRightY": 764,
+      "content": "к",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 403,
+      "topLeftY": 625,
+      "bottomRightX": 510,
+      "bottomRightY": 746,
+      "content": "![img-58.jpeg](img-58.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-58.jpeg"
+    },
+    {
+      "topLeftX": 450,
+      "topLeftY": 748,
+      "bottomRightX": 464,
+      "bottomRightY": 764,
+      "content": "п",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 531,
+      "topLeftY": 625,
+      "bottomRightX": 658,
+      "bottomRightY": 746,
+      "content": "![img-59.jpeg](img-59.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-59.jpeg"
+    },
+    {
+      "topLeftX": 587,
+      "topLeftY": 748,
+      "bottomRightX": 602,
+      "bottomRightY": 764,
+      "content": "ф",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 764,
+      "bottomRightX": 671,
+      "bottomRightY": 844,
+      "content": "Рис. 4.3. Результаты оптического восстановления для ДОЭ, синтезированных методами суперпозиций (а-д), последовательный «пинг-понг» (е-к), глобальный «пинг-понг» (л-п) и на основе невыпуклой оптимизации (р-ф)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 880,
+      "bottomRightX": 671,
+      "bottomRightY": 931,
+      "content": "Как видно из рис. 4.3(е-к), для ДОЭ, синтезированного методом последовательный «пинг-понг», качество восстановленного изображения",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 649,
+      "topLeftY": 984,
+      "bottomRightX": 671,
+      "bottomRightY": 1001,
+      "content": "44",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

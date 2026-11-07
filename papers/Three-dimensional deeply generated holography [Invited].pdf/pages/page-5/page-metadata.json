@@ -1,0 +1,425 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 94,
+    "height": 1023,
+    "width": 776
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 76,
+      "topLeftY": 28,
+      "bottomRightX": 188,
+      "bottomRightY": 42,
+      "content": "Research Article",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 446,
+      "topLeftY": 29,
+      "bottomRightX": 663,
+      "bottomRightY": 42,
+      "content": "Vol. 60, No. 4 / 1 February 2021 / Applied Optics",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 680,
+      "topLeftY": 30,
+      "bottomRightX": 706,
+      "bottomRightY": 40,
+      "content": "A327",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 67,
+      "bottomRightX": 377,
+      "bottomRightY": 111,
+      "content": "The results showed that 3D-DGH realized 147 times faster 3D hologram synthesis with accuracy comparable with that of 3D-GS.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 112,
+      "bottomRightX": 377,
+      "bottomRightY": 338,
+      "content": "3D-DGH will increase the range of applications of CGH, especially in the fields of laser material processing and optical manipulation, where the class of generated optical patterns is assumed to be known. Future work should address the reproduction quality and generalization performance of 3D-DGH. These issues are due to the heavy training cost, which limits the pixel count of the hologram and the variety of the training data set. Optimization or a different choice of the network architecture for 3D-DGH and the use of more powerful processors, especially with large memory spaces, for training large data sets might help to overcome these issues. Also, an interesting direction is to apply our method to novel optical computing and manipulation [38,39]. The present study and the future work mentioned above will influence various fields, such as industry, biology, and entertainment.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 339,
+      "bottomRightX": 376,
+      "bottomRightY": 370,
+      "content": "Note added in proof. After submission of this paper, related articles were published [40–42].",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 378,
+      "bottomRightX": 376,
+      "bottomRightY": 417,
+      "content": "Funding. Japan Society for the Promotion of Science (JP20H02657, JP20K05361): Precursory Research for Embryonic Science and Technology (JPMJPR17PB).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 426,
+      "bottomRightX": 308,
+      "bottomRightY": 439,
+      "content": "Disclosures. The authors declare no conflicts of interest.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 61,
+      "topLeftY": 464,
+      "bottomRightX": 154,
+      "bottomRightY": 478,
+      "content": "# REFERENCES",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 484,
+      "bottomRightX": 377,
+      "bottomRightY": 521,
+      "content": "1. G. Nehmetallah and P. P. Banerjee, “Applications of digital and analog holography in three-dimensional imaging,” Adv. Opt. Photon. 4, 472–553 (2012).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 522,
+      "bottomRightX": 375,
+      "bottomRightY": 547,
+      "content": "2. J. Geng, “Three-dimensional display technologies,” Adv. Opt. Photon. 5, 456–535 (2013).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 548,
+      "bottomRightX": 375,
+      "bottomRightY": 571,
+      "content": "3. J.-H. Park, “Recent progress in computer-generated holography for three-dimensional scenes,” J. Inf. Disp. 18, 1–12 (2017).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 572,
+      "bottomRightX": 375,
+      "bottomRightY": 596,
+      "content": "4. K. Matsushima, Introduction to Computer Holography, Series in Display Science and Technology (Springer, 2020).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 597,
+      "bottomRightX": 375,
+      "bottomRightY": 645,
+      "content": "5. M. Malinauskas, A. Žukauskas, S. Hasegawa, Y. Hayasaki, V. Mizeikis, R. Buividas, and S. Juodkazis, “Ultrafast laser processing of materials: from science to industry,” Light Sci. Appl. 5, e16133 (2016).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 646,
+      "bottomRightX": 375,
+      "bottomRightY": 670,
+      "content": "6. K. Dholakia and T. Čižmár, “Shaping the future of manipulation,” Nat. Photonics 5, 335–342 (2011).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 671,
+      "bottomRightX": 375,
+      "bottomRightY": 720,
+      "content": "7. A. M. Packer, L. E. Russell, H. W. P. Dalgleish, and M. Häusser, “Simultaneous all-optical manipulation and recording of neural circuit activity with cellular resolution in vivo,” Nat. Methods 12, 140–146 (2014).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 721,
+      "bottomRightX": 375,
+      "bottomRightY": 745,
+      "content": "8. K. Kumagai, S. Hasegawa, and Y. Hayasaki, “Volumetric bubble display,” Optica 4, 298–302 (2017).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 747,
+      "bottomRightX": 375,
+      "bottomRightY": 770,
+      "content": "9. N. Savage, “Digital spatial light modulators,” Nat. Photonics 3, 170–172 (2009).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 771,
+      "bottomRightX": 375,
+      "bottomRightY": 808,
+      "content": "10. R. W. Gerchberg and W. O. Saxton, “A practical algorithm for the determination of the phase from image and diffraction plane pictures,” Optik 35, 237–246 (1972).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 809,
+      "bottomRightX": 375,
+      "bottomRightY": 833,
+      "content": "11. J. Bengtsson, “Kinoform design with an optimal-rotation-angle method,” Appl. Opt. 33, 6879–6884 (1994).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 834,
+      "bottomRightX": 375,
+      "bottomRightY": 869,
+      "content": "12. R. Piestun, B. Spektor, and J. Shamir, “Wave fields in three dimensions: analysis and synthesis,” J. Opt. Soc. Am. A 13, 1837–1848 (1996).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 870,
+      "bottomRightX": 375,
+      "bottomRightY": 906,
+      "content": "13. H. Pang, J. Wang, A. Cao, M. Zhang, L. Shi, and Q. Deng, “Accurate hologram generation using layer-based method and iterative Fourier transform algorithm,” IEEE Photon. J. 9, 1–8 (2017).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 907,
+      "bottomRightX": 375,
+      "bottomRightY": 957,
+      "content": "14. P. Sun, S. Chang, S. Liu, X. Tao, C. Wang, and Z. Zheng, “Holographic near-eye display system based on double-convergence light Gerchberg-Saxton algorithm,” Opt. Express 26, 10140–10151 (2018).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 69,
+      "bottomRightX": 719,
+      "bottomRightY": 105,
+      "content": "15. H. G. Kim and Y. M. Ro, “Ultrafast layer based computer-generated hologram calculation with sparse template holographic fringe pattern for 3-D object,” Opt. Express 25, 30418–30427 (2017).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 106,
+      "bottomRightX": 719,
+      "bottomRightY": 142,
+      "content": "16. A. Gilles and P. Gioia, “Real-time layer-based computer-generated hologram calculation for the Fourier transform optical system,” Appl. Opt. 57, 8508–8517 (2018).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 143,
+      "bottomRightX": 719,
+      "bottomRightY": 179,
+      "content": "17. J. Jia, J. Si, and D. Chu, “Fast two-step layer-based method for computer generated hologram using sub-sparse 2D fast Fourier transform,” Opt. Express 26, 17487–17497 (2018).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 180,
+      "bottomRightX": 719,
+      "bottomRightY": 204,
+      "content": "18. Y. LeCun, Y. Bengio, and G. Hinton, “Deep learning,” Nature 521, 436–444 (2015).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 205,
+      "bottomRightX": 706,
+      "bottomRightY": 217,
+      "content": "19. S. Webb, “Deep learning for biology,” Nature 554, 555–557 (2018).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 218,
+      "bottomRightX": 719,
+      "bottomRightY": 254,
+      "content": "20. D. Mayerich, M. J. Walsh, A. Kadjacsy-Balla, P. S. Ray, S. M. Hewitt, and R. Bhargava, “Stain-less staining for computed histopathology,” Technology 03, 27–31 (2015).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 255,
+      "bottomRightX": 719,
+      "bottomRightY": 290,
+      "content": "21. R. Horisaki, R. Takagi, and J. Tanida, “Learning-based imaging through scattering media,” Opt. Express 24, 13738–13743 (2016).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 291,
+      "bottomRightX": 719,
+      "bottomRightY": 314,
+      "content": "22. R. Horisaki, R. Takagi, and J. Tanida, “Learning-based focusing through scattering media,” Appl. Opt. 56, 4358–4362 (2017).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 315,
+      "bottomRightX": 719,
+      "bottomRightY": 339,
+      "content": "23. G. Barbastathis, A. Ozcan, and G. Situ, “On the use of deep learning for computational imaging,” Optica 6, 921–943 (2019).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 340,
+      "bottomRightX": 719,
+      "bottomRightY": 388,
+      "content": "24. Z. Luo, A. Yurt, R. Stahl, A. Lambrechts, V. Reumers, D. Braeken, and L. Lagae, “Pixel super-resolution for lens-free holographic microscopy using deep learning neural networks,” Opt. Express 27, 13581–13595 (2019).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 389,
+      "bottomRightX": 719,
+      "bottomRightY": 413,
+      "content": "25. R. Horisaki, R. Takagi, and J. Tanida, “Deep-learning-generated holography,” Appl. Opt. 57, 3859–3863 (2018).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 414,
+      "bottomRightX": 719,
+      "bottomRightY": 475,
+      "content": "26. M. H. Eybposh, N. W. Caira, P. Chakravarthula, M. Atisa, and N. C. Pégard, “High-speed computer-generated holography using convolutional neural networks,” in Biophotonics Congress: Biomedical Optics 2020 (Translational, Microscopy, OCT, OTS, BRAIN) (Optical Society of America, 2020), paper BTu2C.2.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 476,
+      "bottomRightX": 719,
+      "bottomRightY": 524,
+      "content": "27. T. Shimobaba, D. Blinder, P. Schelkens, Y. Yamamoto, I. Hoshi, T. Kakue, and T. Ito, “Deep-learning-assisted hologram calculation via low-sampling holograms,” in 8th International Congress on Advanced Applied Informatics (IIAI-AAI) (IEEE, 2019), pp. 936–941.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 525,
+      "bottomRightX": 719,
+      "bottomRightY": 573,
+      "content": "28. P. Cheremkhin, N. Evtikhiev, V. Krasnov, V. Rodin, D. Rymov, and R. Starikov, “Machine learning methods for digital holography and diffractive optics,” Procedia Comput. Sci. 169, 440–444 (2020).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 574,
+      "bottomRightX": 711,
+      "bottomRightY": 587,
+      "content": "29. J. W. Goodman, Introduction to Fourier Optics (McGraw-Hill, 1996).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 588,
+      "bottomRightX": 719,
+      "bottomRightY": 624,
+      "content": "30. D. P. Kingma and J. Ba, “Adam: A method for stochastic optimization,” in International Conference on Learning Representations (ICLR) (2015).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 625,
+      "bottomRightX": 719,
+      "bottomRightY": 684,
+      "content": "31. O. Ronneberger, P. Fischer, and T. Brox, “U-Net: convolutional networks for biomedical image segmentation,” in Medical Image Computing and Computer-Assisted Intervention (MICCAI), N. Navab, J. Hornegger, W. M. Wells, and A. F. Frangi, eds. (Springer, 2015), pp. 234–241.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 685,
+      "bottomRightX": 719,
+      "bottomRightY": 759,
+      "content": "32. T. Falk, D. Mai, R. Bensch, Ö. Çiçek, A. Abdulkadir, Y. Marrakchi, A. Böhm, J. Deubner, Z. Jäckel, K. Seiwald, A. Dovzhenko, O. Tietz, C. Dal Bosco, S. Walsh, D. Saltukoglu, T. L. Tay, M. Prinz, K. Palme, M. Simons, I. Diester, T. Brox, and O. Ronneberger, “U-Net: deep learning for cell counting, detection, and morphometry,” Nat. Methods 16, 67–70 (2019).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 760,
+      "bottomRightX": 719,
+      "bottomRightY": 796,
+      "content": "33. W. Ouyang, A. Aristov, M. Lelek, X. Hao, and C. Zimmer, “Deep learning massively accelerates super-resolution localization microscopy,” Nat. Biotechnol. 36, 460–468 (2018).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 797,
+      "bottomRightX": 719,
+      "bottomRightY": 833,
+      "content": "34. E. Moen, D. Bannon, T. Kudo, W. Graf, M. Covert, and D. Van Valen, “Deep learning for cellular image analysis,” Nat. Methods 16, 1233–1246 (2019).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 834,
+      "bottomRightX": 719,
+      "bottomRightY": 869,
+      "content": "35. S. Li, M. Deng, J. Lee, A. Sinha, and G. Barbastathis, “Imaging through glass diffusers using densely connected convolutional networks,” Optica 5, 803–813 (2018).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 870,
+      "bottomRightX": 719,
+      "bottomRightY": 919,
+      "content": "36. E. Guo, S. Zhu, Y. Sun, L. Bai, C. Zuo, and J. Han, “Learning-based method to reconstruct complex targets through scattering medium beyond the memory effect,” Opt. Express 28, 2433–2446 (2020).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 920,
+      "bottomRightX": 719,
+      "bottomRightY": 957,
+      "content": "37. G. Cohen, S. Afshar, J. Tapson, and A. van Schaik, “EMNIST: extending MNIST to handwritten letters,” in International Joint Conference on Neural Networks (IEEE, 2017), pp. 2921–2926.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

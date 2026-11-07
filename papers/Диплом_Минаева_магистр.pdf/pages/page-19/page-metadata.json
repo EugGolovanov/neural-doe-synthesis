@@ -1,0 +1,120 @@
+{
+  "index": 18,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 166,
+      "topLeftY": 97,
+      "bottomRightX": 625,
+      "bottomRightY": 238,
+      "content": "![img-12.jpeg](img-12.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-12.jpeg"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 287,
+      "bottomRightX": 656,
+      "bottomRightY": 308,
+      "content": "Рис. 1.9. Схема расчета ДОЭ методом на основе невыпуклой оптимизации",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 345,
+      "bottomRightX": 671,
+      "bottomRightY": 452,
+      "content": "Начальная фаза может быть набором случайных значений или может быть получена с использованием любого метода. Для более гибкого изменения параметров ДОЭ, а именно значения фазы, формулируется задача оптимизации:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 301,
+      "topLeftY": 462,
+      "bottomRightX": 667,
+      "bottomRightY": 486,
+      "content": "\\[\n\\varphi^ {*} = \\arg \\min _ {\\varphi} L (I (\\varphi), V), \\tag {1.10}\n\\]",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 495,
+      "bottomRightX": 671,
+      "bottomRightY": 604,
+      "content": "где  \\( I(\\varphi) \\)  – интенсивность трехмерного изображения V, разбитого на плоские сцены, с фазой  \\( \\varphi \\) , выведенной на ПВМС, и весовой функцией L, определяемой пользователем. В качестве объекта минимизации используется следующая весовая функция:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 221,
+      "topLeftY": 609,
+      "bottomRightX": 667,
+      "bottomRightY": 650,
+      "content": "\\[\nL (I, V) = \\sum L _ {1} (I (x, y, z)) + \\sum L _ {2} (I (x, y, z)), \\tag {1.11}\n\\]",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 658,
+      "bottomRightX": 670,
+      "bottomRightY": 706,
+      "content": "где  \\( L_{1} \\)  и  \\( L_{2} \\)  являются весовыми функциями для темных и светлых пикселей соответственно.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 716,
+      "bottomRightX": 670,
+      "bottomRightY": 765,
+      "content": "Расчет весовой функции для светлых пикселей производится следующим образом:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 276,
+      "topLeftY": 773,
+      "bottomRightX": 667,
+      "bottomRightY": 815,
+      "content": "\\[\nL _ {1} = \\left\\{ \\begin{array}{c c} (I - l ^ {2}), & \\text { если } I > l \\\\ 0, & \\text { если } I <   l \\end{array} \\right. \\tag {1.12}\n\\]",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 824,
+      "bottomRightX": 670,
+      "bottomRightY": 872,
+      "content": "где I – интенсивность трехмерного изображения, l – пороговое значение интенсивности, задаваемое пользователем.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 882,
+      "bottomRightX": 670,
+      "bottomRightY": 932,
+      "content": "Для решения задачи оптимизации используется квазиньютоновский метод [25, 26]. Квазиньютоновский метод – метод оптимизации, основанный",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 653,
+      "topLeftY": 986,
+      "bottomRightX": 669,
+      "bottomRightY": 1000,
+      "content": "19",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

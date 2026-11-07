@@ -1,0 +1,83 @@
+{
+  "index": 19,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 98,
+      "topLeftY": 69,
+      "bottomRightX": 671,
+      "bottomRightY": 218,
+      "content": "на накоплении информации о кривизне целевой функции по наблюдениям за изменением градиента весовой функции. Для расчета градиента весовой функции  \\( \\frac{\\partial L}{\\partial \\varphi} \\)  выводимое распределение на ПВМС задается в виде  \\( E = \\exp(i\\varphi) \\)  для каждого пикселя. Тогда градиент поля определяется следующим выражением:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 225,
+      "bottomRightX": 669,
+      "bottomRightY": 271,
+      "content": "\\[\n\\frac {\\partial L}{\\partial \\varphi} = \\frac {\\partial L}{\\partial I} \\frac {\\partial I}{\\partial E} \\frac {\\partial E}{\\partial \\varphi}, \\tag {1.13}\n\\]",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 278,
+      "bottomRightX": 669,
+      "bottomRightY": 323,
+      "content": "\\[\n\\frac {\\partial E}{\\partial \\varphi} = d i a g [ - \\sin \\varphi + i \\cos \\varphi ]. \\tag {1.14}\n\\]",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 332,
+      "bottomRightX": 671,
+      "bottomRightY": 440,
+      "content": "Для выражения (1.11) проводится поиск значений фазы, являющихся минимумом градиента функции (1.13). Полученные наборы фаз являются решением задачи оптимизации, а также фазовыми ДОЭ, с использованием которых можно восстановить исходное трехмерное изображение.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 477,
+      "bottomRightX": 587,
+      "bottomRightY": 497,
+      "content": "### 1.3 Проекционные методы синтеза ДОЭ двумерных и трехмерных сцен",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 505,
+      "bottomRightX": 671,
+      "bottomRightY": 613,
+      "content": "Проекционные методы моделирования объектов обычно используются в компьютерной графике для создания реалистичных трехмерных объектов, передающих текстуру и форму. С использованием подобных технологий разработаны проекционные методы синтеза ДОЭ [20,21].",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 622,
+      "bottomRightX": 671,
+      "bottomRightY": 876,
+      "content": "Рассмотрим процесс синтеза ДОЭ проекционным методом, который проиллюстрирован на рис. 1.10. Для данного метода исходная трехмерная сцена представляется как пространственно-угловое распределение яркости световых лучей L. Пусть L (x, y; θx, θy) представляет собой амплитуду светового луча, который проходит через плоскость в положении (x, y) с углом (θx, θy). Перед моделью располагается сэмплирующая плоскость – плоскость, состоящая из элементарных голограмм с постоянным размером s. Сначала создается промежуточное оптическое поле в сэмплирующей плоскости из поля светового излучения L (x, y; θx, θy).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 652,
+      "topLeftY": 986,
+      "bottomRightX": 669,
+      "bottomRightY": 1000,
+      "content": "20",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

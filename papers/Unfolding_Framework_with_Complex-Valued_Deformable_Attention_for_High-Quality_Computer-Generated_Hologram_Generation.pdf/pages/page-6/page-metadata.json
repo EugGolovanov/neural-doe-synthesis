@@ -1,0 +1,83 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 170,
+      "topLeftY": 65,
+      "bottomRightX": 279,
+      "bottomRightY": 78,
+      "content": "## VII. CONCLUSION",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 84,
+      "bottomRightX": 390,
+      "bottomRightY": 270,
+      "content": "To achieve high-quality CGH display, previous CNN-based methods are limited in propagation distance and performance, while fixed global self-attention in complex-valued Transformers is impractical. Towards this end, this paper introduces a deep unfolding network with a Complex-valued Deformable Self Attention mechanism on an Adaptive Bandwidth-Preserving Method. Simulation and optical experiments show that our method significantly outperforms previous approaches in both near- and far-fields. This work paves the way for high-quality CGH generation with potential applications in optical information storage, tomography, and display technology.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 166,
+      "topLeftY": 279,
+      "bottomRightX": 283,
+      "bottomRightY": 292,
+      "content": "## ACKNOWLEDGMENT",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 298,
+      "bottomRightX": 390,
+      "bottomRightY": 467,
+      "content": "This work was supported by National Key R&D Program of China (2024YFF0505603), the National Natural Science Foundation of China (grant number 62271414), Zhejiang Provincial Distinguished Young Scientist Foundation (grant number LR23F010001), Zhejiang “Pioneer” and “Leading Goose” R&D Program (grant number 2024SDXHDX0006, 2024C03182), the Key Project of Westlake Institute for Optoelectronics (grant number 2023GD007), the 2023 International Sci-tech Cooperation Projects under the purview of the “Innovation Yongjiang 2035” Key R&D Program (grant number 2024Z126).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 478,
+      "bottomRightX": 262,
+      "bottomRightY": 491,
+      "content": "## REFERENCES",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 61,
+      "topLeftY": 498,
+      "bottomRightX": 390,
+      "bottomRightY": 928,
+      "content": "[1] R. W. Gerchberg, “A practical algorithm for the determination of plane from image and diffraction pictures,” Optik, vol. 35, no. 2, pp. 237–246, 1972.\n[2] Y. Chen, Y. Chi, J. Fan, and C. Ma, “Gradient descent with random initialization: Fast global convergence for nonconvex phase retrieval,” Mathematical Programming, vol. 176, pp. 5–37, 2019.\n[3] E. J. Candès, X. Li, and M. Soltanolkotabi, “Phase retrieval via wirtinger flow: Theory and algorithms,” IEEE Transactions on Information Theory, vol. 61, no. 4, pp. 1985–2007, 2015.\n[4] X. Shui, H. Zheng, X. Xia, F. Yang, W. Wang, and Y. Yu, “Diffraction model-informed neural network for unsupervised layer-based computer-generated holography,” Optics Express, vol. 30, no. 25, pp. 44814–44826, 2022.\n[5] K. Liu, J. Wu, Z. He, and L. Cao, “4k-dmdnet: diffraction model-driven network for 4k computer-generated holography,” Opto-Electronic Advances, pp. 220135–1, 2023.\n[6] K. Gregor and Y. LeCun, “Learning fast approximations of sparse coding,” in Proceedings of the 27th international conference on international conference on machine learning, 2010, pp. 399–406.\n[7] C. Li, C.-L. Guo, M. Zhou, Z. Liang, S. Zhou, R. Feng, and C. C. Loy, “Embedding fourier for ultra-high-definition low-light image enhancement,” arXiv preprint arXiv:2302.11831, 2023.\n[8] M. Zhou, J. Huang, C.-L. Guo, and C. Li, “Fourmer: An efficient global modeling paradigm for image restoration,” International conference on machine learning, pp. 42589–42601, 2023.\n[9] J. W. Goodman, Introduction to Fourier optics. Roberts and Company publishers, 2005.\n[10] K. Matsushima and T. Shimobaba, “Band-limited angular spectrum method for numerical simulation of free-space propagation in far and near fields,” Optics express, vol. 17, no. 22, pp. 19662–19673, 2009.\n[11] Y.-H. Kim, C.-W. Byun, H. Oh, J. Lee, J.-E. Pi, G. H. Kim, M.-L. Lee, H. Ryu, H.-Y. Chu, and C.-S. Hwang, “Non-uniform sampling and wide range angular spectrum method,” Journal of Optics, vol. 16, no. 12, p. 125710, 2014.\n[12] W. Zhang, H. Zhang, and G. Jin, “Adaptive-sampling angular spectrum method with full utilization of space-bandwidth product,” Optics Letters, vol. 45, no. 16, pp. 4416–4419, 2020.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 401,
+      "topLeftY": 66,
+      "bottomRightX": 729,
+      "bottomRightY": 926,
+      "content": "[13] Y. Dong, Y. Peng, M. Yang, S. Lu, and Q. Shi, “Signal transformer: Complex-valued attention and meta-learning for signal recognition,” arXiv preprint arXiv:2106.04392, 2021.\n[14] F. Eilers and X. Jiang, “Building blocks for a complex-valued transformer architecture,” in ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023, pp. 1–5.\n[15] M. Yang, M. Q. Ma, D. Li, Y.-H. H. Tsai, and R. Salakhutdinov, “Complex transformer: A framework for modeling complex-valued sequence,” in ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020, pp. 4232–4236.\n[16] P. Tsang, T.-C. Poon, and Y. Wu, “Review of fast methods for point-based computer-generated holography,” Photonics Research, vol. 6, no. 9, pp. 837–846, 2018.\n[17] A. Maimone, A. Georgiou, and J. S. Kollin, “Holographic near-eye displays for virtual and augmented reality,” ACM Transactions on Graphics (Tog), vol. 36, no. 4, pp. 1–16, 2017.\n[18] S.-C. Liu and D. Chu, “Deep learning for hologram generation,” Optics Express, vol. 29, no. 17, pp. 27373–27395, 2021.\n[19] L. Shi, B. Li, C. Kim, P. Kellhofer, and W. Matusik, “Towards real-time photorealistic 3d holography with deep neural networks,” Nature, vol. 591, no. 7849, pp. 234–239, 2021.\n[20] L. Shi, B. Li, and W. Matusik, “End-to-end learning of 3d phase-only holograms for holographic display,” Light: Science & Applications, vol. 11, no. 1, p. 247, 2022.\n[21] C. Chang, B. Dai, D. Zhu, J. Li, J. Xia, D. Zhang, L. Hou, and S. Zhuang, “From picture to 3d hologram: end-to-end learning of real-time 3d photorealistic hologram generation from 2d image input,” Optics Letters, vol. 48, no. 4, pp. 851–854, 2023.\n[22] J. Wu, K. Liu, X. Sui, and L. Cao, “High-speed computer-generated holography using an autoencoder-based deep neural network,” Optics Letters, vol. 46, no. 12, pp. 2908–2911, 2021.\n[23] Y. Peng, S. Choi, N. Padmanaban, and G. Wetzstein, “Neural holography with camera-in-the-loop training,” ACM Transactions on Graphics (TOG), vol. 39, no. 6, pp. 1–14, 2020.\n[24] X. Chang, R. Zhao, S. Jiang, C. Shen, G. Zheng, C. Yang, and L. Bian, “Complex-domain-enhancing neural network for large-scale coherent imaging,” Advanced Photonics Nexus, vol. 2, no. 4, pp. 046006–046006, 2023.\n[25] C. Zhong, X. Sang, B. Yan, H. Li, D. Chen, X. Qin, S. Chen, and X. Ye, “Real-time high-quality computer-generated hologram using complex-valued convolutional neural network,” IEEE Transactions on Visualization and Computer Graphics, 2023.\n[26] Z. Dong, C. Xu, Y. Tang, Y. Ling, Y. Li, and Y. Su, “Vision transformer-based, high-fidelity, computer-generated holography,” in Advances in Display Technologies XIII, vol. 12443. SPIE, 2023, pp. 47–53.\n[27] Z. Chen, S. Zheng, Z. Tong, and X. Yuan, “Physics-driven deep learning enables temporal compressive coherent diffraction imaging,” Optica, vol. 9, no. 6, pp. 677–680, 2022.\n[28] G. Qu, P. Wang, and X. Yuan, “Dual-scale transformer for large-scale single-pixel imaging,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 25327–25337.\n[29] Y. Gao and L. Cao, “Iterative projection meets sparsity regularization: towards practical single-shot quantitative phase imaging with in-line holography,” Light: Advanced Manufacturing, vol. 4, no. 1, pp. 1–17, 2023.\n[30] C. A. Metzler, A. Maleki, and R. G. Baraniuk, “From denoising to compressed sensing,” IEEE Transactions on Information Theory, vol. 62, no. 9, pp. 5117–5144, 2016.\n[31] Z. Xia, X. Pan, S. Song, L. E. Li, and G. Huang, “Vision transformer with deformable attention,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2022, pp. 4794–4803.\n[32] E. Agustsson and R. Timofte, “Ntire 2017 challenge on single image super-resolution: Dataset and study,” in 2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2017, pp. 1122–1131.\n[33] B. Lim, S. Son, H. Kim, S. Nah, and K. M. Lee, “Enhanced deep residual networks for single image super-resolution,” in The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, July 2017.\n[34] Z. Wang, A. C. Bovik, H. R. Sheikh, and E. P. Simoncelli, “Image quality assessment: from error visibility to structural similarity,” IEEE transactions on image processing, vol. 13, no. 4, pp. 600–612, 2004.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 985,
+      "bottomRightX": 742,
+      "bottomRightY": 998,
+      "content": "Authorized licensed use limited to: National Research Nuclear University - MEPhi. Downloaded on November 06,2026 at 18:16:46 UTC from IEEE Xplore. Restrictions apply.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

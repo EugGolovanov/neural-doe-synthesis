@@ -1,0 +1,131 @@
+{
+  "index": 23,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 99,
+      "topLeftY": 67,
+      "bottomRightX": 671,
+      "bottomRightY": 234,
+      "content": "На основе данных изображений различными методами были синтезированы ДОЭ. Синтезированные ДОЭ обладали следующими характеристиками: размер ДОЭ составляет $300 \\times 300$ пикселей, размер пикселя ДОЭ – $8 \\text{ мкм} \\times 8 \\text{ мкм}$, длина волны излучения лазера, использованного при записи, составляла 561 нм, расстояние от объекта до ДОЭ варьируется.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 242,
+      "bottomRightX": 671,
+      "bottomRightY": 410,
+      "content": "Из объектов, представленных на рис. 2.1, были сформированы наборы объемных сцен: первый и третий наборы содержали в себе контурные изображения (рис. 2.1(а, в), а второй – буквы «М», «Е», «Р», «h» и «I» (рис. 2.1(б)). Сформированные наборы объемных сцен представлены на рис. 2.2. Для наглядности объекты представлены с инвертированной яркостью.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 447,
+      "bottomRightX": 292,
+      "bottomRightY": 565,
+      "content": "![img-15.jpeg](img-15.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-15.jpeg"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 577,
+      "bottomRightX": 215,
+      "bottomRightY": 597,
+      "content": "(а)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 305,
+      "topLeftY": 447,
+      "bottomRightX": 461,
+      "bottomRightY": 565,
+      "content": "![img-16.jpeg](img-16.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-16.jpeg"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 577,
+      "bottomRightX": 396,
+      "bottomRightY": 597,
+      "content": "(б)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 473,
+      "topLeftY": 447,
+      "bottomRightX": 653,
+      "bottomRightY": 565,
+      "content": "![img-17.jpeg](img-17.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-17.jpeg"
+    },
+    {
+      "topLeftX": 553,
+      "topLeftY": 577,
+      "bottomRightX": 577,
+      "bottomRightY": 597,
+      "content": "(в)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 265,
+      "topLeftY": 605,
+      "bottomRightX": 505,
+      "bottomRightY": 626,
+      "content": "Рис. 2.2. Наборы объёмных сцен",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 664,
+      "bottomRightX": 671,
+      "bottomRightY": 772,
+      "content": "Была проанализирована зависимость качества изображений, восстановленных с ДОЭ, синтезированных выбранными методами, от количества плоскостей в объемной сцене. Критерием оценки качества был выбран коэффициент корреляции по Пирсону:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 780,
+      "bottomRightX": 678,
+      "bottomRightY": 847,
+      "content": "$$K = \\frac{\\sum(X - \\bar{X})(Y - \\bar{Y})}{\\sqrt{\\sum(X - \\bar{X})^2 \\sum(Y - \\bar{Y})^2}} \\quad (2.1)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 856,
+      "bottomRightX": 671,
+      "bottomRightY": 907,
+      "content": "где $X, Y$ – значение интенсивности в сравниваемых изображениях, $\\bar{X}, \\bar{Y}$ – средние значения интенсивностей для сравниваемых изображений.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 649,
+      "topLeftY": 984,
+      "bottomRightX": 670,
+      "bottomRightY": 1001,
+      "content": "24",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

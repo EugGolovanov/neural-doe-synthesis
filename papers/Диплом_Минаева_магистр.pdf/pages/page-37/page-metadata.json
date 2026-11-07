@@ -1,0 +1,93 @@
+{
+  "index": 36,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 166,
+      "topLeftY": 78,
+      "bottomRightX": 265,
+      "bottomRightY": 126,
+      "content": "Instantaneous  \nLiquid Crystal  \nRMS voltage",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 166,
+      "topLeftY": 147,
+      "bottomRightX": 261,
+      "bottomRightY": 177,
+      "content": "Liquid Crystal response",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 326,
+      "topLeftY": 71,
+      "bottomRightX": 636,
+      "bottomRightY": 187,
+      "content": "![img-35.jpeg](img-35.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-35.jpeg"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 205,
+      "bottomRightX": 589,
+      "bottomRightY": 225,
+      "content": "Рис. 3.1. Профиль управляющего напряжения и отклик ячейки ЖК",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 263,
+      "bottomRightX": 671,
+      "bottomRightY": 372,
+      "content": "В зависимости от максимального количества адресуемых уровней фазы для каждой конфигурации управляющих сигналов меняется частота адресации в модуляторе. Чем меньше уровней фазы, тем выше частота адресации и тем меньше размах временных флуктуаций фазы [27].",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 380,
+      "bottomRightX": 671,
+      "bottomRightY": 516,
+      "content": "Наличие фазовых флуктуаций приводит к снижению качества изображений, оптически восстановленных с голограмм. Для устранения негативных эффектов флуктуации фазы возможна их компенсация. Для этого необходимо измерение зависимости фазового сдвига от уровня сигнала и времени от начала показа кадра до момента его регистрации фотосенсором.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 554,
+      "bottomRightX": 406,
+      "bottomRightY": 574,
+      "content": "### 3.2 Измерение фазового сдвига в ЖК ПВМС",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 581,
+      "bottomRightX": 671,
+      "bottomRightY": 776,
+      "content": "В данной работе исследовался фазовый ЖК ПВМС HoloEye PLUTO VIS, работающий в режиме «на отражение» и имеющий следующие характеристики: число элементов — $1920 \\times 1080$, размер элемента — $8 \\times 8$ мкм, частота смены кадров — 60 Гц, число уровней сигнала — 256 (8 бит). Для измерения фазового сдвига ПВМС использовался двухлучевой интерференционный метод [28]. На рис. 3.2 представлена схема экспериментальной установки для измерения фазового сдвига ПВМС.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 650,
+      "topLeftY": 984,
+      "bottomRightX": 670,
+      "bottomRightY": 1001,
+      "content": "37",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

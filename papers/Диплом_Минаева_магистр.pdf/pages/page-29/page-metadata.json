@@ -1,0 +1,48 @@
+{
+  "index": 28,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 140,
+      "topLeftY": 64,
+      "bottomRightX": 658,
+      "bottomRightY": 403,
+      "content": "![img-27.jpeg](img-27.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-27.jpeg"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 412,
+      "bottomRightX": 671,
+      "bottomRightY": 461,
+      "content": "Рис. 2.6. Зависимость времени расчета ДОЭ от количества плоскостей в объемной сцене",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 500,
+      "bottomRightX": 671,
+      "bottomRightY": 637,
+      "content": "Метод суперпозиции является наименее ресурсоёмким: время расчета ДОЭ для одной плоскости составляет 0,01 с, для 25 плоскостей – 0,12 с. Наиболее ресурсоёмкий метод – это метод на основе невыпуклой оптимизации, для которого время расчета для одной плоскости составляет 25 с, для 25 плоскостей – 38 с.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 649,
+      "topLeftY": 984,
+      "bottomRightX": 671,
+      "bottomRightY": 1001,
+      "content": "29",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

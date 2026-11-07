@@ -1,0 +1,146 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 94,
+    "height": 1023,
+    "width": 776
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 28,
+      "bottomRightX": 186,
+      "bottomRightY": 42,
+      "content": "Research Article",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 446,
+      "topLeftY": 28,
+      "bottomRightX": 663,
+      "bottomRightY": 41,
+      "content": "Vol. 57, No. 14 / 10 May 2018 / Applied Optics",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 680,
+      "topLeftY": 29,
+      "bottomRightX": 705,
+      "bottomRightY": 40,
+      "content": "3863",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 66,
+      "bottomRightX": 377,
+      "bottomRightY": 91,
+      "content": "29. J. R. Fienup, \"Phase retrieval algorithms: a comparison,\" Appl. Opt. 21, 2758–2769 (1982).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 92,
+      "bottomRightX": 377,
+      "bottomRightY": 140,
+      "content": "30. A. M. Packer, L. E. Russell, H. W. P. Dalgleish, and M. Häusser, \"Simultaneous all-optical manipulation and recording of neural circuit activity with cellular resolution in vivo,\" Nat. Methods 12, 140–146 (2014).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 141,
+      "bottomRightX": 377,
+      "bottomRightY": 178,
+      "content": "31. O. Hernandez, E. Papagiakoumou, D. Tanese, K. Fidelin, C. Wyart, and V. Emiliani, \"Three-dimensional spatiotemporal focusing of holographic patterns,\" Nat. Commun. 7, 11928 (2016).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 179,
+      "bottomRightX": 377,
+      "bottomRightY": 226,
+      "content": "32. N. C. Pégard, A. R. Mardinly, I. A. Oldenburg, S. Sridharan, L. Waller, and H. Adesnik, \"Three-dimensional scanless holographic optogenetics with temporal focusing (3D-SHOT),\" Nat. Commun. 8, 1228 (2017).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 227,
+      "bottomRightX": 377,
+      "bottomRightY": 252,
+      "content": "33. D. G. Grier, \"A revolution in optical manipulation,\" Nature 424, 810–816 (2003).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 253,
+      "bottomRightX": 377,
+      "bottomRightY": 302,
+      "content": "34. Y. Pang, H. Song, J. H. Kim, X. Hou, and W. Cheng, \"Optical trapping of individual human immunodeficiency viruses in culture fluid reveals heterogeneity with single-molecule resolution,\" Nat. Nanotechnol. 9, 624–630 (2014).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 66,
+      "bottomRightX": 722,
+      "bottomRightY": 103,
+      "content": "35. K. He, X. Zhang, S. Ren, and J. Sun, \"Deep residual learning for image recognition,\" in IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (IEEE, 2016), pp. 770–778.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 104,
+      "bottomRightX": 722,
+      "bottomRightY": 128,
+      "content": "36. I. Goodfellow, Y. Bengio, and A. Courville, Deep Learning (MIT, 2016).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 129,
+      "bottomRightX": 722,
+      "bottomRightY": 178,
+      "content": "37. S. Ioffe and C. Szegedy, \"Batch normalization: accelerating deep network training by reducing internal covariate shift,\" in Proceedings of the 32nd International Conference on Machine Learning (ICML'15) (JMLR, 2015), Vol. 37, pp. 448–456.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 179,
+      "bottomRightX": 722,
+      "bottomRightY": 226,
+      "content": "38. V. Nair and G. E. Hinton, \"Rectified linear units improve restricted Boltzmann machines,\" in Proceedings of the 27th International Conference on Machine Learning (ICML'10) (Omnipress, 2010), pp. 807–814.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 227,
+      "bottomRightX": 722,
+      "bottomRightY": 263,
+      "content": "39. D. P. Kingma and J. Ba, \"Adam: a method for stochastic optimization,\" in International Conference on Learning Representations (ICLR) (2015).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 405,
+      "topLeftY": 264,
+      "bottomRightX": 722,
+      "bottomRightY": 302,
+      "content": "40. R. Horstmeyer, H. Ruan, and C. Yang, \"Guidestar-assisted wavefront-shaping methods for focusing light into biological tissue,\" Nat. Photonics 9, 563–571 (2015).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

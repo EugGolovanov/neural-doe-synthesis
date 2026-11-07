@@ -1,0 +1,133 @@
+{
+  "index": 26,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 142,
+      "topLeftY": 96,
+      "bottomRightX": 342,
+      "bottomRightY": 256,
+      "content": "![img-22.jpeg](img-22.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-22.jpeg"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 264,
+      "bottomRightX": 255,
+      "bottomRightY": 284,
+      "content": "(а)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 437,
+      "topLeftY": 100,
+      "bottomRightX": 615,
+      "bottomRightY": 245,
+      "content": "![img-23.jpeg](img-23.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-23.jpeg"
+    },
+    {
+      "topLeftX": 517,
+      "topLeftY": 264,
+      "bottomRightX": 543,
+      "bottomRightY": 284,
+      "content": "(б)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 142,
+      "topLeftY": 307,
+      "bottomRightX": 348,
+      "bottomRightY": 474,
+      "content": "![img-24.jpeg](img-24.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-24.jpeg"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 500,
+      "bottomRightX": 255,
+      "bottomRightY": 522,
+      "content": "(в)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 432,
+      "topLeftY": 291,
+      "bottomRightX": 627,
+      "bottomRightY": 442,
+      "content": "![img-25.jpeg](img-25.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-25.jpeg"
+    },
+    {
+      "topLeftX": 517,
+      "topLeftY": 500,
+      "bottomRightX": 543,
+      "bottomRightY": 522,
+      "content": "(г)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 529,
+      "bottomRightX": 668,
+      "bottomRightY": 608,
+      "content": "Рис. 2.4. Объекты, восстановленные с ДОЭ методами: (а) суперпозиций, (б) последовательным «пинг-понг», (в) глобальным метод «пинг-понг», (г) на основе невыпуклой оптимизации",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 646,
+      "bottomRightX": 671,
+      "bottomRightY": 667,
+      "content": "Табл. 2.2. Значение среднего коэффициента корреляции для изображений",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 673,
+      "bottomRightX": 672,
+      "bottomRightY": 826,
+      "content": "|  Метод | суперпозиций | последовательный «пинг-понг», | глобальный метод «пинг- понг» | на основе невыпуклой оптимизации  |\n| --- | --- | --- | --- | --- |\n|  Средний коэффициент корреляции | 0,29 | 0,22 | 0,63 | 0,71  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 856,
+      "bottomRightX": 671,
+      "bottomRightY": 907,
+      "content": "Для отобранных многоплоскостных методов была исследована зависимость коэффициента корреляции от числа плоскостей в",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 649,
+      "topLeftY": 984,
+      "bottomRightX": 671,
+      "bottomRightY": 1001,
+      "content": "27",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

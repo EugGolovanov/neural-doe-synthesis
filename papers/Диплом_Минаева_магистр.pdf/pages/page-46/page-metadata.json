@@ -1,0 +1,57 @@
+{
+  "index": 45,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 234,
+      "topLeftY": 66,
+      "bottomRightX": 533,
+      "bottomRightY": 336,
+      "content": "![img-60.jpeg](img-60.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-60.jpeg"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 345,
+      "bottomRightX": 590,
+      "bottomRightY": 367,
+      "content": "Рис. 4.4. Пример восстановления среза объемной сцены",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 404,
+      "bottomRightX": 671,
+      "bottomRightY": 483,
+      "content": "На рис. 4.5 представлены примеры трехмерных объектов, оптически восстановленных с ДОЭ, синтезированных многоплоскостными методами, отобранными в результате анализе методов в Главе 1.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 491,
+      "bottomRightX": 671,
+      "bottomRightY": 688,
+      "content": "Изображения на рис. 4.5(а,е,л,р) являются отснятыми в плоскости ближайшего к ПВМС сфокусированного изображения объемной сцены (т.е. первой плоскости), восстановленного с ДОЭ, синтезированного различными методами. Изображения на рис. 4.5(б,ж,м,с) являются кадрами для второй плоскости объемного изображения, восстановленного с ДОЭ, синтезированного различными методами. Для других изображений связь с кадрами представляется аналогично.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 649,
+      "topLeftY": 984,
+      "bottomRightX": 670,
+      "bottomRightY": 1001,
+      "content": "46",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 223,
+      "topLeftY": 318,
+      "bottomRightX": 548,
+      "bottomRightY": 341,
+      "content": "# ПОЯСНИТЕЛЬНАЯ ЗАПИСКА",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 356,
+      "bottomRightX": 563,
+      "bottomRightY": 376,
+      "content": "к выпускной квалификационной работе на тему:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 384,
+      "bottomRightX": 668,
+      "bottomRightY": 491,
+      "content": "ОПТИЧЕСКОЕ ФОРМИРОВАНИЕ ТРЕХМЕРНЫХ СЦЕН С  \nИСПОЛЬЗОВАНИЕМ ФАЗОВЫХ ДИФРАКЦИОННЫХ ОПТИЧЕСКИХ  \nЭЛЕМЕНТОВ, ОТОБРАЖАЕМЫХ ПРОСТРАНСТВЕННО-ВРЕМЕННЫМИ  \nМОДУЛЯТОРАМИ СВЕТА",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 588,
+      "bottomRightX": 505,
+      "bottomRightY": 609,
+      "content": "Студент-дипломник _______________ Минаева Е.Д.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 627,
+      "bottomRightX": 640,
+      "bottomRightY": 649,
+      "content": "Руководитель работы _______________ к.ф.-м.н., доцент Черёмхин П.А.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 666,
+      "bottomRightX": 581,
+      "bottomRightY": 688,
+      "content": "Консультант _______________ инженер Шифрина А.В.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 705,
+      "bottomRightX": 608,
+      "bottomRightY": 727,
+      "content": "Рецензент _______________ к.ф.-м.н., доцент Института",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 172,
+      "topLeftY": 744,
+      "bottomRightX": 614,
+      "bottomRightY": 765,
+      "content": "физических исследований и технологий РУДН Чехлова Т.К.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 784,
+      "bottomRightX": 663,
+      "bottomRightY": 805,
+      "content": "Заведующий кафедрой _______________ д.ф.-м.н., профессор Евтихиев Н.Н.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 336,
+      "topLeftY": 852,
+      "bottomRightX": 434,
+      "bottomRightY": 870,
+      "content": "Москва 2019",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 657,
+      "topLeftY": 985,
+      "bottomRightX": 671,
+      "bottomRightY": 1001,
+      "content": "2",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

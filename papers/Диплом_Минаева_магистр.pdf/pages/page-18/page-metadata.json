@@ -1,0 +1,75 @@
+{
+  "index": 17,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 256,
+      "topLeftY": 64,
+      "bottomRightX": 549,
+      "bottomRightY": 212,
+      "content": "![img-11.jpeg](img-11.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-11.jpeg"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 225,
+      "bottomRightX": 561,
+      "bottomRightY": 244,
+      "content": "Рис. 1.8. Схема метода «глобальный пинг-понг»",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 282,
+      "bottomRightX": 671,
+      "bottomRightY": 478,
+      "content": "Расчет распространения излучения и применение амплитудных и фазовых ограничений производятся одновременно для всех сечений объемной сцены, соответствующих сфокусированным изображениям объектов. Глобальный метод «пинг-понг» позволяет синтезировать ДОЭ для объемной сцены, состоящей из набора плоских объектов. Так же метод «глобальный пинг-понг» позволяет уменьшить влияние спеклов в области восстанавливаемого изображения.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 487,
+      "bottomRightX": 671,
+      "bottomRightY": 595,
+      "content": "Глобальный метод «пинг-понг», также являясь итеративным методом синтеза ДОЭ, но, в отличие от последовательного метода «пинг-понг», позволяет усреднять вклады интенсивности от всех плоскостей на каждой своей итерации.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 143,
+      "topLeftY": 633,
+      "bottomRightX": 481,
+      "bottomRightY": 653,
+      "content": "### **Метод на основе невыпуклой оптимизации**",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 662,
+      "bottomRightX": 671,
+      "bottomRightY": 769,
+      "content": "Метод на основе невыпуклой оптимизации [19] позволяет вносить изменения в значения фазы, когда невозможно точно удовлетворить всем ограничениям интенсивности. На рис. 1.9 представлена схема расчета ДОЭ методом на основе невыпуклой оптимизации.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 650,
+      "topLeftY": 984,
+      "bottomRightX": 670,
+      "bottomRightY": 1001,
+      "content": "18",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

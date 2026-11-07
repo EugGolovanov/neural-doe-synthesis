@@ -1,0 +1,29 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 143,
+      "topLeftY": 67,
+      "bottomRightX": 672,
+      "bottomRightY": 178,
+      "content": "3. Исследовать фазовые характеристики ЖК ПВМС, используемого для отображения синтезированных фазовых ДОЭ.\n4. Провести оптические эксперименты по восстановлению объемных объектов с фазовых ДОЭ, синтезированных отобранными методами.",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 657,
+      "topLeftY": 985,
+      "bottomRightX": 671,
+      "bottomRightY": 1002,
+      "content": "7",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

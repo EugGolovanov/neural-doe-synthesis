@@ -1,0 +1,85 @@
+{
+  "index": 32,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 100,
+      "topLeftY": 67,
+      "bottomRightX": 671,
+      "bottomRightY": 117,
+      "content": "(рис. 2.1(в)), представлены на рис. 2.9. Как видно, изображения в каждой плоскости визуально различимы.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 154,
+      "bottomRightX": 673,
+      "bottomRightY": 268,
+      "content": "![img-33.jpeg](img-33.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-33.jpeg"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 307,
+      "bottomRightX": 549,
+      "bottomRightY": 356,
+      "content": "Рис. 2.9. Срезы объемного объекта, восстановленного с ДОЭ, синтезированного поточечным методом",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 395,
+      "bottomRightX": 671,
+      "bottomRightY": 473,
+      "content": "Для объектов, представленных на рис. 2.9, был рассчитан коэффициент корреляции исходного и восстановленных изображений согласно выражению (2.1). Результаты представлены в таблице 2.4.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 512,
+      "bottomRightX": 671,
+      "bottomRightY": 532,
+      "content": "Табл. 2.4. Значение коэффициента корреляции для изображений",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 537,
+      "bottomRightX": 671,
+      "bottomRightY": 716,
+      "content": "|  Номер плоскости объемного объекта | 1 | 2 | 3 | 4 | 5  |\n| --- | --- | --- | --- | --- | --- |\n|  Средний коэффициент корреляции | 0,95 | 0,93 | 0,92 | 0,95 | 0,93  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 746,
+      "bottomRightX": 671,
+      "bottomRightY": 825,
+      "content": "На рис. 2.10 представлено изменение степени фокусировки изображения, восстанавливаемого с ДОЭ, в зависимости от расстояния до данного ДОЭ для третьей плоскости объемного объекта.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 649,
+      "topLeftY": 984,
+      "bottomRightX": 670,
+      "bottomRightY": 1001,
+      "content": "33",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

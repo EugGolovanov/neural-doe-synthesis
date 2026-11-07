@@ -1,0 +1,326 @@
+{
+  "index": 13,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 177,
+      "topLeftY": 43,
+      "bottomRightX": 250,
+      "bottomRightY": 53,
+      "content": "Research Article",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 409,
+      "topLeftY": 43,
+      "bottomRightX": 635,
+      "bottomRightY": 54,
+      "content": "Vol. 28, No. 18 / 31 August 2020 / Optics Express 26649",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 63,
+      "bottomRightX": 285,
+      "bottomRightY": 81,
+      "content": "Optics EXPRESS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 124,
+      "bottomRightX": 641,
+      "bottomRightY": 147,
+      "content": "6. J.-H. Park, “Recent progress in computer-generated holography for three-dimensional scenes,” J. Inf. Disp. 18(1), 1–12 (2017).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 148,
+      "bottomRightX": 642,
+      "bottomRightY": 172,
+      "content": "7. R. Häussler, N. Leister, and H. Stolle, “Large holographic 3d display for real-time computer-generated holography,” in Digital Optical Technologies 2017, vol. 10335 (International Society for Optics and Photonics, 2017), p. 103350X.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 173,
+      "bottomRightX": 614,
+      "bottomRightY": 185,
+      "content": "8. D. Leseberg, “Computer-generated three-dimensional image holograms,” Appl. Opt. 31(2), 223–229 (1992).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 186,
+      "bottomRightX": 641,
+      "bottomRightY": 209,
+      "content": "9. R. W. Gerchberg, “A practical algorithm for the determination of phase from image and diffraction plane pictures,” Optik 35, 237–246 (1972).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 210,
+      "bottomRightX": 641,
+      "bottomRightY": 233,
+      "content": "10. J. Zhang, N. Pégard, J. Zhong, H. Adesnik, and L. Waller, “3d computer-generated holography by non-convex optimization,” Optica 4(10), 1306–1313 (2017).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 235,
+      "bottomRightX": 641,
+      "bottomRightY": 258,
+      "content": "11. P. Chakravarthula, Y. Peng, J. Kollin, H. Fuchs, and F. Heide, “Wirtinger holography for near-eye displays,” ACM Trans. Graph. 38(6), 1–13 (2019).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 259,
+      "bottomRightX": 641,
+      "bottomRightY": 295,
+      "content": "12. P. Chakravarthula, Y. Peng, J. Kollin, F. Heide, and H. Fuchs, “Computing high quality phase-only holograms for holographic displays,” in Optical Architectures for Displays and Sensing in Augmented, Virtual, and Mixed Reality (AR, VR, MR), vol. 11310 (International Society for Optics and Photonics, 2020), pp. 1–16.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 296,
+      "bottomRightX": 641,
+      "bottomRightY": 319,
+      "content": "13. N. C. Pégard, A. R. Mardinly, I. A. Oldenburg, S. Sridharan, L. Waller, and H. Adesnik, “Three-dimensional scanless holographic optogenetics with temporal focusing (3d-shot),” Nat. Commun. 8(1), 1228 (2017).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 321,
+      "bottomRightX": 641,
+      "bottomRightY": 344,
+      "content": "14. Z. Zhang, L. E. Russell, A. M. Packer, O. M. Gauld, and M. Häusser, “Closed-loop all-optical interrogation of neural circuits in vivo,” Nat. Methods 15(12), 1037–1040 (2018).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 345,
+      "bottomRightX": 641,
+      "bottomRightY": 369,
+      "content": "15. Y. Wang, D. Dong, P. J. Christopher, A. Kadis, R. Mouthaan, F. Yang, and T. D. Wilkinson, “Hardware implementations of computer-generated holography: a review,” Opt. Eng. 59(10), 1–15 (2020).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 370,
+      "bottomRightX": 641,
+      "bottomRightY": 392,
+      "content": "16. Y. Kiarashinejad, S. Abdollahramezani, and A. Adibi, “Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures,” npj Comput. Mater. 6(1), 12 (2020).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 393,
+      "bottomRightX": 641,
+      "bottomRightY": 417,
+      "content": "17. Y. Kiarashinejad, M. Zandehshahvar, S. Abdollahramezani, O. Hemmatyar, R. Pourabolghasem, and A. Adibi, “Knowledge discovery in nanophotonics using geometric deep learning,” Adv. Int. Sys. 2, 1900132 (2020).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 418,
+      "bottomRightX": 641,
+      "bottomRightY": 441,
+      "content": "18. U. S. Kamilov, I. N. Papadopoulos, M. H. Shoreh, A. Goy, C. Vonesch, M. Unser, and D. Psaltis, “Learning approach to optical tomography,” Optica 2(6), 517–522 (2015).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 442,
+      "bottomRightX": 641,
+      "bottomRightY": 466,
+      "content": "19. Y. Xue, S. Cheng, Y. Li, and L. Tian, “Reliable deep-learning-based phase imaging with uncertainty quantification,” Optica 6(5), 618–629 (2019).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 467,
+      "bottomRightX": 641,
+      "bottomRightY": 491,
+      "content": "20. Y. Wu, Y. Rivenson, Y. Zhang, Z. Wei, H. Günaydin, X. Lin, and A. Ozcan, “Extended depth-of-field in holographic imaging using deep-learning-based autofocusing and phase recovery,” Optica 5(6), 704–710 (2018).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 492,
+      "bottomRightX": 641,
+      "bottomRightY": 515,
+      "content": "21. Y. Rivenson, Y. Zhang, H. Günaydin, D. Teng, and A. Ozcan, “Phase recovery and holographic image reconstruction using deep learning in neural networks,” Light: Sci. Appl. 7(2), 17141 (2018).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 516,
+      "bottomRightX": 641,
+      "bottomRightY": 539,
+      "content": "22. Y. Rivenson, Y. Wu, and A. Ozcan, “Deep learning in holography and coherent imaging,” Light: Sci. Appl. 8(1), 85 (2019).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 540,
+      "bottomRightX": 641,
+      "bottomRightY": 564,
+      "content": "23. F. Wang, Y. Bian, H. Wang, M. Lyu, G. Pedrini, W. Osten, G. Barbastathis, and G. Situ, “Phase imaging with an untrained neural network,” Light: Sci. Appl. 9(1), 77 (2020).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 565,
+      "bottomRightX": 641,
+      "bottomRightY": 577,
+      "content": "24. R. Horisaki, R. Takagi, and J. Tanida, “Deep-learning-generated holography,” Appl. Opt. 57(14), 3859–3863 (2018).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 578,
+      "bottomRightX": 534,
+      "bottomRightY": 588,
+      "content": "25. J. W. Goodman, Introduction to Fourier optics (Roberts and Company Publishers, 2005).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 589,
+      "bottomRightX": 641,
+      "bottomRightY": 625,
+      "content": "26. M. H. Eybposh, N. W. Caira, P. Chakravarthula, M. Atisa, and N. C. Pégard, “High-speed computer-generated holography using convolutional neural networks,” in Optics and the Brain, (Optical Society of America, 2020), pp. BTu2C–2.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 626,
+      "bottomRightX": 641,
+      "bottomRightY": 649,
+      "content": "27. Y. Peng, S. Choi, N. Padmanaban, J. Kim, and G. Wetzstein, “Neural holography,” in SIGGRAPH2020, Seeing is Believing: XR Displays, Holograms, and Dyes, (2020), pp. 3–4.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 650,
+      "bottomRightX": 641,
+      "bottomRightY": 674,
+      "content": "28. S. Rosen and S. Shoham, “Holographic display for optical retinal prosthesis: design and validation,” in Optogenetics and Optical Manipulation, (2020), pp. 3–4.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 675,
+      "bottomRightX": 467,
+      "bottomRightY": 686,
+      "content": "29. I. Goodfellow, Y. Bengio, and A. Courville, Deep Learning (MIT, 2016).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 687,
+      "bottomRightX": 641,
+      "bottomRightY": 711,
+      "content": "30. F. Khoshnevisan and Z. Fan, “Rsm-gan: A convolutional recurrent gan for anomaly detection in contaminated seasonal multivariate time series,” https://arxiv.org/abs/1911.07104.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 712,
+      "bottomRightX": 641,
+      "bottomRightY": 735,
+      "content": "31. M. H. Eybposh, M. H. Ebrahim-Abadi, M. Jalilpour-Monesi, and S. S. Saboksayr, “Segmentation and classification of cine-mr images using fully convolutional networks and handcrafted features,” http://arxiv.org/abs/1709.02565.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 736,
+      "bottomRightX": 598,
+      "bottomRightY": 748,
+      "content": "32. D. P. Kingma and J. Ba, “Adam: A method for stochastic optimization,” https://arxiv.org/abs/1412.6980.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 749,
+      "bottomRightX": 641,
+      "bottomRightY": 783,
+      "content": "33. O. Ronneberger, P. Fischer, and T. Brox, “U-net: Convolutional networks for biomedical image segmentation,” in International Conference on Medical image computing and computer-assisted intervention, (Springer, 2015), pp. 234–241.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 784,
+      "bottomRightX": 641,
+      "bottomRightY": 808,
+      "content": "34. S. Ioffe and C. Szegedy, “Batch normalization: Accelerating deep network training by reducing internal covariate shift,” http://arxiv.org/abs/1502.03167.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 809,
+      "bottomRightX": 641,
+      "bottomRightY": 820,
+      "content": "35. K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” https://arxiv.org/abs/1412.6980.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 821,
+      "bottomRightX": 641,
+      "bottomRightY": 857,
+      "content": "36. W. Shi, J. Caballero, F. Huszár, J. Totz, A. P. Aitken, R. Bishop, D. Rueckert, and Z. Wang, “Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network,” in Proceedings of the IEEE conference on computer vision and pattern recognition, (2016), pp. 1874–1883.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 858,
+      "bottomRightX": 641,
+      "bottomRightY": 882,
+      "content": "37. L. Xiao, A. Kaplanyan, A. Fix, M. Chapman, and D. Lanman, “Deepfocus: Learned image synthesis for computational display,” in SIGGRAPH 2018 Talks, (ACM, 2018), pp. 1–23.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

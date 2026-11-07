@@ -1,0 +1,164 @@
+{
+  "index": 9,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 63,
+      "topLeftY": 94,
+      "bottomRightX": 372,
+      "bottomRightY": 165,
+      "content": "[27] Maziar Raissi, Paris Perdikaris, and George E Karniadakis. Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. Journal of Computational physics, 378:686–707, 2019. 2",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 166,
+      "bottomRightX": 372,
+      "bottomRightY": 223,
+      "content": "[28] Sameera Ramasinghe and Simon Lucey. Beyond periodicity: Towards a unifying framework for activations in coordinate-mlps. In European Conference on Computer Vision, pages 142–158. Springer, 2022. 2, 3, 6",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 223,
+      "bottomRightX": 372,
+      "bottomRightY": 293,
+      "content": "[29] Vishwanath Saragadam, Jasper Tan, Guha Balakrishnan, Richard G Baraniuk, and Ashok Veeraraghavan. Miner: Multiscale implicit neural representation. In European Conference on Computer Vision, pages 318–333. Springer, 2022. 2",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 294,
+      "bottomRightX": 372,
+      "bottomRightY": 365,
+      "content": "[30] Vishwanath Saragadam, Daniel LeJeune, Jasper Tan, Guha Balakrishnan, Ashok Veeraraghavan, and Richard G Baraniuk. Wire: Wavelet implicit neural representations. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 18507–18516, 2023. 2, 3, 6",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 366,
+      "bottomRightX": 372,
+      "bottomRightY": 435,
+      "content": "[31] Rajhans Singh, Ankita Shukla, and Pavan Turaga. Polynomial implicit neural representations for large diverse datasets. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 2041-2051, 2023. 2",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 436,
+      "bottomRightX": 372,
+      "bottomRightY": 507,
+      "content": "[32] Vincent Sitzmann, Julien Martel, Alexander Bergman, David Lindell, and Gordon Wetzstein. Implicit neural representations with periodic activation functions. Advances in neural information processing systems, 33:7462–7473, 2020. 1, 2, 3, 4, 6",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 508,
+      "bottomRightX": 372,
+      "bottomRightY": 565,
+      "content": "[33] Yannick Strümpler, Janis Postels, Ren Yang, Luc Van Gool, and Federico Tombari. Implicit neural representations for image compression. In European Conference on Computer Vision, pages 74–91. Springer, 2022. 2",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 566,
+      "bottomRightX": 372,
+      "bottomRightY": 649,
+      "content": "[34] Matthew Tancik, Pratul Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan Barron, and Ren Ng. Fourier features let networks learn high frequency functions in low dimensional domains. Advances in Neural Information Processing Systems, 33:7537–7547, 2020. 2, 5, 6",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 650,
+      "bottomRightX": 372,
+      "bottomRightY": 721,
+      "content": "[35] Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, W Yifan, Christoph Lassner, Vincent Sitzmann, Ricardo Martin-Brualla, Stephen Lombardi, et al. Advances in neural rendering. In Computer Graphics Forum, pages 703–735. Wiley Online Library, 2022. 1, 8",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 722,
+      "bottomRightX": 372,
+      "bottomRightY": 792,
+      "content": "[36] Peng Wang, Lingjie Liu, Yuan Liu, Christian Theobalt, Taku Komura, and Wenping Wang. Neus: Learning neural implicit surfaces by volume rendering for multi-view reconstruction. Advances in Neural Information Processing Systems, 34:27171–27183, 2021. 2",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 794,
+      "bottomRightX": 372,
+      "bottomRightY": 849,
+      "content": "[37] Zhijie Wu, Yuhe Jin, and Kwang Moo Yi. Neural fourier filter bank. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 14153-14163, 2023. 2",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 851,
+      "bottomRightX": 372,
+      "bottomRightY": 921,
+      "content": "[38] Shaowen Xie, Hao Zhu, Zhen Liu, Qi Zhang, You Zhou, Xun Cao, and Zhan Ma. DINER: Disorder-invariant implicit neural representation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 1–10, 2023. 2",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 397,
+      "topLeftY": 94,
+      "bottomRightX": 705,
+      "bottomRightY": 165,
+      "content": "[39] Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, Shiqin Yan, Numair Khan, Federico Tombari, James Tompkin, Vincent sitzmann, and Srinath Sridhar. Neural fields in visual computing and beyond. Computer Graphics Forum, 41(2):641–676, 2022. 1",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 397,
+      "topLeftY": 166,
+      "bottomRightX": 705,
+      "bottomRightY": 238,
+      "content": "[40] Gizem Yüce, Guillermo Ortiz-Jiménez, Beril Besbinar, and Pascal Frossard. A structured dictionary perspective on implicit neural representations. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 19228–19238, 2022. 2, 3, 6",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 397,
+      "topLeftY": 239,
+      "bottomRightX": 705,
+      "bottomRightY": 282,
+      "content": "[41] Hao Zhu, Zhen Liu, You Zhou, Zhan Ma, and Xun Cao. DNF: Diffractive neural field for lensless microscopic imaging. Optics Express, 30(11):18168–18178, 2022. 2",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 397,
+      "topLeftY": 283,
+      "bottomRightX": 705,
+      "bottomRightY": 339,
+      "content": "[42] Junyu Zhu, Hao Zhu, Qi Zhang, Fang Zhu, Zhan Ma, and Xun Cao. Pyramid nerf: Frequency guided fast radiance field optimization. International Journal of Computer Vision, pages 1–16, 2023. 2",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 382,
+      "topLeftY": 967,
+      "bottomRightX": 408,
+      "bottomRightY": 979,
+      "content": "2722",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

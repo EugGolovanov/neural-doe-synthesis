@@ -1,0 +1,141 @@
+{
+  "index": 29,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 100,
+      "topLeftY": 67,
+      "bottomRightX": 601,
+      "bottomRightY": 88,
+      "content": "## 2.3 Случай объектов, расположенных в разных участках рабочей области",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 96,
+      "bottomRightX": 671,
+      "bottomRightY": 202,
+      "content": "Для уменьшения паразитного межплоскостной интерференции объекты были разнесены в различные участки рабочей области. Данное паразитное влияние проявляется в «лишних белых» пикселях в поле восстановленного объекта.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 239,
+      "bottomRightX": 671,
+      "bottomRightY": 283,
+      "content": "### 2.3.1 Результаты численного моделирования восстановления изображений с ДОЭ, синтезированных многоплоскостными методами",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 290,
+      "bottomRightX": 671,
+      "bottomRightY": 369,
+      "content": "Объекты, восстановленные с ДОЭ, синтезированных выбранными методами, на основе сцены, состоящей из набора контурных изображений, представлены на рис. 2.7.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 123,
+      "topLeftY": 408,
+      "bottomRightX": 355,
+      "bottomRightY": 560,
+      "content": "![img-28.jpeg](img-28.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-28.jpeg"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 578,
+      "bottomRightX": 253,
+      "bottomRightY": 599,
+      "content": "(а)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 413,
+      "topLeftY": 412,
+      "bottomRightX": 639,
+      "bottomRightY": 560,
+      "content": "![img-29.jpeg](img-29.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-29.jpeg"
+    },
+    {
+      "topLeftX": 516,
+      "topLeftY": 578,
+      "bottomRightX": 542,
+      "bottomRightY": 599,
+      "content": "(б)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 119,
+      "topLeftY": 612,
+      "bottomRightX": 358,
+      "bottomRightY": 763,
+      "content": "![img-30.jpeg](img-30.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-30.jpeg"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 776,
+      "bottomRightX": 253,
+      "bottomRightY": 796,
+      "content": "(в)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 406,
+      "topLeftY": 612,
+      "bottomRightX": 646,
+      "bottomRightY": 763,
+      "content": "![img-31.jpeg](img-31.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-31.jpeg"
+    },
+    {
+      "topLeftX": 516,
+      "topLeftY": 776,
+      "bottomRightX": 542,
+      "bottomRightY": 796,
+      "content": "(г)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 804,
+      "bottomRightX": 671,
+      "bottomRightY": 883,
+      "content": "Рис. 2.7 Объекты, восстановленные с ДОЭ методами: (а) суперпозиций, (б) последовательным «пинг-понг», (в) глобальным метод «пинг-понг», (г) на основе невыпуклой оптимизации",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 649,
+      "topLeftY": 984,
+      "bottomRightX": 671,
+      "bottomRightY": 1001,
+      "content": "30",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

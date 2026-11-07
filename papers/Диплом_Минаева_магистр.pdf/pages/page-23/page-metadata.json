@@ -1,0 +1,75 @@
+{
+  "index": 22,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 125,
+      "topLeftY": 67,
+      "bottomRightX": 670,
+      "bottomRightY": 109,
+      "content": "## Глава 2. Численные эксперименты по синтезу ДОЭ и восстановлению объемных сцен",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 113,
+      "bottomRightX": 671,
+      "bottomRightY": 220,
+      "content": "С использованием высокоуровневой среды программирования MATLAB был проведен синтез ДОЭ методами, отобранных по результатам анализа, представленного в главе 1, а также численное моделирование восстановления изображений с полученных ДОЭ.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 230,
+      "bottomRightX": 395,
+      "bottomRightY": 250,
+      "content": "### 2.1 Условия численного моделирования",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 259,
+      "bottomRightX": 671,
+      "bottomRightY": 426,
+      "content": "Для численного синтеза ДОЭ и моделирования восстановления объемных сцен были использованы три набора бинарных изображений. В первых двух (рис 2.1(а-д), (е-л) изображения располагались по центру рабочей области, в третьем (рис.2.1(л-п) изображения располагались в различных участках рабочей области. Изображения имеют размер 200×200 пикселей каждое. Такой размер изображения был выбран для минимизации времени расчета.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 461,
+      "bottomRightX": 674,
+      "bottomRightY": 897,
+      "content": "![img-14.jpeg](img-14.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-14.jpeg"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 905,
+      "bottomRightX": 543,
+      "bottomRightY": 925,
+      "content": "Рис. 2.1. Исходные бинарные изображения",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 650,
+      "topLeftY": 984,
+      "bottomRightX": 670,
+      "bottomRightY": 1001,
+      "content": "23",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

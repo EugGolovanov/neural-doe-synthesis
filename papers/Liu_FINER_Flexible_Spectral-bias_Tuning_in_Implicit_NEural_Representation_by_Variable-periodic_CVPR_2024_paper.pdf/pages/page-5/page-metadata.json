@@ -1,0 +1,267 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 60,
+      "topLeftY": 94,
+      "bottomRightX": 374,
+      "bottomRightY": 197,
+      "content": "For the points dropped into the second sub-function (i.e., \\(\\frac{\\sqrt{4\\pi + 1} - 1}{2} \\leq |W\\vec{x}| \\leq \\frac{\\sqrt{12\\pi + 1} - 1}{2}\\), the purple areas in Fig. 3(a)), the supported frequency set \\(\\mathcal{F}_{\\omega_0,k}^2\\) differs from \\(\\mathcal{F}_{\\omega_0,k}^1\\) since the base frequency of the used activation changes. Compared with the \\(\\mathcal{F}_{\\omega_0,k}^1\\) in the first sub-function, the \\(\\mathcal{F}_{\\omega_0,k}^2\\) in the second one could be approximated as,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 203,
+      "bottomRightX": 372,
+      "bottomRightY": 238,
+      "content": "\\[\n\\mathcal {F} _ {\\omega_ {0}, k} ^ {2} \\approx \\left\\{\\frac {\\sqrt {4 \\pi + 1} - 1}{\\sqrt {1 2 \\pi + 1} - \\sqrt {4 \\pi + 1}} \\omega \\mid \\omega \\in \\mathcal {F} _ {\\omega_ {0}, k} ^ {1} \\right\\}, \\tag {7}\n\\]",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 244,
+      "bottomRightX": 372,
+      "bottomRightY": 310,
+      "content": "where  \\( \\frac{\\sqrt{4\\pi+1}-1}{\\sqrt{12\\pi+1}-\\sqrt{4\\pi+1}} \\)  characterizes the scale of frequency changes from the first sub-function to the second one. As a result, the supported frequency set  \\( F_{\\omega_{0},k} \\)  for k is close to the origin is,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 315,
+      "bottomRightX": 371,
+      "bottomRightY": 338,
+      "content": "\\[\n\\mathcal {F} _ {\\omega_ {0}, k} = \\mathcal {F} _ {\\omega_ {0}, k} ^ {1} \\cup \\mathcal {F} _ {\\omega_ {0}, k} ^ {2}. \\tag {8}\n\\]",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 344,
+      "bottomRightX": 372,
+      "bottomRightY": 440,
+      "content": "k is far away from the origin point. For example,  \\( \\vec{b} \\)  is initialized as 10. Because the frequencies of each subfunctions are further increased for  \\( \\vec{b}=10 \\)  (in Fig. 3(b), the frequency is increased from the orange box to purple box), the supported frequency set  \\( F_{\\omega_{0},k} \\)  is increased a lot compared with the one in Eqn. 8. In summary,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 443,
+      "bottomRightX": 374,
+      "bottomRightY": 507,
+      "content": "Proposition 2 The supported frequency set  \\( F_{\\omega_{0},k} \\)  of FINER increases with the increase of the initialization range of  \\( \\vec{b} \\) , and the supported frequency set  \\( F_{\\omega_{0}} \\)  of SIREN is a subset of  \\( F_{\\omega_{0},k} \\) .",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 512,
+      "bottomRightX": 303,
+      "bottomRightY": 529,
+      "content": "### 4.3. Neural Tangent Kernel Perspective",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 536,
+      "bottomRightX": 372,
+      "bottomRightY": 659,
+      "content": "Neural tangent kernel (NTK) theory [12] views the training of neural network as kernel regression, where the convergence of the network on fitting signals could be derived by analysing the diagonal property of the NTK or the distribution of NTK's eigenvalues. Generally speaking, stronger diagonal property results in better shift-invariance and better convergence, larger eigenvalues leads to faster convergence for high-frequency components [1, 34].",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 659,
+      "bottomRightX": 372,
+      "bottomRightY": 752,
+      "content": "Without loss of generality, we focus on a simple case, i.e., the signal to be learned has 1D input and 1D output and FINER has 1 hidden layer with n neurons, such a network could be written as  \\( f(x;\\theta)=\\sum_{k=1}^{n}c_{k}\\sigma(w_{k}x+b_{k}) \\) , where  \\( \\sigma(x)=\\sin((|x|+1)x) \\)  is the activation function. According to the definition, the NTK of FINER could be calculated as \\( ^{1} \\) ,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 759,
+      "bottomRightX": 372,
+      "bottomRightY": 867,
+      "content": "\\[\n\\begin{array}{l} \\mathbf {K} (x _ {i}, x _ {j}) = \\mathbb {E} _ {\\theta} \\left\\langle \\nabla_ {\\theta} f (x _ {i}; \\theta), \\nabla_ {\\theta} f (x _ {j}; \\theta) \\right\\rangle \\\\ = \\left(x _ {i} x _ {j} + 1\\right) \\mathbb {E} _ {\\theta} \\sum_ {k = 1} ^ {n} c _ {k} ^ {2} \\underbrace {(2 \\left| g _ {k} \\left(x _ {i}\\right) \\right| + 1) (2 \\left| g _ {k} \\left(x _ {j}\\right) \\right| + 1)} _ {\\text { Scale   term }} \\\\ \\underbrace {\\cos \\left(\\left(\\left| g _ {k} \\left(x _ {i}\\right) \\right| + 1\\right) g _ {k} \\left(x _ {i}\\right)\\right) \\cos \\left(\\left(\\left| g _ {k} \\left(x _ {j}\\right) \\right| + 1\\right) g _ {k} \\left(x _ {j}\\right)\\right)} _ {\\text {Sign term}} \\\\ \\end{array}\n\\]",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 870,
+      "bottomRightX": 230,
+      "bottomRightY": 888,
+      "content": "where \\(g_{k}(x_{i}) = w_{k}x_{i} + b_{k}\\).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 352,
+      "topLeftY": 887,
+      "bottomRightX": 370,
+      "bottomRightY": 901,
+      "content": "(9)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 907,
+      "bottomRightX": 343,
+      "bottomRightY": 921,
+      "content": "\\( ^{1} \\) Please refer the supplemental material for details of derivation.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 404,
+      "topLeftY": 91,
+      "bottomRightX": 535,
+      "bottomRightY": 198,
+      "content": "![img-7.jpeg](img-7.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-7.jpeg"
+    },
+    {
+      "topLeftX": 414,
+      "topLeftY": 198,
+      "bottomRightX": 499,
+      "bottomRightY": 212,
+      "content": "(a) NTK \\(\\vec{b}\\sim U(-1,1)\\)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 561,
+      "topLeftY": 91,
+      "bottomRightX": 694,
+      "bottomRightY": 198,
+      "content": "![img-8.jpeg](img-8.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-8.jpeg"
+    },
+    {
+      "topLeftX": 571,
+      "topLeftY": 200,
+      "bottomRightX": 656,
+      "bottomRightY": 213,
+      "content": "(b) NTK \\(\\vec{b}\\sim U(-5,5)\\)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 403,
+      "topLeftY": 217,
+      "bottomRightX": 535,
+      "bottomRightY": 325,
+      "content": "![img-9.jpeg](img-9.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-9.jpeg"
+    },
+    {
+      "topLeftX": 409,
+      "topLeftY": 328,
+      "bottomRightX": 504,
+      "bottomRightY": 340,
+      "content": "(c) NTK \\(\\vec{b}\\sim U(-20,20)\\)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 538,
+      "topLeftY": 216,
+      "bottomRightX": 694,
+      "bottomRightY": 329,
+      "content": "![img-10.jpeg](img-10.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-10.jpeg"
+    },
+    {
+      "topLeftX": 582,
+      "topLeftY": 329,
+      "bottomRightX": 645,
+      "bottomRightY": 340,
+      "content": "(d) Eigenvalues",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 345,
+      "bottomRightX": 707,
+      "bottomRightY": 431,
+      "content": "Figure 4. Visualizations of NTKs and the corresponding eigenvalues in FINER. (a)-(c) visualize the NTKs when \\(\\vec{b}\\) is initialized following \\(\\mathcal{U}(-1,1)\\), \\(\\mathcal{U}(-5,5)\\) and \\(\\mathcal{U}(-20,20)\\), respectively. (d) plots the corresponding eigenvalues. Because the max eigenvalue is much larger than the smallest one, all eigenvalues are processed by a log function for visualization.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 446,
+      "bottomRightX": 705,
+      "bottomRightY": 554,
+      "content": "It is observed that, the scale term is approximately proportional to the absolute of bias  \\( b_{k} \\)  for all nodes of the kernel, however the change rule of sign term for diagonal elements differs significantly from non-diagonal elements. Specifically, the sign term is always a positive value for diagonal elements while could be either positive or negative for non-diagonal elements.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 554,
+      "bottomRightX": 705,
+      "bottomRightY": 677,
+      "content": "As a result, the diagonal elements  \\( \\mathbf{K}(x_{i}, x_{i}) \\)  are increased with the increase of  \\( |b| \\) , while the non-diagonal elements  \\( \\mathbf{K}(x_{i}, x_{j}) \\)  can be very small, appearing as a diagonal enhanced kernel. According to [12, 34], NTK with a stronger diagonal property provides better shift-invariance, i.e., the coordinates in the training set are little coupled with each other during the training process, thus the signal could be better learned.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 679,
+      "bottomRightX": 705,
+      "bottomRightY": 833,
+      "content": "Figs. 4(a)-(c) visualize the NTKs of FINER for learning a 1D signal with 1024 coordinates. It is observed that the diagonal property of NTK is enhanced with the increase of initialization range of \\( b \\), verifying the analysis mentioned above. Fig. 4(d) visualizes the changes of eigenvalue distribution, it is observed that the number of eigenvalues which are larger than \\( 10^0 \\) is significantly increased when larger initialization range is applied to bias. As a result, FINER provides high capacity for learning high-frequency components.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 396,
+      "topLeftY": 849,
+      "bottomRightX": 500,
+      "bottomRightY": 867,
+      "content": "## 5. Experiments",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 875,
+      "bottomRightX": 705,
+      "bottomRightY": 922,
+      "content": "To verify the behaviors and performance of FINER, three experiments are conducted, including the 2D image fitting, 3D signed distance field representation and the 5D neural",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 382,
+      "topLeftY": 967,
+      "bottomRightX": 408,
+      "bottomRightY": 979,
+      "content": "2717",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

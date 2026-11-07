@@ -1,0 +1,110 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 142,
+      "topLeftY": 99,
+      "bottomRightX": 531,
+      "bottomRightY": 118,
+      "content": "Каждая итерация метода включает следующие шаги:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 127,
+      "bottomRightX": 671,
+      "bottomRightY": 324,
+      "content": "1. Расчёт распространения светового поля из плоскости ДОЭ в плоскость восстановленного изображения. Линейная комбинация из полученного распределения комплексной амплитуды в плоскости восстановленного изображения  \\( B_{n}[\\xi,\\eta] \\)  и распределения амплитуды по исходному объекту  \\( A_{0}[\\xi,\\eta] \\)  является следующей оценкой амплитуды в плоскости изображения  \\( A_{n}[\\xi,\\eta] \\) :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 290,
+      "topLeftY": 331,
+      "bottomRightX": 670,
+      "bottomRightY": 357,
+      "content": "\\[\n\\left| A _ {n} [ \\xi , \\eta ] = \\right| \\mu A _ {0} [ \\xi , \\eta ] + (1 - \\mu) \\left| B _ {n} [ \\xi , \\eta ] \\right| \\tag {1.8}\n\\]",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 183,
+      "topLeftY": 368,
+      "bottomRightX": 356,
+      "bottomRightY": 387,
+      "content": "где μ – число от 0 до 2.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 162,
+      "topLeftY": 397,
+      "bottomRightX": 670,
+      "bottomRightY": 476,
+      "content": "2. Расчёт распространения светового поля из плоскости восстановленного изображения в плоскость ДОЭ; замена амплитудного распределения во всём поле в плоскости ДОЭ на 1.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 485,
+      "bottomRightX": 670,
+      "bottomRightY": 535,
+      "content": "Аналогично методу Герчберга-Сэкстона, для адаптивно-аддитивного метода НСКО с ростом числа итераций не возрастает.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 573,
+      "bottomRightX": 445,
+      "bottomRightY": 592,
+      "content": "#### 1.2.2 Многоплоскостные методы синтеза ДОЭ",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 602,
+      "bottomRightX": 670,
+      "bottomRightY": 710,
+      "content": "В данном разделе рассмотрены четыре варианта реализации многоплоскостных методов синтеза ДОЭ: метод суперпозиций [14], последовательный [8] и глобальный методы «пинг-понга» [11] и метод на основе невыпуклой оптимизации [19].",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 141,
+      "topLeftY": 748,
+      "bottomRightX": 307,
+      "bottomRightY": 768,
+      "content": "#### Метод суперпозиций",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 778,
+      "bottomRightX": 670,
+      "bottomRightY": 915,
+      "content": "Метод суперпозиций [14] – заключается в разделении требуемой интенсивности на сегменты. Он позволяет разбивать исходную интенсивность не на точки, а на плоскости. Такой подход ускоряет расчеты и уменьшает ошибку синтеза из-за межплоскостной интерференции. На рис. 1.6 представлена принципиальная схема метода суперпозиций.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 652,
+      "topLeftY": 986,
+      "bottomRightX": 668,
+      "bottomRightY": 1000,
+      "content": "15",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

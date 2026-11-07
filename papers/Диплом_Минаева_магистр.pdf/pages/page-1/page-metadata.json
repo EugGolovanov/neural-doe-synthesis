@@ -1,0 +1,137 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 112,
+      "topLeftY": 67,
+      "bottomRightX": 657,
+      "bottomRightY": 151,
+      "content": "Министерство науки и высшего образования Российской Федерации\nНАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЯДЕРНЫЙ УНИВЕРСИТЕТ «МИФИ»\nИНСТИТУТ ЛАЗЕРНЫХ И ПЛАЗМЕННЫХ ТЕХНОЛОГИЙ\nКАФЕДРА ЛАЗЕРНОЙ ФИЗИКИ",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 533,
+      "topLeftY": 210,
+      "bottomRightX": 665,
+      "bottomRightY": 228,
+      "content": "На правах рукописи",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 533,
+      "topLeftY": 234,
+      "bottomRightX": 613,
+      "bottomRightY": 253,
+      "content": "УДК 535.42",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 317,
+      "bottomRightX": 521,
+      "bottomRightY": 335,
+      "content": "МИНАЕВА ЕКАТЕРИНА ДМИТРИЕВНА",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 372,
+      "bottomRightX": 668,
+      "bottomRightY": 479,
+      "content": "# ОПТИЧЕСКОЕ ФОРМИРОВАНИЕ ТРЕХМЕРНЫХ СЦЕН С\nИСПОЛЬЗОВАНИЕМ ФАЗОВЫХ ДИФРАКЦИОННЫХ ОПТИЧЕСКИХ\nЭЛЕМЕНТОВ, ОТОБРАЖАЕМЫХ ПРОСТРАНСТВЕННО-ВРЕМЕННЫМИ\nМОДУЛЯТОРАМИ СВЕТА",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 539,
+      "bottomRightX": 559,
+      "bottomRightY": 559,
+      "content": "Выпускная квалификационная работа магистра",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 277,
+      "topLeftY": 592,
+      "bottomRightX": 492,
+      "bottomRightY": 610,
+      "content": "Направление подготовки 12.04.03",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 617,
+      "bottomRightX": 481,
+      "bottomRightY": 636,
+      "content": "Фотоника и оптоинформатика",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 456,
+      "topLeftY": 718,
+      "bottomRightX": 652,
+      "bottomRightY": 760,
+      "content": "Выпускная квалификационная\nработа защищена",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 456,
+      "topLeftY": 767,
+      "bottomRightX": 654,
+      "bottomRightY": 786,
+      "content": "«__» __________ 20__ г.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 456,
+      "topLeftY": 792,
+      "bottomRightX": 654,
+      "bottomRightY": 810,
+      "content": "Оценка __________",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 456,
+      "topLeftY": 818,
+      "bottomRightX": 654,
+      "bottomRightY": 837,
+      "content": "Секретарь ГЭК __________",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 352,
+      "topLeftY": 894,
+      "bottomRightX": 417,
+      "bottomRightY": 910,
+      "content": "г. Москва",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 368,
+      "topLeftY": 918,
+      "bottomRightX": 402,
+      "bottomRightY": 935,
+      "content": "2019",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

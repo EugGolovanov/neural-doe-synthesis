@@ -1,0 +1,121 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 100,
+      "topLeftY": 67,
+      "bottomRightX": 671,
+      "bottomRightY": 147,
+      "content": "Распределения фазы в плоскостях восстановленного изображения и ДОЭ не подвергаются изменению. После осуществления заданного количества итераций ДОЭ считается синтезированным.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 155,
+      "bottomRightX": 671,
+      "bottomRightY": 234,
+      "content": "Метод Герчберга-Сэкстона – классический алгоритм, обладающий свойством невозрастания ошибки при увеличении числа итераций. После выполнения определённого числа итераций достигается стагнация.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 143,
+      "topLeftY": 273,
+      "bottomRightX": 587,
+      "bottomRightY": 293,
+      "content": "### Метод Герчберга-Сэкстона с весовыми коэффициентами",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 302,
+      "bottomRightX": 671,
+      "bottomRightY": 410,
+      "content": "Метод Герчберга-Сэкстона с весовыми коэффициентами [6] является модификацией метода Герчберга-Сэкстона. На рис. 1.3 представлен ДОЭ, синтезированный с использованием метода Герчберга-Сэкстона с весовыми коэффициентами, и изображение, восстановленное с него.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 174,
+      "topLeftY": 445,
+      "bottomRightX": 348,
+      "bottomRightY": 620,
+      "content": "![img-3.jpeg](img-3.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-3.jpeg"
+    },
+    {
+      "topLeftX": 250,
+      "topLeftY": 628,
+      "bottomRightX": 274,
+      "bottomRightY": 648,
+      "content": "(а)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 463,
+      "topLeftY": 445,
+      "bottomRightX": 636,
+      "bottomRightY": 620,
+      "content": "![img-4.jpeg](img-4.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-4.jpeg"
+    },
+    {
+      "topLeftX": 538,
+      "topLeftY": 628,
+      "bottomRightX": 563,
+      "bottomRightY": 648,
+      "content": "(б)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 658,
+      "bottomRightX": 671,
+      "bottomRightY": 707,
+      "content": "Рис. 1.3. ДОЭ, синтезированный методом Герчберга-Сэкстона с весовыми коэффициентами, (а) и изображение, восстановленное с него (б)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 744,
+      "bottomRightX": 671,
+      "bottomRightY": 882,
+      "content": "Первые несколько итераций реализуются по классической схеме Герчберга-Сэкстона. После определённого количества итераций амплитуда полученного распределения в плоскости восстановленного изображения $A_n[\\xi, \\eta]$ перестает заменяться на распределение амплитуды по исходному объекту $A_0[\\xi, \\eta]$ и начинает определяться выражением:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 889,
+      "bottomRightX": 620,
+      "bottomRightY": 916,
+      "content": "$$A_n[\\xi, \\eta] = \\alpha_n A_0[\\xi, \\eta] \\quad (1.4)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 650,
+      "topLeftY": 984,
+      "bottomRightX": 670,
+      "bottomRightY": 1001,
+      "content": "12",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

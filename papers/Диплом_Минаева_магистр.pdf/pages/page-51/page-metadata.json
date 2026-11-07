@@ -1,0 +1,38 @@
+{
+  "index": 50,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 100,
+      "topLeftY": 68,
+      "bottomRightX": 259,
+      "bottomRightY": 89,
+      "content": "## Список литературы",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 122,
+      "topLeftY": 91,
+      "bottomRightX": 673,
+      "bottomRightY": 869,
+      "content": "1. Волков А.В., Головашкин, Д.Л., Досколович Л.Л. и др. Методы компьютерной оптики // М.: Физматлит, 688 с, 2003.\n2. Gabor D. A new microscopic principle // Nature, Vol.161, Pp.777-778, 1948.\n3. Денисюк Ю.Н. Голография с записью в трехмерных и двухмерных средах // Труды государственного оптического института имени С.И.Вавилова, Т. 36, Вып. 165. С. 121-131, 1969.\n4. Brown B.R., Lohmann A. W. Complex spatial filtering with binary masks // Appl. Opt., Vol. 5(6), Pp. 967-969, 1966.\n5. Фишман А.И. Фазовые оптические элементы – киноформы // Соросовский образовательный журнал, № 12, стр. 76-77, 1999.\n6. Gerchberg, R. W. and Saxton, W. O. A practical algorithm for the determination of phase from image and diffraction plane pictures // Optik Vol. 75 (2), Pp. 237–246, 1972.\n7. Fienup J.R. Iterative method applied to image reconstruction and to computer-generated holograms // Opt. Eng. Vol. 19. Pp. 297–305, 1980.\n8. Kuzmenko A., Iezhov P., Kim J.-T. Weighting Iterative Fourier Transform Algorithm for Kinoform Implemented with Phase-Only SLM // Proc. of SPIE Vol. 7008, Pp 70081W, 2008.\n9. Makowski M., Sypek M., Kolodziejczyk A., et al. Iterative design of multiplane holograms: experiments and applications // Opt. Eng., Vol. 46, Pp.045802, 2007.\n10. Piestun R., Shamir J., Weßkamp B., et al. On-axis computer-generated holograms for three-dimensional display // Opt. Lett., Vol. 22, Pp. 922–924, 1997.\n11. Piestun R., Spektor B., and Shamir J. Wave fields in three dimensions: analysis and synthesis // J. Opt. Soc. Am. A, Vol. 13, Pp. 1837–1848, 1996.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 649,
+      "topLeftY": 984,
+      "bottomRightX": 670,
+      "bottomRightY": 1001,
+      "content": "51",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

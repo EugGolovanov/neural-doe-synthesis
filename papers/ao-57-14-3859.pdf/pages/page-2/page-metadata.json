@@ -1,0 +1,197 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 94,
+    "height": 1023,
+    "width": 776
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 78,
+      "topLeftY": 29,
+      "bottomRightX": 103,
+      "bottomRightY": 39,
+      "content": "3860",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 119,
+      "topLeftY": 28,
+      "bottomRightX": 336,
+      "bottomRightY": 41,
+      "content": "Vol. 57, No. 14 / 10 May 2019 / Applied Optics",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 595,
+      "topLeftY": 28,
+      "bottomRightX": 707,
+      "bottomRightY": 42,
+      "content": "Research Article",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 67,
+      "bottomRightX": 352,
+      "bottomRightY": 344,
+      "content": "![img-0.jpeg](img-0.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-0.jpeg"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 349,
+      "bottomRightX": 307,
+      "bottomRightY": 366,
+      "content": "Fig. 1. Diagram illustrating the proposed method.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 398,
+      "bottomRightX": 379,
+      "bottomRightY": 446,
+      "content": "and has shown promising results [24]. The network architecture we use is shown in Fig. 2(a). The inverse process $\\mathcal{F}^{-1}[\\bullet]$ of Eq. (1) is written as",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 463,
+      "bottomRightX": 377,
+      "bottomRightY": 481,
+      "content": "$$\\hat{\\mathbf{x}} = \\mathcal{F}^{-1}[\\hat{\\mathbf{y}}]. \\tag{3}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 498,
+      "bottomRightX": 378,
+      "bottomRightY": 560,
+      "content": "The output of this inverse process and the network in Fig. 2(a) is a phase pattern $\\hat{\\mathbf{x}} \\in \\mathbb{R}^{N^2 \\times 1}$ displayed on the SLM, to reproduce a target intensity pattern $\\hat{\\mathbf{y}} \\in \\mathbb{R}^{N^2 \\times 1}$ on the image sensor, as shown in Fig. 1.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 581,
+      "bottomRightX": 371,
+      "bottomRightY": 699,
+      "content": "![img-1.jpeg](img-1.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-1.jpeg"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 710,
+      "bottomRightX": 213,
+      "bottomRightY": 822,
+      "content": "![img-2.jpeg](img-2.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-2.jpeg"
+    },
+    {
+      "topLeftX": 222,
+      "topLeftY": 708,
+      "bottomRightX": 360,
+      "bottomRightY": 822,
+      "content": "![img-3.jpeg](img-3.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-3.jpeg"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 833,
+      "bottomRightX": 227,
+      "bottomRightY": 918,
+      "content": "![img-4.jpeg](img-4.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-4.jpeg"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 853,
+      "bottomRightX": 360,
+      "bottomRightY": 918,
+      "content": "![img-5.jpeg](img-5.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-5.jpeg"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 923,
+      "bottomRightX": 377,
+      "bottomRightY": 952,
+      "content": "Fig. 2. Structures of the (a) whole network, (b) D-block, (c) U-block, (d) R-block, and (e) S-block.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 402,
+      "topLeftY": 67,
+      "bottomRightX": 722,
+      "bottomRightY": 173,
+      "content": "In the training process, the optical setup shown in Fig. 1 is simulated in a computer based on Eq. (2). A number of training pairs of random phase patterns $\\tilde{\\mathbf{x}} \\in \\mathbb{R}^{N^2 \\times 1}$ on the SLM and their Fresnel propagating intensity patterns $\\tilde{\\mathbf{y}} \\in \\mathbb{R}^{N^2 \\times 1}$ on the image sensor are calculated. The network is regressed to the inverse process of the optical propagation with the training pairs.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 402,
+      "topLeftY": 173,
+      "bottomRightX": 722,
+      "bottomRightY": 418,
+      "content": "The network is composed of multiscale ResNets, as shown in Fig. 2(a), where $K$ is the number of filters at the convolutional layers. The pixel counts of both the holographic plane and the image sensor plane are assumed to be a power of 2 in this paper, but this is easily extendable to an arbitrary pixel count with zero padding. \"D\" is a block for downsampling, as shown in Fig. 2(b), \"U\" is a block for upsampling, as shown in Fig. 2(c), \"R\" is a block with residual convolutions, as shown in Fig. 2(d), and \"S\" is a convolutional block for a skip convolutional connection, as shown in Fig. 2(e). The definitions of the layers are as follows [36]: \"BatchNorm\" is a layer of the batch normalization [37]; \"ReLU\" is a layer of the rectified linear unit [38]; \"Conv $(S, L)$\" is a layer of the 2D convolution with a filter size $S$ and a stride $L$; \"TConv $(S, L)$\" is a layer of the transposed 2D convolution with the filter size $S$ and the stride $L$. The loss function of the final regression layer is the mean squared error.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 403,
+      "topLeftY": 445,
+      "bottomRightX": 653,
+      "bottomRightY": 461,
+      "content": "### 3. EXPERIMENTAL DEMONSTRATION",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 402,
+      "topLeftY": 466,
+      "bottomRightX": 722,
+      "bottomRightY": 634,
+      "content": "The proposed method was demonstrated experimentally. The pixel counts of holograms and target patterns were $64^2 (= N^2)$, and the number of filters at the convolutional layers was $32 (= K)$. The training data sets were composed of uniform random phase patterns $\\tilde{\\mathbf{x}}$ and their Fresnel propagating patterns $\\tilde{\\mathbf{y}}$ at the distance $z$. The number of training speckle pairs was 100,000. A learning algorithm called \"Adam\" was used for optimizing the network with an initial learning rate of 0.001, a mini-batch size of 50, and a maximum number of epochs of 100 [39]. Those parameters were chosen experimentally. The code was implemented with MATLAB.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 402,
+      "topLeftY": 634,
+      "bottomRightX": 722,
+      "bottomRightY": 770,
+      "content": "A collimated beam from a laser [1103P manufactured by Edmund Optics; wavelength ($\\lambda$): 632.8 nm] was used for illuminating the transmissive SLM [LC 2012 manufactured by Holoeye; pixel pitch ($p$): 36 $\\mu$m; pixel count: 768 $\\times$ 1024] operating in the phase mode. The image sensor (PL-B953 manufactured by PixelLink; pixel pitch: 4.65 $\\mu$m; pixel count: 768 $\\times$ 1024) was located 13 cm (= $z$) from the SLM. These optical elements were arranged in an on-axis configuration, as the optical setup shown in Fig. 1.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 402,
+      "topLeftY": 770,
+      "bottomRightX": 722,
+      "bottomRightY": 953,
+      "content": "In the first demonstration, single-spot focusing with the proposed method was experimentally performed. The results are shown in Fig. 3. The hologram $\\hat{\\mathbf{x}}$ calculated by providing a delta function to the trained network is shown in Fig. 3(a). The single-spot pattern $\\hat{\\mathbf{y}}$ in Fig. 3(b) was optically reproduced from the hologram. A line profile of the spot is shown in Fig. 3(c). The FWHM of the profile was 36.0 $\\mu$m, and the theoretical diffraction limit was 35.7 $\\mu$m (= $z\\lambda/pN$) [4]. Therefore, the hologram based on our method approximately achieved the diffraction limit. The peak-to-background ratio was 17.9, which is calculated as $s/b$, where $s$ is the spot intensity value, and $b$ is the average intensity value in the non-spot area [40].",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

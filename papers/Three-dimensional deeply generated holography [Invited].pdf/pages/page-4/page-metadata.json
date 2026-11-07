@@ -1,0 +1,460 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 94,
+    "height": 1023,
+    "width": 776
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 79,
+      "topLeftY": 29,
+      "bottomRightX": 107,
+      "bottomRightY": 40,
+      "content": "A326",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 123,
+      "topLeftY": 29,
+      "bottomRightX": 339,
+      "bottomRightY": 41,
+      "content": "Vol. 60, No. 4 / 1 February 2021 / Applied Optics",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 597,
+      "topLeftY": 28,
+      "bottomRightX": 709,
+      "bottomRightY": 41,
+      "content": "Research Article",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 66,
+      "bottomRightX": 335,
+      "bottomRightY": 124,
+      "content": "![img-2.jpeg](img-2.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-2.jpeg"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 128,
+      "bottomRightX": 223,
+      "bottomRightY": 139,
+      "content": "(a)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 150,
+      "bottomRightX": 183,
+      "bottomRightY": 209,
+      "content": "![img-3.jpeg](img-3.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-3.jpeg"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 214,
+      "bottomRightX": 158,
+      "bottomRightY": 224,
+      "content": "(b)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 150,
+      "bottomRightX": 311,
+      "bottomRightY": 209,
+      "content": "![img-4.jpeg](img-4.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-4.jpeg"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 214,
+      "bottomRightX": 256,
+      "bottomRightY": 224,
+      "content": "(c)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 236,
+      "bottomRightX": 183,
+      "bottomRightY": 294,
+      "content": "![img-5.jpeg](img-5.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-5.jpeg"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 299,
+      "bottomRightX": 158,
+      "bottomRightY": 309,
+      "content": "(d)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 236,
+      "bottomRightX": 311,
+      "bottomRightY": 294,
+      "content": "![img-6.jpeg](img-6.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-6.jpeg"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 299,
+      "bottomRightX": 256,
+      "bottomRightY": 309,
+      "content": "(e)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 321,
+      "bottomRightX": 154,
+      "bottomRightY": 379,
+      "content": "![img-7.jpeg](img-7.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-7.jpeg"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 384,
+      "bottomRightX": 128,
+      "bottomRightY": 394,
+      "content": "(f)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 321,
+      "bottomRightX": 341,
+      "bottomRightY": 379,
+      "content": "![img-8.jpeg](img-8.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-8.jpeg"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 384,
+      "bottomRightX": 256,
+      "bottomRightY": 394,
+      "content": "(g)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 407,
+      "bottomRightX": 154,
+      "bottomRightY": 465,
+      "content": "![img-9.jpeg](img-9.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-9.jpeg"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 470,
+      "bottomRightX": 130,
+      "bottomRightY": 480,
+      "content": "(h)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 407,
+      "bottomRightX": 341,
+      "bottomRightY": 465,
+      "content": "![img-10.jpeg](img-10.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-10.jpeg"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 470,
+      "bottomRightX": 256,
+      "bottomRightY": 480,
+      "content": "(i)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 67,
+      "topLeftY": 492,
+      "bottomRightX": 125,
+      "bottomRightY": 550,
+      "content": "![img-11.jpeg](img-11.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-11.jpeg"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 555,
+      "bottomRightX": 99,
+      "bottomRightY": 566,
+      "content": "(j)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 136,
+      "topLeftY": 492,
+      "bottomRightX": 369,
+      "bottomRightY": 550,
+      "content": "![img-12.jpeg](img-12.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-12.jpeg"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 555,
+      "bottomRightX": 256,
+      "bottomRightY": 565,
+      "content": "(k)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 67,
+      "topLeftY": 578,
+      "bottomRightX": 125,
+      "bottomRightY": 636,
+      "content": "![img-13.jpeg](img-13.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-13.jpeg"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 641,
+      "bottomRightX": 99,
+      "bottomRightY": 651,
+      "content": "(l)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 136,
+      "topLeftY": 578,
+      "bottomRightX": 369,
+      "bottomRightY": 636,
+      "content": "![img-14.jpeg](img-14.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-14.jpeg"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 641,
+      "bottomRightX": 258,
+      "bottomRightY": 651,
+      "content": "(m)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 655,
+      "bottomRightX": 377,
+      "bottomRightY": 767,
+      "content": "Fig. 3. Experimental results with different numbers of layers. (a) Target pattern for four layers. (b) Hologram with 3D-GS for two layers and (c) its reproduction result. (d) Hologram with 3D-DGH for two layers and (e) its reproduction result. (f) Hologram with 3D-GS for three layers and (g) its reproduction result. (h) Hologram with 3D-DGH for three layers and (i) its reproduction result. (j) Hologram with 3D-GS for four layers and (k) its reproduction result. (l) Hologram with 3D-DGH for four layers and (m) its reproduction result.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 790,
+      "bottomRightX": 376,
+      "bottomRightY": 881,
+      "content": "0.136, which was 7% worse than that of the previous simulation in Fig. 2. The hologram with 3D-DGH and its experimental result are shown in Figs. 4(b) and 4(c), respectively. The visual impact due to alphabetic characters, which were not trained, was not very strong in this case by comparison between Figs. 3(e) and 4(c).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 882,
+      "bottomRightX": 377,
+      "bottomRightY": 960,
+      "content": "The sensitivity against geometries of 3D-DGH with training patterns without lateral overlapping in the previous demonstrations of Figs. 2 and 3 was also evaluated with a test data set composed of patterns with lateral overlapping, as shown in Fig. 5(a), where $n_z = 2$. In the numerical analysis of this case,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 503,
+      "topLeftY": 66,
+      "bottomRightX": 621,
+      "bottomRightY": 125,
+      "content": "![img-15.jpeg](img-15.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-15.jpeg"
+    },
+    {
+      "topLeftX": 554,
+      "topLeftY": 129,
+      "bottomRightX": 566,
+      "bottomRightY": 140,
+      "content": "(a)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 468,
+      "topLeftY": 151,
+      "bottomRightX": 656,
+      "bottomRightY": 210,
+      "content": "![img-16.jpeg](img-16.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-16.jpeg"
+    },
+    {
+      "topLeftX": 489,
+      "topLeftY": 214,
+      "bottomRightX": 502,
+      "bottomRightY": 225,
+      "content": "(b)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 589,
+      "topLeftY": 214,
+      "bottomRightX": 600,
+      "bottomRightY": 225,
+      "content": "(c)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 402,
+      "topLeftY": 230,
+      "bottomRightX": 720,
+      "bottomRightY": 273,
+      "content": "Fig. 4. Experimental results by training digits and testing alphabetical letters. (a) Target pattern for two layers. (b) Hologram with 3D-DGH and (c) its reproduction result.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 503,
+      "topLeftY": 301,
+      "bottomRightX": 621,
+      "bottomRightY": 360,
+      "content": "![img-17.jpeg](img-17.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-17.jpeg"
+    },
+    {
+      "topLeftX": 554,
+      "topLeftY": 366,
+      "bottomRightX": 566,
+      "bottomRightY": 376,
+      "content": "(a)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 468,
+      "topLeftY": 387,
+      "bottomRightX": 656,
+      "bottomRightY": 446,
+      "content": "![img-18.jpeg](img-18.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-18.jpeg"
+    },
+    {
+      "topLeftX": 489,
+      "topLeftY": 451,
+      "bottomRightX": 502,
+      "bottomRightY": 462,
+      "content": "(b)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 589,
+      "topLeftY": 451,
+      "bottomRightX": 600,
+      "bottomRightY": 462,
+      "content": "(c)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 402,
+      "topLeftY": 466,
+      "bottomRightX": 720,
+      "bottomRightY": 510,
+      "content": "Fig. 5. Experimental results by training without lateral overlapping and testing with lateral overlapping. (a) Target pattern for two layers. (b) Hologram with 3D-DGH and (c) its reproduction result.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 401,
+      "topLeftY": 531,
+      "bottomRightX": 720,
+      "bottomRightY": 638,
+      "content": "the average RMSE with 100 patterns was 0.153, which was 20% worse than that of the previous simulation in Fig. 2. The hologram with 3D-DGH and its experimental result are shown in Figs. 5(b) and 5(c), respectively. This degradation due to lateral overlapping might be caused by strong interference from other layers and the high sensitivity of 3D-DGH against untrained geometries.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 401,
+      "topLeftY": 639,
+      "bottomRightX": 721,
+      "bottomRightY": 747,
+      "content": "Although the network adapted or overfitted the given training class, as shown by the results in the previous two paragraphs, optical patterns formed by CGH can be assumed in several applications, such as in laser processing and optical tweezers. This limited generalization performance might be improved by investigating the network architecture and increasing the computational power.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 402,
+      "topLeftY": 769,
+      "bottomRightX": 516,
+      "bottomRightY": 783,
+      "content": "## 4. CONCLUSION",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 400,
+      "topLeftY": 791,
+      "bottomRightX": 721,
+      "bottomRightY": 960,
+      "content": "In summary, we proposed and demonstrated 3D-DGH, in which a hologram is noniteratively and directly calculated with a deep convolutional neural network to optically reproduce a 3D target pattern in a given class. The network was trained with a loss between the target pattern and multislice propagation from the hologram synthesized by the network. The 3D-DGH method was numerically and experimentally compared with the 3D-GS method. In the demonstrations, the EMNIST database was used for the training and test data sets. U-Net was employed for the network architecture of 3D-DGH as a first trial, although U-Net was not optimized for this application.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

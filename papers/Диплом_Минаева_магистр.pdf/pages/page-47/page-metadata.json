@@ -1,0 +1,39 @@
+{
+  "index": 46,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 108,
+      "topLeftY": 64,
+      "bottomRightX": 659,
+      "bottomRightY": 814,
+      "content": "![img-61.jpeg](img-61.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-61.jpeg"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 820,
+      "bottomRightX": 672,
+      "bottomRightY": 902,
+      "content": "Рис. 4.5. Результаты оптического восстановления сечений сцен с ДОЭ, синтезированных методами суперпозиций (а-д), последовательный (е-к) и глобальный «пинг-понг» (л-п), на основе невыпуклой оптимизации (р-ф)",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 649,
+      "topLeftY": 983,
+      "bottomRightX": 671,
+      "bottomRightY": 1001,
+      "content": "47",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

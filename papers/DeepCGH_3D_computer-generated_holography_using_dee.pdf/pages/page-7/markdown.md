@@ -1,0 +1,25 @@
+Research Article
+
+Vol. 28, No. 18/31 August 2020 / Optics Express 26642
+
+Optics EXPRESS
+
+We selected simulation parameters matching our experimental capabilities with a laser wavelength $\lambda = 1035\mathrm{nm}$, a $f = 200\mathrm{mm}$ SLM lens, and a SLM with a pixel size of $p_s = 9.2\mu\mathrm{m}$. In this configuration, the accessible window in the image plane is a square of size $X = f\lambda/p_s = 22.5\mathrm{mm}$. Adjacent depth planes are separated by $10\mathrm{mm}$, hence the total depth of the volume of interest is determined by the number of depth planes, $p$, and is equal to $20\mathrm{mm}$, $60\mathrm{mm}$, and $100\mathrm{mm}$ for $p = 3$, $p = 7$, and $p = 11$, respectively.
+
+We compared DeepCGH to two other existing CGH techniques. First, we considered Global Gerchberg-Saxton (GS), the simplest and most commonly used 3D variation of the Gerchberg-Saxton algorithm [9,38]. Second, we implemented Non-Convex Optimization for Volumetric CGH (NOVO-CGH) [10], one of the current state of the art CGH algorithms that yields holograms with very high accuracy by performing direct optimization of the phase in a forward model. We implemented DeepCGH in Python programming language using Tensorflow 2.0 deep learning framework [39] as we show in Code 1 [40] and trained our models with Nvidia GeForce RTX 2080Ti GPUs. The GS and NOVO-CGH algorithms were implemented with MATLAB and CUDA GPU libraries. All methods were tested on an Nvidia Titan RTX GPU.
+
+### 3.1. Simulation results and computation speed
+
+We compared the performance of DeepCGH with GS and NOVO-CGH by recording the computation time needed to yield the SLM phase mask and by measuring the accuracy of the simulated illumination patterns that different CGH techniques yield. Simulation results are shown in Fig. 3. An example target intensity pattern for $m = 512$ and $p = 7$ at depth $z = -30\mathrm{mm}$ is shown along with the simulated reconstructions obtained with all three algorithms (Fig. 3(a)). Supplementary Visualization 1 and Visualization 2 show 3D reconstructions of the simulated intensity pattern at different $z$ values for the $512^{2+}7$ and $1024^{2+}11$ models respectively. Supplementary Visualization 3 shows projection views of a sample from the $1024^{2+}11$ DeepCGH model.
+
+All CGH algorithms yield approximate solutions that place a significant amount of light in off-target locations. At each plane, we observe diffused patterns, in addition to the desired targets, that correspond to the footprint of photons focused on targets in adjacent planes. A qualitative comparison of the reconstructed images in Fig. 3(a) indicates that DeepCGH identifies solutions that spread the energy of these footprints more efficiently across space.
+
+To quantitatively validate this observation, we measured the average accuracy of simulated reconstructions as well as the computation time of DeepCGH, $T_{DeepCGH}$, for 1,000 test samples. We compared those results to simulations of iterative CGH techniques on the same testing dataset for up to 3,500 iterations per sample.
+
+Simulation results for the 512 pixels model with 7 planes and 1024 pixels model with 11 planes are shown in Fig. 3(b). Holograms generated with DeepCGH (in green) achieve significantly higher accuracy than existing techniques even after a large number of iterations.
+
+Figure 3(c) shows the computation time for DeepCGH, $T_{DeepCGH}$, for six models with various resolutions and number of depth planes. We observed slight variations across samples, which can be attributed to the multi-threaded nature of operations by the operating system. The computation time increases with $p$ and $m$, partly due to data transfer latency. Larger $p$ and $m$ values also increase the computation complexity of the first convolutional layer as well as the Fourier transform at the output of the model.
+
+We also compared $T_{DeepCGH}$ to the computation time, $T$, required for iterative methods to reach 95% of their maximum accuracy. The speed gain factor, $T/T_{DeepCGH}$, (Fig. 3(d)) shows that DeepCGH is at least ten times faster than the iterative algorithms.
+
+The accuracy (Fig. 3(e), in green), of DeepCGH is consistently higher than the maximum achievable accuracy of GS (red) and NOVO-CGH (blue) for all $m$ and $p$, except for $m = 512$ and $p = 11$ where NOVO-CGH slightly outperforms DeepCGH. In this particular case, all

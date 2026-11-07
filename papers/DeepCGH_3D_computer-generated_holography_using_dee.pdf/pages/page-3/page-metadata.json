@@ -1,0 +1,147 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 177,
+      "topLeftY": 43,
+      "bottomRightX": 250,
+      "bottomRightY": 53,
+      "content": "Research Article",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 409,
+      "topLeftY": 42,
+      "bottomRightX": 635,
+      "bottomRightY": 54,
+      "content": "Vol. 28, No. 18/31 August 2020 / Optics Express 26638",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 65,
+      "bottomRightX": 285,
+      "bottomRightY": 81,
+      "content": "Optics EXPRESS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 122,
+      "bottomRightX": 641,
+      "bottomRightY": 154,
+      "content": "CGH application in neural photostimulation with a holographic multiphoton microscope and demonstrate enhanced two-photon absorption in holograms generated with DeepCGH.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 147,
+      "topLeftY": 167,
+      "bottomRightX": 229,
+      "bottomRightY": 181,
+      "content": "## 2. Methods",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 147,
+      "topLeftY": 189,
+      "bottomRightX": 262,
+      "bottomRightY": 206,
+      "content": "### 2.1. Optical setup",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 211,
+      "bottomRightX": 644,
+      "bottomRightY": 350,
+      "content": "Our CGH setup is based on the standard Fourier holography configuration shown in Fig. 1. A collimated laser beam propagating along the optical axis, z, illuminates the active surface of an SLM with a static amplitude profile, $A_{Laser}(x,y)$. A computer controlling the SLM applies a custom phase pattern, $\\phi_{SLM}(x,y)$, to the laser beam. The modulated complex wave, $P_{SLM}(x,y) = A_{Laser}(x,y)e^{i\\phi_{SLM}(x,y)}$, propagates through the optical system that consists of a single lens and renders a volumetric image that is defined by its complex field, $P(x,y,z)$, in the image space. We define the center of this image, z = 0, at a distance f from the other side of the lens. In this f-f configuration, the task of a CGH algorithm is to identify the phase modulation, $\\phi_{SLM}$, for which $|P(x,y,z)|^2$ best matches the desired target intensity distribution.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 217,
+      "topLeftY": 359,
+      "bottomRightX": 573,
+      "bottomRightY": 510,
+      "content": "![img-0.jpeg](img-0.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-0.jpeg"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 519,
+      "bottomRightX": 607,
+      "bottomRightY": 563,
+      "content": "Fig. 1. Optical set up for Fourier holography. A SLM modulates a collimated coherent wave in the pupil plane of a thin lens to render a 3D intensity pattern discretized as a series of parallel planes along the optical axis.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 579,
+      "bottomRightX": 641,
+      "bottomRightY": 625,
+      "content": "The complex field at the center of the image plane, $P(x,y,z=0)$, is a 2D “Optical” Fourier Transform (FT) of the field at the SLM plane, $P_{SLM}(x,y)$ (see Fig. 1), and is expressed using the Fraunhofer wave propagation model [25]:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 635,
+      "bottomRightX": 641,
+      "bottomRightY": 671,
+      "content": "$$P(x,y,z=0) = \\frac{1}{i\\lambda f} \\iint P_{SLM}(x',y') \\exp \\left[ \\frac{2i\\pi(xx' + yy')}{\\lambda f} \\right] dx'dy'. \\tag{1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 680,
+      "bottomRightX": 641,
+      "bottomRightY": 727,
+      "content": "The phase and amplitude of the wave in the image plane, $P(x,y,z=0)$, fully determines the intensity distribution in the entire 3D volume. The field at any location x, y, z is determined by the Fresnel wave propagation equation [25]:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 736,
+      "bottomRightX": 640,
+      "bottomRightY": 773,
+      "content": "$$P(x,y,z) = \\iint \\frac{P(x',y',0)}{\\sqrt{i\\lambda z}} \\exp \\left[ \\frac{i\\pi((x-x')^2 + (y-y')^2)}{\\lambda z} \\right] dx'dy'. \\tag{2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 782,
+      "bottomRightX": 642,
+      "bottomRightY": 873,
+      "content": "The volume of interest is decomposed into a series of adjacent planes at predetermined depths around z = 0 (e.g. $P_{z=0}$, $P_{z=z_1}$, and $P_{z=z_2}$ in Fig. 1) and discretized into $m \\times m \\times p$ voxels, where m is the edge length of the square hologram and p is the number of planes defining the volume. Naturally, propagation to planes located before z = 0 correspond to negative values for z in Eq. (2). We note that our method can be implemented with any holographic setup as long as it can be modeled with a differentiable transfer function from the SLM plane to the image plane.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 875,
+      "bottomRightX": 641,
+      "bottomRightY": 905,
+      "content": "The SLM pixel size, $p_s$, the wavelength $\\lambda$, and the focal length of the lens, f, determine the span, $L = \\lambda f/p_s$, of the addressable window in the (x, y) domain.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}
