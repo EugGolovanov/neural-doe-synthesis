@@ -1,0 +1,407 @@
+[
+  {
+    "step": 0,
+    "validation_objective": 0.07039415783623865,
+    "metrics": {
+      "planes": [
+        {
+          "plane": 1,
+          "ssim": 0.08101268052779996,
+          "pearson": 0.5761066845701899,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.16209833616270983,
+          "amplitude_rmse": 0.402694689233516,
+          "intensity_mse": 0.06720304666014179,
+          "intensity_nrmse": 0.8292840045986641,
+          "useful_efficiency": 0.3047848761325525,
+          "useful_power_A0_squared_m2": 4.993595410555741e-07,
+          "fov_efficiency": 0.9546945354630053,
+          "guard_efficiency": 0.6499096593304527,
+          "guard_power_A0_squared_m2": 1.064811985847014e-06,
+          "spectral_residual": 0.019064752704164762,
+          "guard_loss": 0.3124116827759104,
+          "fixed_scale_maximum": 0.8986992457050619
+        },
+        {
+          "plane": 2,
+          "ssim": 0.10566373437721549,
+          "pearson": 0.5916661121902549,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.1841338362009455,
+          "amplitude_rmse": 0.4291845419180565,
+          "intensity_mse": 0.08509405538958387,
+          "intensity_nrmse": 0.8225465035674155,
+          "useful_efficiency": 0.35952068071683596,
+          "useful_power_A0_squared_m2": 5.890386832864641e-07,
+          "fov_efficiency": 0.9539478035268454,
+          "guard_efficiency": 0.5944271228100094,
+          "guard_power_A0_squared_m2": 9.739093980119196e-07,
+          "spectral_residual": 0.024436723028960772,
+          "guard_loss": 0.316578752428634,
+          "fixed_scale_maximum": 1.2676550664182784
+        },
+        {
+          "plane": 3,
+          "ssim": 0.02527140128914074,
+          "pearson": 0.31374800836429445,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.13262069820704347,
+          "amplitude_rmse": 0.36425231067746544,
+          "intensity_mse": 0.05593381282961994,
+          "intensity_nrmse": 0.9520081860112064,
+          "useful_efficiency": 0.17799872254900467,
+          "useful_power_A0_squared_m2": 2.916331070242893e-07,
+          "fov_efficiency": 0.9531032868768934,
+          "guard_efficiency": 0.7751045643278887,
+          "guard_power_A0_squared_m2": 1.2699313181948131e-06,
+          "spectral_residual": 0.015281040207450122,
+          "guard_loss": 0.44363994014543345,
+          "fixed_scale_maximum": 0.703958457930123
+        },
+        {
+          "plane": 4,
+          "ssim": 0.04578747706326883,
+          "pearson": 0.4045002531875948,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.15166690415463013,
+          "amplitude_rmse": 0.3895199928559485,
+          "intensity_mse": 0.06570863375231341,
+          "intensity_nrmse": 0.9273970362911139,
+          "useful_efficiency": 0.2915910124359181,
+          "useful_power_A0_squared_m2": 4.777427147750083e-07,
+          "fov_efficiency": 0.9524535653346718,
+          "guard_efficiency": 0.6608625528987537,
+          "guard_power_A0_squared_m2": 1.0827572066693183e-06,
+          "spectral_residual": 0.018642992631038795,
+          "guard_loss": 0.40032115266945756,
+          "fixed_scale_maximum": 1.0613881177405724
+        }
+      ],
+      "mean_ssim": 0.06443382331435625,
+      "min_ssim": 0.02527140128914074,
+      "mean_eta": 0.2834738229585778,
+      "min_eta": 0.17799872254900467
+    },
+    "training_terms": {
+      "amplitude": [
+        0.16209968636106462,
+        0.1841390759268038,
+        0.13262273300097027,
+        0.15167230869990678
+      ],
+      "ssim_loss": [
+        0.9190370277952066,
+        0.8944863152487671,
+        0.9747466251844578,
+        0.9542459617180293
+      ],
+      "efficiency_loss": [
+        0.0020439963738243545,
+        0.0,
+        0.02958360785674865,
+        0.0034112711828715317
+      ],
+      "guard": [
+        0.31242792536992786,
+        0.3166242093558725,
+        0.44369427538428635,
+        0.40037080388718704
+      ],
+      "frequency": [
+        0.01907314538050069,
+        0.024462715772416054,
+        0.01528748926001834,
+        0.018655965970127183
+      ],
+      "ssim": [
+        0.08096297220479347,
+        0.10551368475123295,
+        0.02525337481554226,
+        0.04575403828197067
+      ],
+      "efficiency": [
+        0.30478942188133007,
+        0.3595236652198933,
+        0.17800113995508965,
+        0.29159391142293867
+      ]
+    },
+    "selection_key": [
+      true,
+      -0.0,
+      0.07319999459760627
+    ],
+    "intensity_change": 1.0,
+    "elapsed_seconds": 0.16942608300087159
+  },
+  {
+    "step": 1,
+    "validation_objective": 0.06963336573156659,
+    "metrics": {
+      "planes": [
+        {
+          "plane": 1,
+          "ssim": 0.08127094346772584,
+          "pearson": 0.5766621639762926,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.16204983697798045,
+          "amplitude_rmse": 0.4026344581683537,
+          "intensity_mse": 0.06714454444888926,
+          "intensity_nrmse": 0.8289229680575074,
+          "useful_efficiency": 0.3049416694343,
+          "useful_power_A0_squared_m2": 4.996164312011572e-07,
+          "fov_efficiency": 0.954681729300081,
+          "guard_efficiency": 0.649740059865781,
+          "guard_power_A0_squared_m2": 1.0645341140840958e-06,
+          "spectral_residual": 0.01905795157482607,
+          "guard_loss": 0.3120912708300279,
+          "fixed_scale_maximum": 0.9029743150481382
+        },
+        {
+          "plane": 2,
+          "ssim": 0.10579740190719997,
+          "pearson": 0.5913353946440789,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.18413076181951593,
+          "amplitude_rmse": 0.42918095131347583,
+          "intensity_mse": 0.08515056206834426,
+          "intensity_nrmse": 0.8228195641075322,
+          "useful_efficiency": 0.3596194167785083,
+          "useful_power_A0_squared_m2": 5.892004524499081e-07,
+          "fov_efficiency": 0.953931948958016,
+          "guard_efficiency": 0.5943125321795077,
+          "guard_power_A0_squared_m2": 9.737216527229056e-07,
+          "spectral_residual": 0.024452353043611576,
+          "guard_loss": 0.316432695345558,
+          "fixed_scale_maximum": 1.3077837632244094
+        },
+        {
+          "plane": 3,
+          "ssim": 0.02550259245091945,
+          "pearson": 0.31466549455331166,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.13257891372804803,
+          "amplitude_rmse": 0.36419493380511436,
+          "intensity_mse": 0.055905004985467965,
+          "intensity_nrmse": 0.9517629958997109,
+          "useful_efficiency": 0.17825228943642007,
+          "useful_power_A0_squared_m2": 2.920485510126307e-07,
+          "fov_efficiency": 0.9530775796488149,
+          "guard_efficiency": 0.7748252902123949,
+          "guard_power_A0_squared_m2": 1.269473755483988e-06,
+          "spectral_residual": 0.015273729409212563,
+          "guard_loss": 0.442460182967602,
+          "fixed_scale_maximum": 0.7177720063895082
+        },
+        {
+          "plane": 4,
+          "ssim": 0.045600258754841125,
+          "pearson": 0.40447012464762266,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.15166869469886235,
+          "amplitude_rmse": 0.38952227941545164,
+          "intensity_mse": 0.06575673757315333,
+          "intensity_nrmse": 0.9277364374974715,
+          "useful_efficiency": 0.2918445792012406,
+          "useful_power_A0_squared_m2": 4.781581585633127e-07,
+          "fov_efficiency": 0.9524381654513053,
+          "guard_efficiency": 0.6605935862500647,
+          "guard_power_A0_squared_m2": 1.0823165317121062e-06,
+          "spectral_residual": 0.018671974629914705,
+          "guard_loss": 0.39936795614422654,
+          "fixed_scale_maximum": 1.0752238304192163
+        }
+      ],
+      "mean_ssim": 0.0645427991451716,
+      "min_ssim": 0.02550259245091945,
+      "mean_eta": 0.28366448871261724,
+      "min_eta": 0.17825228943642007
+    },
+    "training_terms": {
+      "amplitude": [
+        0.16205123262468252,
+        0.1841360455681933,
+        0.13258095390575417,
+        0.15167416764950636
+      ],
+      "ssim_loss": [
+        0.9187790346120215,
+        0.8943513541380727,
+        0.9745157126822687,
+        0.9544327529817183
+      ],
+      "efficiency_loss": [
+        0.0020298417466937356,
+        0.0,
+        0.029496446745949135,
+        0.0033817014841312043
+      ],
+      "guard": [
+        0.31210741511849255,
+        0.3164774709589253,
+        0.44251435765904606,
+        0.3994174538903801
+      ],
+      "frequency": [
+        0.019066411166123114,
+        0.02447842212163434,
+        0.015280183833193264,
+        0.01868502210670992
+      ],
+      "ssim": [
+        0.08122096538797846,
+        0.10564864586192732,
+        0.025484287317731384,
+        0.045567247018281735
+      ],
+      "efficiency": [
+        0.30494623493320744,
+        0.35962257916256596,
+        0.17825470386077777,
+        0.2918476012177382
+      ]
+    },
+    "selection_key": [
+      true,
+      -0.0,
+      0.07338914466930724
+    ],
+    "intensity_change": 0.01510526158732493,
+    "elapsed_seconds": 0.40850850000060746
+  },
+  {
+    "step": 2,
+    "validation_objective": 0.06886037892528808,
+    "metrics": {
+      "planes": [
+        {
+          "plane": 1,
+          "ssim": 0.08143831505261545,
+          "pearson": 0.5772753010810778,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.16201403501566194,
+          "amplitude_rmse": 0.4025900006457938,
+          "intensity_mse": 0.06708390503389774,
+          "intensity_nrmse": 0.8285485760775775,
+          "useful_efficiency": 0.30508852759311905,
+          "useful_power_A0_squared_m2": 4.998570436085664e-07,
+          "fov_efficiency": 0.954675829112792,
+          "guard_efficiency": 0.6495873015196729,
+          "guard_power_A0_squared_m2": 1.0642838348098322e-06,
+          "spectral_residual": 0.01905260903258698,
+          "guard_loss": 0.3116408883535908,
+          "fixed_scale_maximum": 0.9155856340788269
+        },
+        {
+          "plane": 2,
+          "ssim": 0.10583946760248668,
+          "pearson": 0.5912516704519031,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.18414838033850783,
+          "amplitude_rmse": 0.42920148604938363,
+          "intensity_mse": 0.08517184364439027,
+          "intensity_nrmse": 0.8229223808283957,
+          "useful_efficiency": 0.35964555237791485,
+          "useful_power_A0_squared_m2": 5.892432730159757e-07,
+          "fov_efficiency": 0.9539268796276303,
+          "guard_efficiency": 0.5942813272497155,
+          "guard_power_A0_squared_m2": 9.736705265659342e-07,
+          "spectral_residual": 0.024466378788890457,
+          "guard_loss": 0.316291869744172,
+          "fixed_scale_maximum": 1.3242637016532637
+        },
+        {
+          "plane": 3,
+          "ssim": 0.025728201494466474,
+          "pearson": 0.31573899471531935,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.13254596676516178,
+          "amplitude_rmse": 0.36414969781967504,
+          "intensity_mse": 0.05586422236838313,
+          "intensity_nrmse": 0.9514157777270983,
+          "useful_efficiency": 0.1784907494142408,
+          "useful_power_A0_squared_m2": 2.924392438402922e-07,
+          "fov_efficiency": 0.9530753993408256,
+          "guard_efficiency": 0.7745846499265848,
+          "guard_power_A0_squared_m2": 1.2690794904397168e-06,
+          "spectral_residual": 0.015265095240896764,
+          "guard_loss": 0.4410766898370285,
+          "fixed_scale_maximum": 0.732782895188365
+        },
+        {
+          "plane": 4,
+          "ssim": 0.045711482592589656,
+          "pearson": 0.40498557339200664,
+          "pearson_status": "defined",
+          "amplitude_mse_epsilon": 0.1516522785171343,
+          "amplitude_rmse": 0.3895012094836703,
+          "intensity_mse": 0.0657507404375695,
+          "intensity_nrmse": 0.927694130896892,
+          "useful_efficiency": 0.2921173625165705,
+          "useful_power_A0_squared_m2": 4.786050867471492e-07,
+          "fov_efficiency": 0.9524335179509713,
+          "guard_efficiency": 0.6603161554344008,
+          "guard_power_A0_squared_m2": 1.0818619890637225e-06,
+          "spectral_residual": 0.01868619986765354,
+          "guard_loss": 0.39802248465490075,
+          "fixed_scale_maximum": 1.0845119741594194
+        }
+      ],
+      "mean_ssim": 0.06467936668553956,
+      "min_ssim": 0.025728201494466474,
+      "mean_eta": 0.2838355479754613,
+      "min_eta": 0.1784907494142408
+    },
+    "training_terms": {
+      "amplitude": [
+        0.1620154702841058,
+        0.18415360771922656,
+        0.1325480118616119,
+        0.15165774957854572
+      ],
+      "ssim_loss": [
+        0.9186121266841493,
+        0.8943092897209748,
+        0.9742898908977217,
+        0.954321035677441
+      ],
+      "efficiency_loss": [
+        0.002016641951756329,
+        0.0,
+        0.029414682355322734,
+        0.0033500201117884435
+      ],
+      "guard": [
+        0.31165713671635176,
+        0.31633739784200166,
+        0.4411325214867128,
+        0.39807024868836816
+      ],
+      "frequency": [
+        0.019060964284832546,
+        0.024492392342647176,
+        0.01527157436392388,
+        0.01869923404544479
+      ],
+      "ssim": [
+        0.08138787331585075,
+        0.10569071027902527,
+        0.02571010910227832,
+        0.04567896432255902
+      ],
+      "efficiency": [
+        0.30509296322672436,
+        0.3596486299771273,
+        0.17849290873167156,
+        0.29212064174691943
+      ]
+    },
+    "selection_key": [
+      true,
+      -0.0,
+      0.07358733888754915
+    ],
+    "intensity_change": 0.019401524842750085,
+    "elapsed_seconds": 0.6421076669976173
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "status": "completed",
+  "success": false,
+  "budgets": {
+    "original_loss": {
+      "status": "budget_exhausted",
+      "updates": 2,
+      "best_selection_key": [
+        true,
+        -0.0,
+        0.07358733888754915
+      ],
+      "elapsed_seconds": 0.6239877080006409,
+      "best_is_not_necessarily_last": true
+    },
+    "full_loss": {
+      "status": "budget_exhausted",
+      "updates": 2,
+      "best_selection_key": [
+        true,
+        -0.0,
+        0.07384301736068262
+      ],
+      "elapsed_seconds": 0.8428268329989805,
+      "best_is_not_necessarily_last": true
+    },
+    "adjoint_gs": {
+      "status": "budget_exhausted",
+      "updates": 2,
+      "step_size": 0.06250698087273003,
+      "best_selection_key": [
+        true,
+        -0.0,
+        0.34779315438630837
+      ],
+      "elapsed_seconds": 0.38790050000170595
+    }
+  }
+}

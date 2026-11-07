@@ -1,0 +1,57 @@
+{
+  "example": 1,
+  "method": "unet",
+  "seconds": 0.017073458000595565,
+  "metrics": [
+    {
+      "plane": 1,
+      "z_m": 0.0241,
+      "output_pitch_m": 1.00165625e-05,
+      "maximum": 14.515126768634444,
+      "pearson": 0.04059372834564148,
+      "pearson_status": "defined",
+      "ssim": 0.01426615560167158
+    },
+    {
+      "plane": 2,
+      "z_m": 0.0253,
+      "output_pitch_m": 1.05153125e-05,
+      "maximum": 17.897096921076688,
+      "pearson": 0.0422363024598246,
+      "pearson_status": "defined",
+      "ssim": 0.023114348825838092
+    },
+    {
+      "plane": 3,
+      "z_m": 0.0265,
+      "output_pitch_m": 1.1014062500000001e-05,
+      "maximum": 8.667755019265348,
+      "pearson": 0.05190032633503746,
+      "pearson_status": "defined",
+      "ssim": 0.009604943822071247
+    },
+    {
+      "plane": 4,
+      "z_m": 0.0277,
+      "output_pitch_m": 1.15128125e-05,
+      "maximum": 6.7332637465757585,
+      "pearson": 0.0549107300262401,
+      "pearson_status": "defined",
+      "ssim": 0.009870492176490435
+    }
+  ],
+  "continuous_loss_per_plane": [
+    0.09122067353499508,
+    0.06390393437728695,
+    0.1375756693922609,
+    0.16032650902821347
+  ],
+  "quantized_loss_per_plane": [
+    0.09122462176490706,
+    0.0639035204528155,
+    0.1375428110864529,
+    0.16034789009892256
+  ],
+  "optimization_propagations": 24,
+  "diagnostic_propagations": 0
+}

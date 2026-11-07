@@ -1,0 +1,11 @@
+{
+  "status": "budget_exhausted",
+  "updates": 2,
+  "best_selection_key": [
+    true,
+    -0.0,
+    0.07384301736068262
+  ],
+  "elapsed_seconds": 0.8428268329989805,
+  "best_is_not_necessarily_last": true
+}

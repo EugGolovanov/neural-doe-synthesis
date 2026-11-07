@@ -1,0 +1,6 @@
+{
+  "seconds_including_validation_and_checkpoints": 7.544903040999998,
+  "selected_epoch": 10,
+  "validation_loss": 0.08238997062047322,
+  "parameters": 2000
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "plane": 1,
+    "z_m": 0.0241,
+    "output_pitch_m": 1.00165625e-05,
+    "maximum": 90.1948676222166,
+    "pearson": 0.3246824174982602,
+    "pearson_status": "defined",
+    "ssim": 0.7470360961306511
+  },
+  {
+    "plane": 2,
+    "z_m": 0.0253,
+    "output_pitch_m": 1.05153125e-05,
+    "maximum": 41.03916294976376,
+    "pearson": 0.5712351507648861,
+    "pearson_status": "defined",
+    "ssim": 0.7154730857258673
+  },
+  {
+    "plane": 3,
+    "z_m": 0.0265,
+    "output_pitch_m": 1.1014062500000001e-05,
+    "maximum": 64.83623970543165,
+    "pearson": 0.5531233779326181,
+    "pearson_status": "defined",
+    "ssim": 0.7679606828463599
+  },
+  {
+    "plane": 4,
+    "z_m": 0.0277,
+    "output_pitch_m": 1.15128125e-05,
+    "maximum": 54.50972761115597,
+    "pearson": 0.3260643850319633,
+    "pearson_status": "defined",
+    "ssim": 0.7295859621622466
+  }
+]
