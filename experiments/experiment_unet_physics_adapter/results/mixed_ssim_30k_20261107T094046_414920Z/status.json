@@ -1,5 +1,0 @@
-{
-  "status": "failed",
-  "reason": "MPS out of memory during first batch with whole-model activation checkpointing; no optimizer step completed.",
-  "log": "../launch_mixed_ssim_20261107T094045533156Z.log"
-}
