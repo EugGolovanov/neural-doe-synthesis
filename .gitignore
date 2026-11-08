@@ -1,5 +1,10 @@
 .DS_Store
 
+# Archived experiments and generated synthesis runs.
+/experiments/
+/docs/
+/results/
+
 # Local agent instructions and Python caches.
 [Aa][Gg][Ee][Nn][Tt][Ss].[Mm][Dd]
 __pycache__/
