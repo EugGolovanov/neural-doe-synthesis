@@ -14,26 +14,20 @@ import torch
 import torchvision
 from torch.utils.checkpoint import checkpoint
 
-from experiments.experiment_gs_muon.evaluate import export_result
-from experiments.experiment_gs_muon.physics import fresnel_factors
-from experiments.experiment_unrolled_cnn.algorithms import initial_momenta, update_muon
-from .experiment import CONFIG, build_model
-from .mixed_data import prepare_mixed
+from phase_initializer.evaluate import export_result
+from phase_initializer.physics import fresnel_factors
+from .algorithms import initial_momenta, update_muon
+from .models import build_model
+from .data import prepare_mixed
 from .physics import structural_losses
-from .train_mnist import save_json
 
 
-RUN = {**CONFIG, 'epochs': 3, 'device': 'mps', 'dtype': 'float32',
-       'batch_size': 256, 'microbatch_size': 256, 'ssim_weight': 0.5,
-       'split_sizes': {'train': 27000, 'validation': 99, 'test': 99},
-       'data_seed': 2026, 'threads': 1, 'checkpoint_every_epochs': 5,
-       'activation_checkpointing': True,
-       'preprocessing': 'Pillow L grayscale then BILINEAR 128x128 uint8 PNG; intensity=uint8/255',
-       'mixture': 'Equal individual-image counts from CIFAR-10, Fashion-MNIST and MNIST; shuffled into fixed quadruples',
-       'batch_convention': '256 quadruples = 1024 images; final batch 120 quadruples',
-       'loss': 'mean over examples and planes of max-normalized MSE + 0.5*(1-SSIM); epsilon=1e-12',
-       'inner_solver': 'Unchanged GS+Muon MSE steps with full higher-order gradients',
-       'selection': 'Fixed 3 epochs from seed 17; final checkpoint; no test tuning'}
+RUN = json.loads(Path(__file__).with_name('config.json').read_text())
+
+
+def save_json(path: Path, value) -> None:
+    """Save actual run parameters and numerical results without nonfinite JSON values."""
+    path.write_text(json.dumps(value, indent=2, allow_nan=False) + '\n')
 
 
 def main() -> None:
@@ -43,21 +37,20 @@ def main() -> None:
     torch.set_num_threads(RUN['threads'])
     torch.manual_seed(RUN['seed'])
     torch.use_deterministic_algorithms(True)
-    root = Path(__file__).resolve().parents[2]
+    root = Path(__file__).resolve().parents[1]
     stamp = datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%S_%fZ')
     output = Path(__file__).resolve().parent / 'results' / f'mixed_ssim_27k_3ep_{stamp}'
     output.mkdir(parents=True, exist_ok=False)
     print(f'OUTPUT={output}', flush=True)
     save_json(output / 'parameters.json', RUN)
     save_json(output / 'status.json', {'status': 'preparing'})
-    for name in ('experiment_unet_physics_adapter', 'experiment_unrolled_cnn',
-                 'experiment_gs_muon', 'experiment_single_sample'):
-        destination = output / 'source' / 'experiments' / name
+    for name in ('pretraining_27k', 'phase_initializer'):
+        destination = output / 'source' / name
         destination.mkdir(parents=True)
-        for path in (root / 'experiments' / name).iterdir():
-            if path.suffix in ('.py', '.md'):
+        for path in (root / name).iterdir():
+            if path.is_file() and path.suffix in ('.py', '.md', '.json') and path.name != 'manifest.json':
                 shutil.copy2(path, destination / path.name)
-    shutil.copytree(root / 'docs', output / 'source' / 'docs', ignore=shutil.ignore_patterns('papers'))
+    shutil.copytree(root / 'phase_initializer/docs', output / 'source/phase_initializer/docs')
     (output / 'source' / 'working_tree.diff').write_bytes(
         subprocess.check_output(['git', 'diff', 'HEAD', '--binary'], cwd=root))
     save_json(output / 'environment.json', {

@@ -5,8 +5,8 @@ from torch import nn
 from torch.nn import functional as F
 from torch.utils.checkpoint import checkpoint
 
-from experiments.experiment_gs_muon.physics import fresnel_factors
-from .algorithms import gs_muon
+from phase_initializer.physics import fresnel_factors
+from phase_initializer.algorithms import gs_muon
 
 
 def convolution_block(in_channels: int, out_channels: int) -> nn.Sequential:
@@ -104,3 +104,11 @@ class PhysicsAdapterUNet(nn.Module):
             features = self.adapter(features, target, factors)
             phi = self.head(features)[:, 0]
         return phi if outer_grad else phi.detach()
+
+
+def build_model(config: dict) -> PhysicsAdapterUNet:
+    """Создаёт совместно обучаемую основу и адаптер с явно заданными параметрами."""
+    return PhysicsAdapterUNet(config['width'], config['rank'], config['alpha'],
+                              config['steps'], config['loss_epsilon'],
+                              config['phase_muon']).to(device=config['device'],
+                                                       dtype=getattr(torch, config['dtype']))

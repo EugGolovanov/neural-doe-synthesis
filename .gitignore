@@ -26,5 +26,15 @@ experiments/**/data/
 
 # Published checkpoints for the fixed 27k pretraining run.
 !/inputs/network_phase/checkpoint_003.pt
-!/pretraining_27k/run/checkpoint_001.pt
-/pretraining_27k/source/experiments/*/results/
+
+# Local historical archive, training artifacts and numerical checks.
+/pretraining_27k/source/
+/pretraining_27k/run/
+/pretraining_27k/results/
+manifest.json
+verify.py
+verify_*.py
+verification_report.md
+investigate.py
+investigate_*.py
+investigation_report.md

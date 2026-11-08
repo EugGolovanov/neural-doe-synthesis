@@ -53,7 +53,6 @@ python3 -m pip install torch numpy pillow
 ```text
 inputs/network_phase/
 ├── checkpoint_003.pt
-├── manifest.json
 ├── target_1.png
 ├── target_2.png
 ├── target_3.png
@@ -62,7 +61,7 @@ inputs/network_phase/
 
 `checkpoint_003.pt` — исходные веса двухшаговой сети из запуска `mixed_ssim_27k_3ep_20261107T100359_750664Z`. Веса включены в репозиторий; обучение заново не требуется. Загружайте только доверенный checkpoint.
 
-Код предобучения на 27 000 четвёрках, параметры, история и точное разбиение сохранены в [pretraining_27k/](pretraining_27k/README.md). Там же приведена команда повторного обучения.
+Код одного предобучения на 27 000 четвёрках и его параметры находятся в [pretraining_27k/](pretraining_27k/README.md). Там же приведена команда повторного обучения.
 
 Из корня проекта:
 
@@ -103,7 +102,6 @@ run(config={**CONFIG, 'steps': 2, 'save_every': 2})
 | `phase_initializer/physics.py` | Френель, интенсивности, калибровка и amplitude+SSIM |
 | `phase_initializer/algorithms.py` | GS, направление Muon и внутренний GS+Muon |
 | `phase_initializer/evaluate.py` | Экспорт, повторное чтение и Pearson/SSIM |
-| `verify_network_phase.py` | Короткие численные проверки |
 
 ## Выходные файлы
 
@@ -137,13 +135,7 @@ source/                  Снимок использованного кода
 
 ## Проверки и выполненные запуски
 
-Численные проверки:
-
-```bash
-python3 verify_network_phase.py
-```
-
-Полученные невязки в float64:
+При локальной численной проверке получены следующие невязки в float64:
 
 | Проверка | Ошибка | Допуск |
 |---|---:|---:|
