@@ -38,3 +38,5 @@ verification_report.md
 investigate.py
 investigate_*.py
 investigation_report.md
+worktree.diff
+working_tree.diff
