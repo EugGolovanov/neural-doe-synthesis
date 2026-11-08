@@ -8,8 +8,8 @@
 
 `inputs/network_phase/checkpoint_003.pt` — исходный checkpoint из
 `mixed_ssim_27k_3ep_20261107T100359_750664Z` (27к, три эпохи).
-Он скопирован локально, но *.pt исключены из Git: при передаче проекта нужно
-отдельно передать этот файл. Загружать только доверенный checkpoint: используется
+Он включён в репозиторий как явное исключение из общего правила для *.pt.
+Точный архив кода и metadata предобучения: [pretraining_27k](../../pretraining_27k/README.md). Загружать только доверенный checkpoint: используется
 `torch.load(weights_only=False)` для исходного формата с metadata.
 Четыре `inputs/network_phase/target_{1,2,3,4}.png` скопированы из
 `four_planes_recalculation_20261108T012523_553245Z/data` без преобразований.

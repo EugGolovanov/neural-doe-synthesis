@@ -1,0 +1,53 @@
+{
+  "seed": 17,
+  "device": "mps",
+  "dtype": "float32",
+  "batch_size": 256,
+  "width": 8,
+  "rank": 2,
+  "alpha": 2.0,
+  "steps": 2,
+  "loss_epsilon": 1e-12,
+  "phase_muon": {
+    "lr": 0.1,
+    "momentum": 0.95,
+    "epsilon": 1e-12,
+    "ns_steps": 5,
+    "coefficients": [
+      3.4445,
+      -4.775,
+      2.0315
+    ],
+    "scale": 1.0
+  },
+  "weight_muon": {
+    "lr": 0.001,
+    "momentum": 0.95,
+    "epsilon": 1e-12,
+    "ns_steps": 5,
+    "coefficients": [
+      3.4445,
+      -4.775,
+      2.0315
+    ],
+    "scale": 1.0
+  },
+  "epochs": 3,
+  "microbatch_size": 256,
+  "ssim_weight": 0.5,
+  "split_sizes": {
+    "train": 27000,
+    "validation": 99,
+    "test": 99
+  },
+  "data_seed": 2026,
+  "threads": 1,
+  "checkpoint_every_epochs": 5,
+  "activation_checkpointing": true,
+  "preprocessing": "Pillow L grayscale then BILINEAR 128x128 uint8 PNG; intensity=uint8/255",
+  "mixture": "Equal individual-image counts from CIFAR-10, Fashion-MNIST and MNIST; shuffled into fixed quadruples",
+  "batch_convention": "256 quadruples = 1024 images; final batch 120 quadruples",
+  "loss": "mean over examples and planes of max-normalized MSE + 0.5*(1-SSIM); epsilon=1e-12",
+  "inner_solver": "Unchanged GS+Muon MSE steps with full higher-order gradients",
+  "selection": "Fixed 3 epochs from seed 17; final checkpoint; no test tuning"
+}

@@ -23,3 +23,8 @@ experiments/**/data/
 *.onnx
 *.h5
 *.hdf5
+
+# Published checkpoints for the fixed 27k pretraining run.
+!/inputs/network_phase/checkpoint_003.pt
+!/pretraining_27k/run/checkpoint_001.pt
+/pretraining_27k/source/experiments/*/results/
